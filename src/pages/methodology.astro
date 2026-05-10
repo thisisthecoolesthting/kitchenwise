@@ -1,28 +1,81 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
-import HowWeTest from '@/components/HowWeTest.astro';
 import home from '@/data/spawn-home.json';
 const b = home.brand;
-const tone = (home as { persona?: { tone?: string; ymyl?: boolean } }).persona?.tone ?? 'wellness';
-const methodology: string[] =
-  (home as { editorial?: { methodology?: string[] } }).editorial?.methodology ?? [];
+const methodology = [
+  {
+    title: 'We cook with retail-purchased gear',
+    bullet: home.editorial.methodology[0],
+    body:
+      'A one-night test can miss the problems that appear after repeated washing, reheating, sharpening, and storage. We buy the same retail units readers can buy and use them in normal meals before publishing a verdict.',
+  },
+  {
+    title: 'We test across real heat sources',
+    bullet: home.editorial.methodology[1],
+    body:
+      'Cookware has to handle more than one perfect burner and one photogenic recipe. We look for hot spots, warping, handle comfort, cleanup, and how the same pan behaves with delicate, sticky, and high-heat foods.',
+  },
+  {
+    title: 'We measure knife edge retention',
+    bullet: home.editorial.methodology[2],
+    body:
+      'A knife that feels good on day one still has to hold up after prep work, board contact, and normal home sharpening habits. Tomato and paper tests give us a repeatable way to compare edge feel over time.',
+  },
+  {
+    title: 'We record first-use friction',
+    bullet: home.editorial.methodology[3],
+    body:
+      'Seasoning, assembly, weird odors, confusing controls, and awkward first cleaning all affect whether gear becomes a daily tool. We document those details because they rarely fit inside a retailer star rating.',
+  },
+  {
+    title: 'We identify the value cliff',
+    bullet: home.editorial.methodology[4],
+    body:
+      'Some premium kitchen gear earns its price, and some simply photographs better. We compare budget, midrange, and high-end options so readers know when the cheaper pan, knife, board, or appliance is the smarter buy.',
+  },
+  {
+    title: 'We link to the lowest legitimate price',
+    bullet: home.editorial.methodology[5],
+    body:
+      'Affiliate revenue helps keep KitchenWise running, but commission rate does not decide the recommendation. We prioritize legitimate retailers, current pricing, availability, and clear disclosures.',
+  },
+];
 ---
 
 <BaseLayout
   title={`Methodology — ${b.fullName}`}
-  description={`How ${b.fullName} researches, tests, and discloses. Editorial tone: ${String(tone)}.`}
+  description={`How ${b.fullName} researches, tests, and discloses.`}
   ogType="article"
 >
-  <main class="max-w-3xl mx-auto px-4 py-10">
-    <div class="prose">
-      <h1>How {b.fullName} works</h1>
-      <p>
-        This page outlines how we test products, cite sources, and keep shopping fields current. When
-        we use affiliate links, we may earn a commission; that does not change the price you pay. See
-        the <a href="/disclosure">affiliate disclosure</a> and contact us if you spot something that
-        looks out of date.
+  <main class="max-w-3xl mx-auto px-6 py-12 md:py-16">
+    <header class="mb-10">
+      <p class="text-xs uppercase tracking-[0.2em] font-semibold text-accent-600 mb-3">
+        Methodology
       </p>
+      <h1 class="font-display text-4xl md:text-5xl text-ink-900 !mt-0 mb-4">
+        How we test
+      </h1>
+      <p class="text-lg text-ink-700 leading-relaxed">
+        KitchenWise reviews are based on regular cooking, cleanup, storage, and repeat use in a
+        real home kitchen. A tool has to earn its place after the first glossy impression wears off.
+      </p>
+    </header>
+
+    <div class="space-y-8">
+      {methodology.map((item, index) => (
+        <section>
+          <p class="text-sm font-semibold text-accent-600 mb-2">Step {index + 1}</p>
+          <h2 class="font-display text-2xl text-ink-900 mt-0 mb-3">{item.title}</h2>
+          <p class="font-semibold text-ink-800 leading-relaxed">{item.bullet}</p>
+          <p class="text-ink-700 leading-relaxed">{item.body}</p>
+        </section>
+      ))}
     </div>
-    <HowWeTest methodology={methodology} title="Our review process" />
+
+    <p class="mt-10 border-t border-ink-100 pt-6 text-ink-700 leading-relaxed">
+      KitchenWise does not accept sponsorships, paid placements, or manufacturer samples. If you
+      spot a mistake, changed price, or durability issue we missed, email
+      <a href="mailto:hello@kitchenwise.app"> hello@kitchenwise.app</a> and we will review it.
+    </p>
   </main>
 </BaseLayout>
