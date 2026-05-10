@@ -1,0 +1,79 @@
+{
+  "brand": {
+    "shortName": "KitchenWise",
+    "fullName": "KitchenWise",
+    "taglineShort": "The right kitchen gear lasts 30 years. Buy it once.",
+    "identity": {
+      "palette": {
+        "primary": "#3D405B",
+        "accent": "#E07A5F",
+        "cream": "#FAF8F4",
+        "ink": "#1A1A2E"
+      },
+      "fonts": {
+        "display": "Lora",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "mark": {
+        "svgPath": "brand/kitchenwise.svg",
+        "svgPublicPath": "/brand/kitchenwise.svg",
+        "sizeRem": 1.75,
+        "position": "left-of-wordmark"
+      },
+      "wordmark": {
+        "weight": 600,
+        "tracking": "normal",
+        "case": "normal"
+      },
+      "headerVariant": "editorial",
+      "eyebrowText": "KITCHEN GEAR REVIEWS",
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap"
+    }
+  },
+  "persona": {
+    "ymyl": false,
+    "tone": "knowledgeable_warm"
+  },
+  "editorial": {
+    "authorSlug": "claire-nakamura",
+    "author_slug": "claire-nakamura",
+    "methodology": [
+      "Every item purchased at retail and used for 30+ days of regular cooking \u2014 no staged one-time tests.",
+      "Cookware tested across multiple heat sources (gas, electric, induction where applicable) and multiple food types.",
+      "Knife sharpness tested on tomatoes and paper at day 1 and day 90 to measure edge retention.",
+      "We note actual assembly time, seasoning time, and first-use quirks that manufacturers omit from listings.",
+      "Price-per-quality cliff named for every category \u2014 we'll tell you when the $40 pan genuinely beats the $200 one.",
+      "Affiliate links go to the lowest legitimate price regardless of commission rate."
+    ],
+    "ymyl": false
+  },
+  "newsletter": {
+    "title": "The KitchenWise weekly",
+    "subtitle": "Practical picks and straight answers from KitchenWise, once a week. No spam.",
+    "kicker": "Stay in the loop"
+  },
+  "supportEmail": "hello@kitchenwise.app",
+  "defaultAuthorSlug": "claire-kitchenwise",
+  "defaultMetaDescription": "Cast iron, carbon steel, chef's knives, stand mixers, air fryers \u2014 we cook with everything we recommend and skip the ones that disappoint in daily use. No affiliate-first recommendations. No gifted pr",
+  "homepage": {
+    "eyebrow": "Kitchen gear, honestly reviewed",
+    "h1": "The right kitchen gear lasts 30 years. Buy it once.",
+    "subhead": "Cast iron, carbon steel, chef's knives, stand mixers, air fryers \u2014 we cook with everything we recommend and skip the ones that disappoint in daily use. No affiliate-first recommendations. No gifted products.",
+    "ctaPrimaryLabel": "See top picks",
+    "ctaPrimaryHref": "/pillars",
+    "ctaSecondaryLabel": "Start with knives",
+    "ctaSecondaryHref": "/pillars/best-kitchen-knives",
+    "trustLine": "Bought at retail. Cooked with daily. Returned if it disappointed us.",
+    "heroImageUrl": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1600&q=85"
+  },
+  "about": {
+    "headline": "Why KitchenWise exists",
+    "body": "Most kitchen gear sites are funded by the brands they cover. We're funded by affiliate commissions, which means we make more when you buy \u2014 but only if you stay satisfied enough to trust us again. That keeps us honest. We test everything at home, in a real kitchen, cooking real meals."
+  },
+  "analytics": {
+    "ga_measurement_id": "",
+    "ga_property_id": "",
+    "search_console_property": "https://kitchenwise.app/"
+  }
+}

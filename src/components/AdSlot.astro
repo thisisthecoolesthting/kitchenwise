@@ -1,0 +1,32 @@
+---
+/**
+ * Ezoic (or other) display ads — no-op when provider is "none".
+ * Pass slot key from site distribution config in spawn-home.
+ */
+export interface Props {
+  position: 'above_fold' | 'mid_content' | 'end';
+  /** Optional label for E2E / debugging */
+  label?: string;
+}
+import home from '@/data/spawn-home.json';
+const dist = (home as { distribution?: { ads?: { provider?: string; site_id?: string; slot_ids?: Record<string, string> } } })
+  .distribution;
+const provider = dist?.ads?.provider ?? 'none';
+const siteId = dist?.ads?.site_id ?? '';
+const slotKey =
+  Astro.props.position === 'above_fold'
+    ? 'hero'
+    : Astro.props.position === 'mid_content'
+      ? 'content_mid'
+      : 'footer';
+const slotId = dist?.ads?.slot_ids?.[String(slotKey)] ?? '';
+const show = provider === 'ezoic' && siteId && slotId;
+---
+{show ? (
+  <div class="ad-slot my-6 text-center" data-ad-position={Astro.props.position} data-ezoic={slotId}>
+    <!-- Ezoic loads via site-wide script; this div is a placement target when configured in Ezoic UI -->
+    <div id={`ezoic-pub-ad-placeholder-${slotId}`} class="min-h-[120px] rounded-2xl bg-ink-50/40">
+      <span class="text-xs text-ink-500/50">Ad</span>
+    </div>
+  </div>
+) : null}
