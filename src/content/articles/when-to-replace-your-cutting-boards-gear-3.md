@@ -2,8 +2,8 @@
 title: When to replace your cutting-boards gear (3)
 metaDescription: A practical KitchenWise guide to choosing cutting-boards with fewer
   regrets.
-publishedAt: '2026-05-01'
-pubDate: '2026-05-01'
+publishedAt: '2026-04-30'
+pubDate: '2026-04-30'
 updatedAt: '2026-05-02'
 heroImage: ''
 excerpt: A practical, buyer-focused guide to comparing cutting-boards options for
@@ -44,5 +44,5 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [How to compare cutting-boards before you buy](/articles/how-to-compare-cutting-boards-before-you-buy/)
 - [cutting-boards setup checklist for beginners (2)](/articles/cutting-boards-setup-checklist-for-beginners-2/)
+- [How to compare cutting-boards before you buy](/articles/how-to-compare-cutting-boards-before-you-buy/)

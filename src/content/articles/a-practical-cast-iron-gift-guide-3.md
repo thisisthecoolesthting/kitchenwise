@@ -42,5 +42,5 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [The quiet features that make cast-iron easier to use](/articles/the-quiet-features-that-make-cast-iron-easier-to-use/)
 - [Storage and maintenance tips for cast-iron (2)](/articles/storage-and-maintenance-tips-for-cast-iron-2/)
+- [The quiet features that make cast-iron easier to use](/articles/the-quiet-features-that-make-cast-iron-easier-to-use/)

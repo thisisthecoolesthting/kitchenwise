@@ -1,8 +1,8 @@
 ---
 title: knives buying mistakes to avoid
 metaDescription: A practical KitchenWise guide to choosing knives with fewer regrets.
-publishedAt: '2026-05-04'
-pubDate: '2026-05-04'
+publishedAt: '2026-05-03'
+pubDate: '2026-05-03'
 updatedAt: '2026-05-10'
 heroImage: ''
 excerpt: A practical, buyer-focused guide to comparing knives options for kitchenwise.app.

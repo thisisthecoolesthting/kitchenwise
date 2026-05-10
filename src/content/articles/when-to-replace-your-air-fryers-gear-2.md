@@ -1,8 +1,8 @@
 ---
 title: When to replace your air-fryers gear (2)
 metaDescription: A practical KitchenWise guide to choosing air-fryers with fewer regrets.
-publishedAt: '2026-05-01'
-pubDate: '2026-05-01'
+publishedAt: '2026-04-30'
+pubDate: '2026-04-30'
 updatedAt: '2026-05-05'
 heroImage: ''
 excerpt: A practical, buyer-focused guide to comparing air-fryers options for kitchenwise.app.
@@ -42,5 +42,5 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [air-fryers setup checklist for beginners](/articles/air-fryers-setup-checklist-for-beginners/)
 - [air-fryers essentials for weekend projects (3)](/articles/air-fryers-essentials-for-weekend-projects-3/)
+- [air-fryers setup checklist for beginners](/articles/air-fryers-setup-checklist-for-beginners/)

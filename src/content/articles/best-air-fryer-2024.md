@@ -1,11 +1,15 @@
 ---
-title: "Best air fryer 2024 in 2026"
-description: "best air fryer 2024"
-pubDate: 2026-05-09
-author: "claire-nakamura"
-tags: ["best cast iron skillet", "best chef knife under 100", "carbon steel vs cast iron"]
-status: "published"
-heroImage: ""
+title: Best air fryer 2024 in 2026
+description: best air fryer 2024
+pubDate: '2026-05-09'
+author: claire-nakamura
+tags:
+- best cast iron skillet
+- best chef knife under 100
+- carbon steel vs cast iron
+status: published
+heroImage: ''
+publishedAt: '2026-05-09'
 ---
 
 The air fryer arrived on the kitchen scene with a bang, promising crispy perfection with less oil and more convenience. For many, it delivered on that promise, becoming an indispensable countertop companion. For others, it quickly became another dust-gathering gadget, relegated to the back of the pantry after a few lackluster attempts. At KitchenWise, we believe the difference often comes down to the quality of the gear itself. A truly great air fryer isn't just a trend; it's a workhorse that earns its space and simplifies meal prep for years to come. We've put countless models through their paces, cooking everything from weeknight dinners to holiday sides, to find the ones that truly bridge the gap between professional performance and home kitchen ease.
@@ -55,3 +59,8 @@ After extensive testing, these are the air fryers that impressed us with their c
 ### The All-Around Workhorse: Cosori Pro II 5.8-Quart Air Fryer
 
 For most home cooks, the [Cosori Pro II 5.8-Quart Air Fryer](https://www.amazon.com/dp/B09575J5XQ/?tag=kitchenwise-20) hits the sweet spot. Its 5.8-quart capacity is generous enough for a family of 3-4, easily handling a batch of chicken thighs, a whole bag of fries, or even a small roast. What truly sets it apart is its exceptional cooking consistency. The updated design with a more powerful fan and improved heating element ensures incredibly even cooking and crisping, often with less need for shaking than other basket-style models. We tested it with everything from frozen fish sticks to homemade sweet potato fries, and it consistently delivered golden-brown perfection.
+
+## Related reading
+
+- [Best cast iron skillet in 2026](/articles/best-cast-iron-skillet/)
+- [Carbon steel vs cast iron](/articles/carbon-steel-vs-cast-iron/)

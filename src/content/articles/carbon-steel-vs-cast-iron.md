@@ -1,11 +1,15 @@
 ---
-title: "Carbon steel vs cast iron"
-description: "carbon steel vs cast iron"
-pubDate: 2026-05-10
-author: "claire-nakamura"
-tags: ["best cast iron skillet", "best chef knife under 100", "carbon steel vs cast iron"]
-status: "published"
-heroImage: ""
+title: Carbon steel vs cast iron
+description: carbon steel vs cast iron
+pubDate: '2026-05-06'
+author: claire-nakamura
+tags:
+- best cast iron skillet
+- best chef knife under 100
+- carbon steel vs cast iron
+status: published
+heroImage: ''
+publishedAt: '2026-05-06'
 ---
 
 For many home cooks, the journey from basic non-stick to durable, high-performance cookware eventually leads to a crossroads: carbon steel or cast iron? Both promise incredible longevity, a naturally non-stick surface built over time, and the kind of robust cooking performance that elevates everyday meals. But despite their similarities, these two workhorses of the kitchen have distinct personalities. As someone who’s spent years wrangling both in professional kitchens and now at home, I can tell you that understanding these differences is key to choosing the right tool for your culinary ambitions.
@@ -69,3 +73,8 @@ Choosing between carbon steel and cast iron often comes down to what you cook mo
 #### When to Grab Your Cast Iron
 
 Cast iron truly shines in
+
+## Related reading
+
+- [Best air fryer 2024 in 2026](/articles/best-air-fryer-2024/)
+- [Best cast iron skillet in 2026](/articles/best-cast-iron-skillet/)

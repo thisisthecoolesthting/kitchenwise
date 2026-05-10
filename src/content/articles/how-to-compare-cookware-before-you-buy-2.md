@@ -1,8 +1,8 @@
 ---
 title: How to compare cookware before you buy (2)
 metaDescription: A practical KitchenWise guide to choosing cookware with fewer regrets.
-publishedAt: '2026-05-05'
-pubDate: '2026-05-05'
+publishedAt: '2026-05-04'
+pubDate: '2026-05-04'
 updatedAt: '2026-05-06'
 heroImage: ''
 excerpt: A practical, buyer-focused guide to comparing cookware options for kitchenwise.app.

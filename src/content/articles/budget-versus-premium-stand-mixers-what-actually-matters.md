@@ -2,8 +2,8 @@
 title: 'Budget versus premium stand-mixers: what actually matters'
 metaDescription: A practical KitchenWise guide to choosing stand-mixers with fewer
   regrets.
-publishedAt: '2026-05-07'
-pubDate: '2026-05-07'
+publishedAt: '2026-05-06'
+pubDate: '2026-05-06'
 updatedAt: '2026-05-09'
 heroImage: ''
 excerpt: A practical, buyer-focused guide to comparing stand-mixers options for kitchenwise.app.
@@ -43,5 +43,5 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [The quiet features that make stand-mixers easier to use (2)](/articles/the-quiet-features-that-make-stand-mixers-easier-to-use-2/)
 - [Storage and maintenance tips for stand-mixers (3)](/articles/storage-and-maintenance-tips-for-stand-mixers-3/)
+- [The quiet features that make stand-mixers easier to use (2)](/articles/the-quiet-features-that-make-stand-mixers-easier-to-use-2/)

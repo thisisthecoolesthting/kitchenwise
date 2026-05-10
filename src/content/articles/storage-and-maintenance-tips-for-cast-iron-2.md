@@ -1,8 +1,8 @@
 ---
 title: Storage and maintenance tips for cast-iron (2)
 metaDescription: A practical KitchenWise guide to choosing cast-iron with fewer regrets.
-publishedAt: '2026-05-03'
-pubDate: '2026-05-03'
+publishedAt: '2026-05-02'
+pubDate: '2026-05-02'
 updatedAt: '2026-05-05'
 heroImage: ''
 excerpt: A practical, buyer-focused guide to comparing cast-iron options for kitchenwise.app.
@@ -42,5 +42,5 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [The quiet features that make cast-iron easier to use](/articles/the-quiet-features-that-make-cast-iron-easier-to-use/)
 - [A practical cast-iron gift guide (3)](/articles/a-practical-cast-iron-gift-guide-3/)
+- [The quiet features that make cast-iron easier to use](/articles/the-quiet-features-that-make-cast-iron-easier-to-use/)

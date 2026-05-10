@@ -42,5 +42,5 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [How to compare cookware before you buy (2)](/articles/how-to-compare-cookware-before-you-buy-2/)
 - [cookware setup checklist for beginners (3)](/articles/cookware-setup-checklist-for-beginners-3/)
+- [How to compare cookware before you buy (2)](/articles/how-to-compare-cookware-before-you-buy-2/)

@@ -2,8 +2,8 @@
 title: How to compare cutting-boards before you buy
 metaDescription: A practical KitchenWise guide to choosing cutting-boards with fewer
   regrets.
-publishedAt: '2026-05-05'
-pubDate: '2026-05-05'
+publishedAt: '2026-05-04'
+pubDate: '2026-05-04'
 updatedAt: '2026-05-10'
 heroImage: ''
 excerpt: A practical, buyer-focused guide to comparing cutting-boards options for

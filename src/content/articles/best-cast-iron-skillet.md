@@ -1,11 +1,15 @@
 ---
-title: "Best cast iron skillet in 2026"
-description: "best cast iron skillet"
-pubDate: 2026-05-10
-author: "claire-nakamura"
-tags: ["best cast iron skillet", "best chef knife under 100", "carbon steel vs cast iron"]
-status: "published"
-heroImage: ""
+title: Best cast iron skillet in 2026
+description: best cast iron skillet
+pubDate: '2026-05-08'
+author: claire-nakamura
+tags:
+- best cast iron skillet
+- best chef knife under 100
+- carbon steel vs cast iron
+status: published
+heroImage: ''
+publishedAt: '2026-05-08'
 ---
 
 There's a reason cast iron skillets have graced kitchens for centuries. They’re the unassuming workhorses, the quiet giants that deliver incredible searing power, retain heat like no other, and, with proper care, quite literally last a lifetime – or in our KitchenWise terms, at least 30 years. For home cooks looking to upgrade from flimsy non-stick or replace a worn-out starter set, a good cast iron skillet isn't just a piece of cookware; it's an heirloom in the making.
@@ -55,3 +59,8 @@ After countless searing, frying, baking, and simmering sessions, these are the c
 ### 1. The Workhorse: Lodge Classic Cast Iron Skillet (10.25-inch)
 
 If you're looking for the absolute best bang for your buck and a skillet that will perform reliably for decades, the [Lodge Cast Iron Skillet (10.25-inch)](https://www.amazon.com/dp/B00006JSUB/?tag=kitchenwise-20) is the undisputed champion. Lodge has been making cast iron in the USA since 189
+
+## Related reading
+
+- [Best air fryer 2024 in 2026](/articles/best-air-fryer-2024/)
+- [Carbon steel vs cast iron](/articles/carbon-steel-vs-cast-iron/)

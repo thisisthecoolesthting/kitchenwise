@@ -1,8 +1,8 @@
 ---
 title: The quiet features that make knives easier to use (3)
 metaDescription: A practical KitchenWise guide to choosing knives with fewer regrets.
-publishedAt: '2026-05-02'
-pubDate: '2026-05-02'
+publishedAt: '2026-05-01'
+pubDate: '2026-05-01'
 updatedAt: '2026-05-02'
 heroImage: ''
 excerpt: A practical, buyer-focused guide to comparing knives options for kitchenwise.app.
@@ -42,5 +42,5 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [knives buying mistakes to avoid](/articles/knives-buying-mistakes-to-avoid/)
 - [Budget versus premium knives: what actually matters (2)](/articles/budget-versus-premium-knives-what-actually-matters-2/)
+- [knives buying mistakes to avoid](/articles/knives-buying-mistakes-to-avoid/)

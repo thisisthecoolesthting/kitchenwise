@@ -42,5 +42,5 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [When to replace your air-fryers gear (2)](/articles/when-to-replace-your-air-fryers-gear-2/)
 - [air-fryers essentials for weekend projects (3)](/articles/air-fryers-essentials-for-weekend-projects-3/)
+- [When to replace your air-fryers gear (2)](/articles/when-to-replace-your-air-fryers-gear-2/)

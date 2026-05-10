@@ -1,8 +1,8 @@
 ---
 title: cookware setup checklist for beginners (3)
 metaDescription: A practical KitchenWise guide to choosing cookware with fewer regrets.
-publishedAt: '2026-05-06'
-pubDate: '2026-05-06'
+publishedAt: '2026-05-05'
+pubDate: '2026-05-05'
 updatedAt: '2026-05-02'
 heroImage: ''
 excerpt: A practical, buyer-focused guide to comparing cookware options for kitchenwise.app.
