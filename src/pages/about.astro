@@ -4,6 +4,16 @@ import NewsletterForm from '@/components/NewsletterForm.astro';
 import home from '@/data/spawn-home.json';
 const b = home.brand;
 const dmeta = (home as { defaultMetaDescription?: string }).defaultMetaDescription || b.taglineShort;
+const author = {
+  name: 'Claire Nakamura',
+  photo: '/authors/claire-nakamura.jpg',
+  expertise:
+    'Trained chef with 10 years of professional kitchen experience, now cooking at home and writing about gear that bridges professional and home use.',
+  bio:
+    'Claire evaluates kitchen gear through both restaurant habits and weeknight reality: heat control, cleanup, storage, durability, and whether a tool earns its drawer space. Her work favors equipment that survives daily cooking over products that only look good in a staged demo.',
+};
+const mission =
+  'We publish long-term reviews of kitchen equipment tested under real daily cooking conditions. No sponsored content. No manufacturer samples. Every piece of cookware, every knife, every appliance is bought at retail and used for at least 30 days of regular cooking before we write about it.';
 ---
 
 <BaseLayout
@@ -11,9 +21,43 @@ const dmeta = (home as { defaultMetaDescription?: string }).defaultMetaDescripti
   description={dmeta}
 >
   <section class="pt-8 md:pt-14 max-w-3xl mx-auto px-6">
-    <h1 class="font-display text-4xl text-ink-900 mb-6 !mt-0">About {b.fullName}</h1>
-    <p class="text-lg text-ink-700 leading-relaxed mb-8">
+    <p class="text-xs uppercase tracking-[0.2em] font-semibold text-accent-600 mb-3">
+      About {b.fullName}
+    </p>
+    <h1 class="font-display text-4xl md:text-5xl text-ink-900 mb-6 !mt-0">
+      {home.about.headline}
+    </h1>
+    <p class="text-lg md:text-xl text-ink-700 leading-relaxed mb-10">
       {home.about.body}
+    </p>
+
+    <div class="prose prose-lg prose-ink">
+      <h2>Our mission</h2>
+      <p>{mission}</p>
+
+      <h2>Who writes here</h2>
+    </div>
+
+    <div class="mt-5 mb-10 rounded-2xl border border-ink-100 bg-white p-5 shadow-sm">
+      <div class="flex items-center gap-4">
+        <img
+          src={author.photo}
+          alt={author.name}
+          width="60"
+          height="60"
+          class="h-[60px] w-[60px] rounded-full object-cover"
+          loading="lazy"
+        />
+        <div>
+          <h3 class="font-display text-xl text-ink-900 m-0">{author.name}</h3>
+          <p class="text-sm text-ink-600 m-0">{author.expertise}</p>
+        </div>
+      </div>
+      <p class="mt-4 text-ink-700 leading-relaxed">{author.bio}</p>
+    </div>
+
+    <p class="text-sm font-semibold text-ink-700 border-t border-ink-100 pt-6">
+      {home.homepage.trustLine}
     </p>
   </section>
 

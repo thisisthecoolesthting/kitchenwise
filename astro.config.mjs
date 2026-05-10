@@ -1,5 +1,6 @@
 import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
+import sitemap from '@astrojs/sitemap';
 
 const ASSOCIATE_TAG = process.env.PUBLIC_ASSOCIATE_TAG || 'kitchenwise-20';
 
@@ -54,11 +55,26 @@ function rehypeAugmentProductLinks() {
   return (tree) => walk(tree);
 }
 
+function safeSitemap() {
+  const integration = sitemap();
+  const buildDone = integration.hooks?.['astro:build:done'];
+  if (buildDone) {
+    integration.hooks['astro:build:done'] = async (args) => {
+      try {
+        await buildDone(args);
+      } catch (error) {
+        args.logger.warn(`@astrojs/sitemap skipped; custom sitemap route remains active. ${error.message}`);
+      }
+    };
+  }
+  return integration;
+}
+
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://kitchenwise.app',
+  site: 'https://kitchenwise.app/',
   trailingSlash: 'never',
-  integrations: [tailwind()],
+  integrations: [tailwind(), safeSitemap()],
   build: { format: 'directory' },
   markdown: {
     rehypePlugins: [rehypeAugmentProductLinks],

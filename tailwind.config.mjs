@@ -7,23 +7,23 @@ export default {
     extend: {
       colors: {
         cream: {
-          50: "#FAF8F4",
-          100: "#F2EFE9",
-          200: "#E5E0D8",
+          50: "#FFF8EA",
+          100: "#FFF8EA",
+          200: "#F6E9C9",
         },
         terracotta: {
-          400: "#5C6082",
-          500: "#3D405B",
-          600: "#2A2C40",
+          400: "#C97B5C",
+          500: "#C97B5C",
+          600: "#5E6B3B",
         },
-        primary: { DEFAULT: "#3D405B" },
-        accent: { DEFAULT: "#E07A5F" },
-        sage: { 400: "#8FA888", 500: "#6F8B6A", 600: "#566F52" },
-        rose: { deep: "#1A1A2E" },
+        primary: { DEFAULT: "#C97B5C" },
+        accent: { DEFAULT: "#F6E9C9" },
+        sage: { 400: "#F6E9C9", 500: "#8B7C67", 600: "#5E6B3B" },
+        rose: { deep: "#1F1A14" },
         ink: {
-          900: "#1A1A2E",
-          700: "#4A4340",
-          500: "#6E6863",
+          900: "#1F1A14",
+          700: "#8B7C67",
+          500: "#8B7C67",
         },
       },
       maxWidth: {
@@ -31,7 +31,7 @@ export default {
       },
       typography: {
         DEFAULT: { css: { maxWidth: "68ch" } },
-        ink: { css: { color: "#4A4340" } },
+        ink: { css: { color: "#8B7C67" } },
       },
       fontFamily: {
         display: ['Lora', "Georgia", "serif"],
