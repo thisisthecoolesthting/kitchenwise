@@ -20,6 +20,10 @@ A compact blender is a smaller, space-saving kitchen appliance designed for quic
 
 Compact blenders use a motor-driven blade assembly to crush, chop, and blend ingredients inside a small jar or cup. Unlike full-size blenders built with more powerful motors and larger blades for bulk processing, compact models trade off some motor strength to stay lightweight and portable. This makes them perfect for single serves or small batches but less ideal for heavy-duty blending like thick doughs or large quantities of hot soups.
 
+
+
+> **See also:** [Best Immersion Blenders for Soups and Smoothies in Small Kitchens](https://kitchenwise.app/articles/best-immersion-blenders-for-soups-and-smoothies-in-small-kitchens/)
+
 ## What to Look For in a Compact Blender for Smoothies and Baby Food
 
 Choosing the right compact blender means balancing several features that impact real-world use, longevity, and ease-of-maintenance.

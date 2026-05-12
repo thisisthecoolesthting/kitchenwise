@@ -16,6 +16,10 @@ If you’ve ever struggled with unevenly sliced vegetables, risking your fingers
 
 ---
 
+
+
+> **See also:** [How to Use Mandoline Slicers Safely and Effectively](https://kitchenwise.app/articles/how-to-use-mandoline-slicers-safely-and-effectively/)
+
 ## What Is a Mandoline Slicer?
 
 A mandoline slicer is a kitchen tool designed to slice fruits and vegetables with consistent thickness. It consists of a flat surface with a slot for interchangeable blades, allowing you to switch between slices, julienne cuts, and sometimes waffle or crinkle cuts. By sliding food across the blade, you get uniformly cut pieces much faster than with a knife.

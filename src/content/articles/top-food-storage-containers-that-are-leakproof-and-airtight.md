@@ -25,6 +25,10 @@ At a glance, “leakproof” means that no liquid escapes when the container is 
 - **Lid Design:** Rigid lids that don’t flex under pressure maintain the integrity of the seal better than thin, floppy lids.
 - **Wear Over Time:** Elastomer seals and plastic parts degrade; how easy it is to clean and replace seals matters.  
 
+
+
+> **See also:** [Best Lunch Boxes and Food Storage for Meal Prepping](https://kitchenwise.app/articles/best-lunch-boxes-and-food-storage-for-meal-prepping/)
+
 ## Common Materials for Leakproof and Airtight Containers
 
 | Material      | Heat Resistance | Durability       | Weight  | Dishwasher Safe | Common Use              | Pros                          | Cons                         |

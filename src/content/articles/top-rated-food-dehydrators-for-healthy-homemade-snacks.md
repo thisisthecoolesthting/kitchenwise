@@ -23,6 +23,10 @@ A food dehydrator is a countertop appliance designed to remove moisture from foo
 - **Trays or Racks:** Stackable trays provide space for spreading food items in a thin layer with enough airflow between pieces.
 - **Temperature Control:** Variable thermostats let you dial in the ideal drying temp for different foods — fruits, vegetables, herbs, or proteins like jerky.
 
+
+
+> **See also:** [Best Compact Blenders for Smoothies and Baby Food](https://kitchenwise.app/articles/best-compact-blenders-for-smoothies-and-baby-food/)
+
 ## When to Use a Food Dehydrator
 
 - Preparing homemade dried fruits, vegetable chips, fruit leathers, or jerky.

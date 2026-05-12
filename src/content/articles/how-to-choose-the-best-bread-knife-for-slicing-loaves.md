@@ -23,6 +23,10 @@ Key features that set bread knives apart include:
 - **Blade flexibility:** Some blades are rigid for hard crusts, others have slight flex for softer breads.
 - **Handle design:** Ergonomic for a secure grip during sawing.
 
+
+
+> **See also:** [How to Choose a Chef’s Knife for Different Cooking Styles](https://kitchenwise.app/articles/how-to-choose-a-chef-s-knife-for-different-cooking-styles/)
+
 ## How Bread Knife Serrations Work
 
 Serrations on bread knives act sort of like a miniature saw. The pointed teeth bite into the crisp, sometimes thick crust of a bread loaf. This prevents the need to apply heavy downward force which would compress or crush the delicate crumb. Instead, a back-and-forth sawing motion gently cuts through.

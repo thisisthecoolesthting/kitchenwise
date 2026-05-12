@@ -18,6 +18,10 @@ Electric griddles are countertop appliances that use an embedded heating element
 
 The cooking surface material can vary—cast aluminum with nonstick coatings is common, blending fast heat equalization with easier food release. Stainless steel or ceramic coatings also appear but often require particular care to maintain performance.
 
+
+
+> **See also:** [Top Small Appliances for Quick and Healthy Smoothies](https://kitchenwise.app/articles/top-small-appliances-for-quick-and-healthy-smoothies/)
+
 ## What to Look for in an Electric Griddle for Home Use
 
 When picking an electric griddle for breakfast and beyond, consider the following key factors that impact performance and daily usability:

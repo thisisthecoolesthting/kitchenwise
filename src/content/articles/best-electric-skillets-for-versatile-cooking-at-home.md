@@ -16,6 +16,10 @@ Electric skillets can be a game-changer in home kitchens, especially for cooks w
 
 An electric skillet is essentially a self-contained portable frying pan with an integrated heating element and temperature control. Unlike stovetop skillets, it plugs into a power outlet, heats up independently, and often features a lid for cooking versatility. Electric skillets have flat bottoms designed to provide consistent heat over the surface, making them ideal for preparing everything from pancakes and stir-fries to simmered dishes and even cakes.
 
+
+
+> **See also:** [Best Cast Iron Skillets for Home Cooks on a Budget](https://kitchenwise.app/articles/best-cast-iron-skillets-for-home-cooks-on-a-budget/)
+
 ## How Electric Skillets Work
 
 Electric skillets use an embedded or attached electric heating element controlled by a thermostat. The surface gets evenly heated, but quality varies considerably based on heating element design, skillet material, and thickness of the cooking surface. A well-designed skillet distributes heat evenly across the entire pan to avoid hot spots that cause uneven cooking or burning. The nonstick coating and material of the cooking surface impact how food releases and how easy the skillet is to clean.

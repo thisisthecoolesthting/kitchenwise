@@ -22,6 +22,10 @@ When you decide to make pasta from scratch, several core tools can help transfor
 - **Shaping tools:** For shaping specific pasta types like ravioli or fusilli.
 - **Drying and storage tools:** Pasta drying racks or boards to let noodles rest without sticking.
 
+
+
+> **See also:** [Essential Tools for Making Artisan Bread at Home](https://kitchenwise.app/articles/essential-tools-for-making-artisan-bread-at-home/)
+
 ## How It Works: The Role of Each Tool
 
 ### Mixing and Kneading: Starting with Good Dough

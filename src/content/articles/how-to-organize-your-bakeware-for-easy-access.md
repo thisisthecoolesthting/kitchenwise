@@ -23,6 +23,10 @@ Bakeware comes in different shapes, sizes, and materials — sheet pans, cake pa
 
 Effective bakeware storage needs to balance two priorities: maximizing space and ensuring easy visibility/access without damaging your tools.
 
+
+
+> **See also:** [How to Organize Your Pantry with Space-Saving Containers](https://kitchenwise.app/articles/how-to-organize-your-pantry-with-space-saving-containers/)
+
 ## Step 1: Take Inventory and Declutter
 
 Before organizing, pull all your bakeware out and examine each piece. Ask:

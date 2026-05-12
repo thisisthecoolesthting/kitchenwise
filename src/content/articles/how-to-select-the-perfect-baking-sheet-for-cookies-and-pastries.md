@@ -16,6 +16,10 @@ Choosing the right baking sheet can make or break your cookie and pastry outcome
 
 A baking sheet, also known as a cookie sheet or sheet pan, is a flat, rectangular metal pan designed for oven use. It’s a foundational piece of bakeware, essential for cookies, pastries, roasting vegetables, and much more. While simple in appearance, subtle differences in material, thickness, and construction significantly impact heat distribution, food release, and durability.
 
+
+
+> **See also:** [How to Choose Durable Bakeware for Perfect Homemade Desserts](https://kitchenwise.app/articles/how-to-choose-durable-bakeware-for-perfect-homemade-desserts/)
+
 ## How Heat Distribution and Material Affect Baking Performance
 
 Understanding heat transfer is key when selecting a baking sheet. Consistent heat distribution ensures even baking, preventing hot spots that cause uneven cooking or burning.

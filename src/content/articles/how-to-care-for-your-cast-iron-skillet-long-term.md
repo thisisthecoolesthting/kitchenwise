@@ -16,6 +16,10 @@ Cast iron skillets are beloved for their durability, heat retention, and ability
 
 Cast iron care involves regular cleaning, seasoning (applying and maintaining a protective oil layer), proper storage, and mindful use. Cast iron is a robust material known for excellent heat distribution and retention, making it a staple in both professional and home kitchens. However, its porous surface and iron content mean it is prone to rust if neglected or cleaned with harsh detergents or in a dishwasher.
 
+
+
+> **See also:** [How to Maintain and Sharpen Your Kitchen Knives at Home](https://kitchenwise.app/articles/how-to-maintain-and-sharpen-your-kitchen-knives-at-home/)
+
 ## How Cast Iron Skillets Work and Why Care Matters
 
 The cast iron skillet’s magic comes from its ability to absorb and evenly distribute heat, which improves with use and seasoning. Seasoning is a polymerized layer of oil baked onto the skillet that creates a resilient, naturally non-stick coating. This layer not only prevents food from sticking but also protects the metal from moisture and rust.

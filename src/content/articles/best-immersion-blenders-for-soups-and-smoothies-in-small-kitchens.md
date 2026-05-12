@@ -16,6 +16,10 @@ If you're short on counter space but love making soups and smoothies, a bulky bl
 
 An immersion blender—also called a hand blender or stick blender—is a handheld blending tool with a motor at one end and a blade assembly housed in a shaft at the other. Instead of pouring ingredients into a separate blender jar, you immerse the blade directly into pots, pitchers, or bowls for blending. This design saves space and simplifies clean-up.
 
+
+
+> **See also:** [Best Compact Blenders for Smoothies and Baby Food](https://kitchenwise.app/articles/best-compact-blenders-for-smoothies-and-baby-food/)
+
 ## How Immersion Blenders Work
 
 The motor spins blades inside a small, shielded metal or plastic cage that prevents splashing. You submerge the blade end into your ingredients and move it around to blend, puree, or emulsify. The shaft length varies but typically ranges from 7 to 10 inches—shorter blenders are easier to store but less versatile with deep pots.

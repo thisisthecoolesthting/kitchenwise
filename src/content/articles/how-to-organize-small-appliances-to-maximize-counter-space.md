@@ -29,6 +29,10 @@ Ask yourself: how often do you use each one? Daily? Weekly? Rarely? Appliances u
 ### Pro Tip:
 Group appliances by how often and for what purpose you use them—for instance, breakfast appliances (toaster, coffee maker) vs. baking appliances (stand mixer, hand mixer). This helps prioritize placement.
 
+
+
+> **See also:** [Compact and Multi-Functional Appliances for Small Space Kitchens](https://kitchenwise.app/articles/compact-and-multi-functional-appliances-for-small-space-kitchens/)
+
 ## Step 2: Declutter and Eliminate Redundancies
 
 Kitchen counters double as prime real estate, so every item must earn its spot. Before deciding where each appliance goes:

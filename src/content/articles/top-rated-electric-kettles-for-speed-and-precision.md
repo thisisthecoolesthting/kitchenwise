@@ -16,6 +16,10 @@ If you regularly boil water for coffee, tea, or cooking, you know the frustratio
 
 An electric kettle is a countertop appliance designed to boil water quickly using an internal heating element powered by electricity. Unlike stovetop kettles, they’re typically faster and offer more consistent heating. More advanced models include variable temperature settings, allowing you to heat water to specific degrees rather than just boiling.
 
+
+
+> **See also:** [Best Compact Toasters for Small Kitchens and Dorm Rooms](https://kitchenwise.app/articles/best-compact-toasters-for-small-kitchens-and-dorm-rooms/)
+
 ## How Electric Kettles Work
 
 The core component is the heating element, usually embedded in or under the kettle’s base. When powered, this element converts electrical energy into heat, warming the water directly. This method is more efficient than stovetop kettles, which transfer heat through metal from the burner to the water. Some electric kettles have stainless steel bodies with concealed heating elements, improving both heat distribution and ease of cleaning.

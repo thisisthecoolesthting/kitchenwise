@@ -23,6 +23,10 @@ Key aspects include:
 - **Edge retention and shape stability**: Avoid warped pans that cause uneven baking or spills.
 - **Cleaning compatibility**: Some durable materials degrade quickly in dishwashers—even if marketed as dishwasher safe.
 
+
+
+> **See also:** [How to Select the Perfect Baking Sheet for Cookies and Pastries](https://kitchenwise.app/articles/how-to-select-the-perfect-baking-sheet-for-cookies-and-pastries/)
+
 ## How Durable Bakeware Works: Materials and Heat Distribution
 
 ### 1. Materials Drive Heat Behavior and Longevity

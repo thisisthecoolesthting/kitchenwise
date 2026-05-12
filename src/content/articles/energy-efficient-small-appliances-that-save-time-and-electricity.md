@@ -98,3 +98,5 @@ Energy-efficient small appliances can transform your kitchen into a more conveni
 
 **Q: Will appliances like air fryers replace my oven?**  
 **A:** Not necessarily; air fryers are great for small batches and crispy textures, but ovens offer more space and versatility for large meals.
+
+> **See also:** [Best Compact Dishwashers for Efficient Kitchen Cleanup](https://kitchenwise.app/articles/best-compact-dishwashers-for-efficient-kitchen-cleanup/)

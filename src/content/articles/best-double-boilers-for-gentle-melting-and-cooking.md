@@ -16,6 +16,10 @@ Gentle melting and slow cooking tasks—like tempering chocolate, making delicat
 
 A double boiler, sometimes called a bain-marie in culinary terms, is a two-piece cooking tool that uses indirect steam heat to gently cook or melt ingredients. It consists of a lower pot that holds simmering water and an upper pot or bowl where you place the food. The steam’s heat transfers to the upper pot, providing consistent and gentle warming without direct contact with the flame or electric heating element.
 
+
+
+> **See also:** [Top-Rated Electric Kettles for Speed and Precision](https://kitchenwise.app/articles/top-rated-electric-kettles-for-speed-and-precision/)
+
 ## How Does a Double Boiler Work?
 
 Unlike direct heat, a double boiler avoids extremely high temperatures. The water in the bottom pot heats to, but does not exceed, 212°F (100°C) at sea level, and its steam warms the upper vessel. This prevents food from overheating and scorching, which is crucial for heat-sensitive ingredients like chocolate, egg-based sauces, and custards.

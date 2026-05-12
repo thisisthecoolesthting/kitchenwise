@@ -18,6 +18,10 @@ Carbon steel pans are made from a blend of iron and a small percentage of carbon
 
 Unlike nonstick pans coated with synthetic materials, carbon steel pans develop a natural seasoning—an oil polymerization layer—that offers a slick, semi-nonstick surface after repeated use and proper care.
 
+
+
+> **See also:** [Non-Toxic Cookware Options for Health-Conscious Home Cooks](https://kitchenwise.app/articles/non-toxic-cookware-options-for-health-conscious-home-cooks/)
+
 ## How Carbon Steel Pans Work
 
 ### Excellent Heat Distribution and Responsiveness

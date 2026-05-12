@@ -16,6 +16,10 @@ Keeping kitchen knives sharp and well-maintained is essential for safe, efficien
 
 A sharp knife cuts cleanly, reducing damage to ingredients and making prep faster. Good maintenance preserves the blade’s edge and prevents rust or corrosion, extending the knife’s life. Conversely, letting a knife go dull leads to frustrating, unsafe cutting and can quickly degrade the steel and edge geometry. Importantly, sharpening restores the blade’s cutting angle — the critical factor behind effective slicing — and must be done correctly to avoid excessive metal removal or edge damage.
 
+
+
+> **See also:** [How to Store Knives Safely to Extend Their Lifespan](https://kitchenwise.app/articles/how-to-store-knives-safely-to-extend-their-lifespan/)
+
 ## Step 1: Understand Your Knife’s Edge and Materials
 
 Before diving into maintenance and sharpening, identify your knife’s blade type and construction:

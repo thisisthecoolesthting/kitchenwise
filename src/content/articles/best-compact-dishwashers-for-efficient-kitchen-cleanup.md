@@ -16,6 +16,10 @@ If you live in a small apartment or have a kitchen with limited counter or cabin
 
 ---
 
+
+
+> **See also:** [Compact and Multi-Functional Appliances for Small Space Kitchens](https://kitchenwise.app/articles/compact-and-multi-functional-appliances-for-small-space-kitchens/)
+
 ## What Is a Compact Dishwasher?
 
 Compact dishwashers, sometimes called countertop or portable dishwashers, are smaller than standard built-in models, typically ranging from 18 to 22 inches wide. These units are designed to fit in small spaces like on a countertop, under a sink, or in tight cabinetry. They usually have a capacity of 4 to 8 place settings, enough for one or two people or a couple of dishes after dinner.
