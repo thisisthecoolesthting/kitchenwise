@@ -1,10 +1,10 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import AdSlot from '@/components/AdSlot.astro';
+import CaseAdSlot from '@/components/CaseAdSlot.astro';
 import EmailCapture from '@/components/EmailCapture.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
 import AuthorByline from '@/components/AuthorByline.astro';
-import AuthorCard from '@/components/AuthorCard.astro';
 import MedicalDisclaimer from '@/components/MedicalDisclaimer.astro';
 import { getCollection, getEntry } from 'astro:content';
 import { siteOrigin } from '@/utils/site-origin';
@@ -32,7 +32,7 @@ const defSlug =
   editorialAuthor || (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || '_default';
 const authorSlug = entry.data.author ?? defSlug;
 const author = await getEntry('authors', authorSlug);
-const publishedISO = new Date(entry.data.publishedAt).toISOString();
+const publishedISO = new Date(entry.data.publishedAt ?? entry.data.updatedAt ?? Date.now()).toISOString();
 const modifiedISO = entry.data.updatedAt ? new Date(entry.data.updatedAt).toISOString() : undefined;
 const bodyLower = (entry.body || '').toLowerCase();
 const tags = (entry.data.tags || []).map((t) => t.toLowerCase());
@@ -88,10 +88,9 @@ const articleSchema = {
 >
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
 
-  <article class="container-prose py-12 md:py-16 pb-28 md:pb-20">
+  <article class="max-w-6xl mx-auto px-5 py-12 md:py-16 pb-28 md:pb-20">
     {/* AFFILIATE-017: AuthorCard at the very top — establishes E-E-A-T identity
         before the headline. AuthorByline still renders the dated byline below. */}
-    <AuthorCard authorSlug={authorSlug} />
 
     <header class="mb-6">
       <h1 class="font-display text-3xl md:text-4xl text-ink-900 mb-3 !mt-0">{entry.data.title}</h1>
@@ -99,11 +98,12 @@ const articleSchema = {
 
     <AuthorByline
       authorSlug={authorSlug}
-      publishedAt={entry.data.publishedAt}
+      publishedAt={entry.data.publishedAt ?? entry.data.updatedAt}
       reviewedAt={entry.data.reviewedAt ?? entry.data.updatedAt}
     />
 
     <AdSlot position="above_fold" label="above-fold" />
+    <CaseAdSlot size="728x90" placement="article-top" />
 
     {entry.data.heroImage && (
       <figure class="mb-10 -mx-4 md:mx-0">
@@ -118,11 +118,14 @@ const articleSchema = {
 
     <AdSlot position="mid_content" label="pre-body" />
 
-    <div class="prose prose-lg prose-ink max-w-none">
+    <div class="lg:grid lg:grid-cols-[minmax(0,1fr)_220px] lg:gap-10 lg:items-start">
+      <div class="min-w-0">
+        <div class="prose prose-lg prose-ink max-w-none">
       <Content />
     </div>
 
     <AdSlot position="end" label="post-body" />
+    <CaseAdSlot size="300x250" placement="article-end" />
 
     <aside class="not-prose my-10 flex gap-5 items-start p-6 bg-cream-100 rounded-2xl border border-cream-200/60">
       <a href={`/authors/${authorSlug}/`} class="shrink-0">
@@ -153,5 +156,11 @@ const articleSchema = {
 
     <EmailCapture title={nl.title} subtitle={nl.subtitle} />
     <NewsletterForm variant="inline" title={nl.title} subtitle={nl.subtitle} />
+      </div>
+      <aside class="hidden lg:block sticky top-6 self-start">
+        <CaseAdSlot size="160x600" placement="sidebar" />
+      </aside>
+    </div>
   </article>
+
 </BaseLayout>

@@ -5,19 +5,19 @@
     "taglineShort": "The right kitchen gear lasts 30 years. Buy it once.",
     "identity": {
       "palette": {
-        "primary": "#3D405B",
-        "accent": "#E07A5F",
-        "cream": "#FAF8F4",
-        "ink": "#1A1A2E"
+        "primary": "#7A3E12",
+        "accent": "#B45309",
+        "cream": "#FFF8ED",
+        "ink": "#0B1120"
       },
       "fonts": {
-        "display": "Lora",
-        "body": "Inter",
+        "display": "Libre Baskerville",
+        "body": "Nunito Sans",
         "mono": "JetBrains Mono"
       },
       "mark": {
-        "svgPath": "brand/kitchenwise.svg",
-        "svgPublicPath": "/brand/kitchenwise.svg",
+        "svgPath": "brand/kitchenwise-mark.png",
+        "svgPublicPath": "/brand/kitchenwise-mark.png",
         "sizeRem": 1.75,
         "position": "left-of-wordmark"
       },
@@ -28,7 +28,7 @@
       },
       "headerVariant": "editorial",
       "eyebrowText": "KITCHEN GEAR REVIEWS",
-      "fontCssHref": "https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap"
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;500;600;700&family=Nunito+Sans:wght@400;500;600;700&display=swap"
     }
   },
   "persona": {
@@ -65,7 +65,7 @@
     "ctaSecondaryLabel": "Start with knives",
     "ctaSecondaryHref": "/pillars/best-kitchen-knives",
     "trustLine": "Bought at retail. Cooked with daily. Returned if it disappointed us.",
-    "heroImageUrl": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1600&q=85"
+    "heroImageUrl": "/images/hero-kitchenwise.webp"
   },
   "about": {
     "headline": "Why KitchenWise exists",

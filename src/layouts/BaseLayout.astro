@@ -109,10 +109,10 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
   </head>
   <body class="min-h-screen flex flex-col">
     <Header />
-    <AffiliateDisclosure />
     <main class="flex-1">
       <slot />
     </main>
+    <AffiliateDisclosure />
     <Footer />
   </body>
 </html>
