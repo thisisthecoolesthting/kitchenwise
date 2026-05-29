@@ -4,7 +4,7 @@ metaDescription: A practical KitchenWise guide to choosing bakeware with fewer r
 publishedAt: '2026-05-08'
 pubDate: '2026-05-08'
 updatedAt: '2026-05-07'
-heroImage: ''
+heroImage: /images/hero/best-bakeware-upgrades-for-small-spaces-2.jpg
 excerpt: A practical, buyer-focused guide to comparing bakeware options for kitchenwise.app.
 pillarSlug: bakeware
 relatedProducts: []

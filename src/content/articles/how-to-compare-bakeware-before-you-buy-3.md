@@ -4,7 +4,7 @@ metaDescription: A practical KitchenWise guide to choosing bakeware with fewer r
 publishedAt: '2026-05-04'
 pubDate: '2026-05-04'
 updatedAt: '2026-05-03'
-heroImage: ''
+heroImage: /images/hero/how-to-compare-bakeware-before-you-buy-3.jpg
 excerpt: A practical, buyer-focused guide to comparing bakeware options for kitchenwise.app.
 pillarSlug: bakeware
 relatedProducts: []

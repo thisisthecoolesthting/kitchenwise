@@ -1,11 +1,10 @@
 ---
 title: The quiet features that make stand-mixers easier to use (2)
-metaDescription: A practical KitchenWise guide to choosing stand-mixers with fewer
-  regrets.
+metaDescription: A practical KitchenWise guide to choosing stand-mixers with fewer regrets.
 publishedAt: '2026-05-01'
 pubDate: '2026-05-01'
 updatedAt: '2026-05-05'
-heroImage: ''
+heroImage: /images/hero/the-quiet-features-that-make-stand-mixers-easier-to-use-2.jpg
 excerpt: A practical, buyer-focused guide to comparing stand-mixers options for kitchenwise.app.
 pillarSlug: stand-mixers
 relatedProducts: []

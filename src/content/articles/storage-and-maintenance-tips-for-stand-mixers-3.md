@@ -1,11 +1,10 @@
 ---
 title: Storage and maintenance tips for stand-mixers (3)
-metaDescription: A practical KitchenWise guide to choosing stand-mixers with fewer
-  regrets.
+metaDescription: A practical KitchenWise guide to choosing stand-mixers with fewer regrets.
 publishedAt: '2026-05-02'
 pubDate: '2026-05-02'
 updatedAt: '2026-05-01'
-heroImage: ''
+heroImage: /images/hero/storage-and-maintenance-tips-for-stand-mixers-3.jpg
 excerpt: A practical, buyer-focused guide to comparing stand-mixers options for kitchenwise.app.
 pillarSlug: stand-mixers
 relatedProducts: []

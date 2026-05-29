@@ -1,11 +1,10 @@
 ---
 title: instant-pots buying mistakes to avoid (3)
-metaDescription: A practical KitchenWise guide to choosing instant-pots with fewer
-  regrets.
+metaDescription: A practical KitchenWise guide to choosing instant-pots with fewer regrets.
 publishedAt: '2026-05-03'
 pubDate: '2026-05-03'
 updatedAt: '2026-05-03'
-heroImage: ''
+heroImage: /images/hero/instant-pots-buying-mistakes-to-avoid-3.jpg
 excerpt: A practical, buyer-focused guide to comparing instant-pots options for kitchenwise.app.
 pillarSlug: instant-pots
 relatedProducts: []

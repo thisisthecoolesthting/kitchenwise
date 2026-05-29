@@ -1,11 +1,10 @@
 ---
 title: 'Budget versus premium stand-mixers: what actually matters'
-metaDescription: A practical KitchenWise guide to choosing stand-mixers with fewer
-  regrets.
+metaDescription: A practical KitchenWise guide to choosing stand-mixers with fewer regrets.
 publishedAt: '2026-05-06'
 pubDate: '2026-05-06'
 updatedAt: '2026-05-09'
-heroImage: ''
+heroImage: /images/hero/budget-versus-premium-stand-mixers-what-actually-matters.jpg
 excerpt: A practical, buyer-focused guide to comparing stand-mixers options for kitchenwise.app.
 pillarSlug: stand-mixers
 relatedProducts: []

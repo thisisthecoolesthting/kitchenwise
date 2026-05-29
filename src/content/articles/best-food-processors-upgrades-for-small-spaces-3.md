@@ -1,13 +1,11 @@
 ---
 title: Best food-processors upgrades for small spaces (3)
-metaDescription: A practical KitchenWise guide to choosing food-processors with fewer
-  regrets.
+metaDescription: A practical KitchenWise guide to choosing food-processors with fewer regrets.
 publishedAt: '2026-05-07'
 pubDate: '2026-05-07'
 updatedAt: '2026-05-04'
-heroImage: ''
-excerpt: A practical, buyer-focused guide to comparing food-processors options for
-  kitchenwise.app.
+heroImage: /images/hero/best-food-processors-upgrades-for-small-spaces-3.jpg
+excerpt: A practical, buyer-focused guide to comparing food-processors options for kitchenwise.app.
 pillarSlug: food-processors
 relatedProducts: []
 status: published

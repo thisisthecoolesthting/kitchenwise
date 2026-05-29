@@ -1,13 +1,11 @@
 ---
 title: food-processors essentials for weekend projects
-metaDescription: A practical KitchenWise guide to choosing food-processors with fewer
-  regrets.
+metaDescription: A practical KitchenWise guide to choosing food-processors with fewer regrets.
 publishedAt: '2026-05-05'
 pubDate: '2026-05-05'
 updatedAt: '2026-05-08'
-heroImage: ''
-excerpt: A practical, buyer-focused guide to comparing food-processors options for
-  kitchenwise.app.
+heroImage: /images/hero/food-processors-essentials-for-weekend-projects.jpg
+excerpt: A practical, buyer-focused guide to comparing food-processors options for kitchenwise.app.
 pillarSlug: food-processors
 relatedProducts: []
 status: published

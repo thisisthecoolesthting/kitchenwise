@@ -4,7 +4,7 @@ metaDescription: A practical KitchenWise guide to choosing knives with fewer reg
 publishedAt: '2026-05-07'
 pubDate: '2026-05-07'
 updatedAt: '2026-05-06'
-heroImage: ''
+heroImage: /images/hero/budget-versus-premium-knives-what-actually-matters-2.jpg
 excerpt: A practical, buyer-focused guide to comparing knives options for kitchenwise.app.
 pillarSlug: knives
 relatedProducts: []

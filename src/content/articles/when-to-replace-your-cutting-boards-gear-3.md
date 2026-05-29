@@ -1,13 +1,11 @@
 ---
 title: When to replace your cutting-boards gear (3)
-metaDescription: A practical KitchenWise guide to choosing cutting-boards with fewer
-  regrets.
+metaDescription: A practical KitchenWise guide to choosing cutting-boards with fewer regrets.
 publishedAt: '2026-04-30'
 pubDate: '2026-04-30'
 updatedAt: '2026-05-02'
-heroImage: ''
-excerpt: A practical, buyer-focused guide to comparing cutting-boards options for
-  kitchenwise.app.
+heroImage: /images/hero/when-to-replace-your-cutting-boards-gear-3.jpg
+excerpt: A practical, buyer-focused guide to comparing cutting-boards options for kitchenwise.app.
 pillarSlug: cutting-boards
 relatedProducts: []
 status: published

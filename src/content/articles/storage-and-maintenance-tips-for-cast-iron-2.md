@@ -4,7 +4,7 @@ metaDescription: A practical KitchenWise guide to choosing cast-iron with fewer 
 publishedAt: '2026-05-02'
 pubDate: '2026-05-02'
 updatedAt: '2026-05-05'
-heroImage: ''
+heroImage: /images/hero/storage-and-maintenance-tips-for-cast-iron-2.jpg
 excerpt: A practical, buyer-focused guide to comparing cast-iron options for kitchenwise.app.
 pillarSlug: cast-iron
 relatedProducts: []

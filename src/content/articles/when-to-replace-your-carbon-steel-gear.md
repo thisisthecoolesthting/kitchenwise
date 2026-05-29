@@ -1,11 +1,10 @@
 ---
 title: When to replace your carbon-steel gear
-metaDescription: A practical KitchenWise guide to choosing carbon-steel with fewer
-  regrets.
+metaDescription: A practical KitchenWise guide to choosing carbon-steel with fewer regrets.
 publishedAt: '2026-04-30'
 pubDate: '2026-04-30'
 updatedAt: '2026-05-08'
-heroImage: ''
+heroImage: /images/hero/when-to-replace-your-carbon-steel-gear.jpg
 excerpt: A practical, buyer-focused guide to comparing carbon-steel options for kitchenwise.app.
 pillarSlug: carbon-steel
 relatedProducts: []

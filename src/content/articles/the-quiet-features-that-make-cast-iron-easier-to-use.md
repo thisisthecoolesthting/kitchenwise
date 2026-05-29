@@ -4,7 +4,7 @@ metaDescription: A practical KitchenWise guide to choosing cast-iron with fewer 
 publishedAt: '2026-05-01'
 pubDate: '2026-05-01'
 updatedAt: '2026-05-09'
-heroImage: ''
+heroImage: /images/hero/the-quiet-features-that-make-cast-iron-easier-to-use.jpg
 excerpt: A practical, buyer-focused guide to comparing cast-iron options for kitchenwise.app.
 pillarSlug: cast-iron
 relatedProducts: []

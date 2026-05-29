@@ -4,7 +4,7 @@ metaDescription: A practical KitchenWise guide to choosing air-fryers with fewer
 publishedAt: '2026-05-09'
 pubDate: '2026-05-09'
 updatedAt: '2026-05-01'
-heroImage: ''
+heroImage: /images/hero/air-fryers-essentials-for-weekend-projects-3.jpg
 excerpt: A practical, buyer-focused guide to comparing air-fryers options for kitchenwise.app.
 pillarSlug: air-fryers
 relatedProducts: []

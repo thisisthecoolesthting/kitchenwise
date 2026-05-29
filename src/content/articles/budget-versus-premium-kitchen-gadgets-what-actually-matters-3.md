@@ -1,13 +1,11 @@
 ---
 title: 'Budget versus premium kitchen-gadgets: what actually matters (3)'
-metaDescription: A practical KitchenWise guide to choosing kitchen-gadgets with fewer
-  regrets.
+metaDescription: A practical KitchenWise guide to choosing kitchen-gadgets with fewer regrets.
 publishedAt: '2026-05-07'
 pubDate: '2026-05-07'
 updatedAt: '2026-05-03'
-heroImage: ''
-excerpt: A practical, buyer-focused guide to comparing kitchen-gadgets options for
-  kitchenwise.app.
+heroImage: /images/hero/budget-versus-premium-kitchen-gadgets-what-actually-matters-3.jpg
+excerpt: A practical, buyer-focused guide to comparing kitchen-gadgets options for kitchenwise.app.
 pillarSlug: kitchen-gadgets
 relatedProducts: []
 status: published

@@ -8,7 +8,7 @@ tags:
 - best chef knife under 100
 - carbon steel vs cast iron
 status: published
-heroImage: ''
+heroImage: /images/hero/best-air-fryer-2024.jpg
 publishedAt: '2026-05-09'
 ---
 

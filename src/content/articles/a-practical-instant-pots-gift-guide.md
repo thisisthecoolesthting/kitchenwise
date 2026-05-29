@@ -1,11 +1,10 @@
 ---
 title: A practical instant-pots gift guide
-metaDescription: A practical KitchenWise guide to choosing instant-pots with fewer
-  regrets.
+metaDescription: A practical KitchenWise guide to choosing instant-pots with fewer regrets.
 publishedAt: '2026-05-10'
 pubDate: '2026-05-10'
 updatedAt: '2026-05-07'
-heroImage: ''
+heroImage: /images/hero/a-practical-instant-pots-gift-guide.jpg
 excerpt: A practical, buyer-focused guide to comparing instant-pots options for kitchenwise.app.
 pillarSlug: instant-pots
 relatedProducts: []

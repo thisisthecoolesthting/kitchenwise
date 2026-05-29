@@ -8,7 +8,7 @@ tags:
 - best chef knife under 100
 - carbon steel vs cast iron
 status: published
-heroImage: ''
+heroImage: /images/hero/carbon-steel-vs-cast-iron.jpg
 publishedAt: '2026-05-06'
 ---
 

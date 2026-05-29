@@ -1,11 +1,10 @@
 ---
 title: carbon-steel essentials for weekend projects (2)
-metaDescription: A practical KitchenWise guide to choosing carbon-steel with fewer
-  regrets.
+metaDescription: A practical KitchenWise guide to choosing carbon-steel with fewer regrets.
 publishedAt: '2026-05-06'
 pubDate: '2026-05-06'
 updatedAt: '2026-05-04'
-heroImage: ''
+heroImage: /images/hero/carbon-steel-essentials-for-weekend-projects-2.jpg
 excerpt: A practical, buyer-focused guide to comparing carbon-steel options for kitchenwise.app.
 pillarSlug: carbon-steel
 relatedProducts: []

@@ -4,7 +4,7 @@ metaDescription: A practical KitchenWise guide to choosing cookware with fewer r
 publishedAt: '2026-05-05'
 pubDate: '2026-05-05'
 updatedAt: '2026-05-02'
-heroImage: ''
+heroImage: /images/hero/cookware-setup-checklist-for-beginners-3.jpg
 excerpt: A practical, buyer-focused guide to comparing cookware options for kitchenwise.app.
 pillarSlug: cookware
 relatedProducts: []

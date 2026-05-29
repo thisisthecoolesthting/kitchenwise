@@ -4,7 +4,7 @@ metaDescription: A practical KitchenWise guide to choosing knives with fewer reg
 publishedAt: '2026-05-03'
 pubDate: '2026-05-03'
 updatedAt: '2026-05-10'
-heroImage: ''
+heroImage: /images/hero/knives-buying-mistakes-to-avoid.jpg
 excerpt: A practical, buyer-focused guide to comparing knives options for kitchenwise.app.
 pillarSlug: knives
 relatedProducts: []

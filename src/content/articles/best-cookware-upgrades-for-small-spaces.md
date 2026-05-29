@@ -4,7 +4,7 @@ metaDescription: A practical KitchenWise guide to choosing cookware with fewer r
 publishedAt: '2026-05-08'
 pubDate: '2026-05-08'
 updatedAt: '2026-05-10'
-heroImage: ''
+heroImage: /images/hero/best-cookware-upgrades-for-small-spaces.jpg
 excerpt: A practical, buyer-focused guide to comparing cookware options for kitchenwise.app.
 pillarSlug: cookware
 relatedProducts: []
