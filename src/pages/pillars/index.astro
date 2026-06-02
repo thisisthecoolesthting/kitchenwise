@@ -1,55 +1,68 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro';
+import CompliantLayout from '@/layouts/CompliantLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
 import { getCollection } from 'astro:content';
-import home from '@/data/spawn-home.json';
+import { isHeroImageAvailable } from '@/lib/hero-image';
 
 const pillars = await getCollection('pillars', ({ data }) => data.status === 'published');
 const sorted = pillars.sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt));
-const defaultAuthorSlug = (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || 'default-author';
 ---
 
-<BaseLayout title="Guides" description="In-depth guides for navigating perimenopause and menopause.">
-  <section class="max-w-5xl mx-auto px-5 py-12">
-    <h1 class="font-display text-4xl text-ink-900 mb-3">Guides</h1>
-    <p class="text-ink-700 mb-10 max-w-prose">
-      Long-form authority guides. We start from what's actually happening in your body,
-      then layer in behavioral and product choices that work.
-    </p>
+<CompliantLayout
+  title="Guides"
+  description="In-depth RefillWatch guides on household refills, shrinkflation, and smarter swaps."
+  sectionAds="guides"
+  sectionAdsCompact={true}
+>
+  <PageIntro
+    eyebrow="Start here"
+    title="Guides"
+    description="Long-form watchlists: what prices are doing, which refills actually work, and where to save without junk swaps."
+  />
 
+  <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 pb-10 md:pb-14">
     {sorted.length === 0 && (
       <p class="text-ink-700">First guides coming soon.</p>
     )}
 
-    <div class="grid md:grid-cols-2 gap-8">
-      {sorted.map((p) => (
-        <a href={`/pillars/${p.slug}`} class="group no-underline block">
-          {p.data.heroImage ? (
+    <div class="grid md:grid-cols-2 gap-6">
+      {sorted.map((p, idx) => {
+        const heroImage = isHeroImageAvailable(p.data.heroImage) ? p.data.heroImage : '';
+        const tints = [
+          'bg-gradient-to-b from-cream-100 to-cream-50',
+          'bg-gradient-to-b from-sage-400/15 to-cream-50',
+          'bg-gradient-to-b from-terracotta-400/15 to-cream-50',
+          'bg-gradient-to-b from-cream-200 to-cream-50',
+        ];
+        return (
+        <a
+          href={`/pillars/${p.slug}`}
+          class:list={[
+            'group no-underline block rounded-xl border border-cream-200 overflow-hidden',
+            'hover:border-terracotta-400 hover:shadow-soft-lg hover:-translate-y-0.5 transition-all',
+            !heroImage && `p-5 ${tints[idx % tints.length]}`,
+          ]}
+        >
+          {heroImage && (
             <div class="rounded-lg overflow-hidden mb-4 bg-cream-200 aspect-[16/10]">
               <img
-                src={p.data.heroImage}
+                src={heroImage}
                 alt={p.data.title}
                 loading="lazy"
                 class="w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-300"
               />
             </div>
-          ) : (
-            <div class="rounded-lg bg-cream-200 aspect-[16/10] mb-4"></div>
           )}
           <h2 class="font-display text-2xl text-ink-900 !mt-0 group-hover:text-terracotta-500 transition-colors">
             {p.data.title}
           </h2>
           <p class="text-ink-700 mt-2 text-base">{p.data.excerpt}</p>
-          <div class="mt-4 flex items-center gap-2.5 text-xs text-ink-500">
-            <img
-              src={`/authors/${p.data.author ?? defaultAuthorSlug}.jpg`}
-              alt={p.data.author ?? defaultAuthorSlug}
-              class="w-8 h-8 rounded-full object-cover"
-              loading="lazy"
-            />
-            <span>{new Date(p.data.publishedAt).toLocaleDateString()}</span>
-          </div>
+          <p class="text-ink-500 text-xs mt-3">
+            {new Date(p.data.publishedAt).toLocaleDateString()}
+          </p>
         </a>
-      ))}
+        );
+      })}
     </div>
   </section>
-</BaseLayout>
+</CompliantLayout>

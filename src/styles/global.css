@@ -145,3 +145,90 @@
     @apply text-ink-900;
   }
 }
+
+/* UIPRO-SPINE-MERGE — synced from templates/ssc-site */
+@layer components {
+  .skip-link {
+    @apply sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-[100]
+           focus:inline-flex focus:items-center focus:px-4 focus:py-2.5
+           focus:bg-ink-900 focus:text-cream-50 focus:rounded-lg focus:shadow-soft-lg
+           focus:font-semibold focus:text-sm focus:no-underline;
+  }
+  .btn-secondary-light {
+    @apply btn bg-white text-ink-900 border border-cream-200 shadow-soft
+           hover:border-terracotta-400 hover:text-terracotta-600
+           focus-visible:ring-terracotta-500;
+  }
+  .btn-nav-cta {
+    @apply hidden md:inline-flex items-center justify-center rounded-full px-5 py-2.5
+           text-sm font-semibold bg-terracotta-500 text-white no-underline
+           hover:bg-terracotta-600 transition-colors duration-200 cursor-pointer
+           focus-visible:ring-2 focus-visible:ring-terracotta-500 focus-visible:ring-offset-2;
+  }
+  .section-eyebrow {
+    @apply font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium;
+  }
+  .hero-band {
+    @apply relative bg-ink-900 text-cream-50 overflow-hidden;
+  }
+  .hero-band a:not(.btn-primary):not(.btn-secondary):not(.btn-secondary-light) {
+    @apply text-cream-50/90 hover:text-white;
+  }
+  .trust-badge {
+    @apply inline-flex items-center gap-2 rounded-full border border-cream-200
+           bg-white px-3 py-1.5 text-xs font-medium text-ink-700;
+  }
+  .stat-card {
+    @apply bg-white border border-cream-200 rounded-2xl p-8 text-center
+           shadow-soft transition-colors duration-200 cursor-default
+           hover:border-terracotta-400/50 hover:shadow-soft-lg;
+  }
+
+  /* Homepage color profile — light surfaces only (no full-page ink-900). */
+  .site-page-bg {
+    background-color: theme('colors.cream.50');
+    background-image:
+      radial-gradient(50% 80% at 100% 0%, rgba(220, 38, 38, 0.08), transparent 55%),
+      radial-gradient(40% 50% at 0% 100%, rgba(37, 99, 235, 0.1), transparent 60%);
+    background-attachment: fixed;
+  }
+
+  .page-intro-band {
+    @apply relative overflow-hidden;
+    background-image:
+      radial-gradient(55% 90% at 92% 8%, rgba(220, 38, 38, 0.1), transparent 58%),
+      radial-gradient(45% 70% at 4% 92%, rgba(37, 99, 235, 0.12), transparent 62%),
+      linear-gradient(180deg, theme('colors.cream.50') 0%, theme('colors.cream.100') 100%);
+  }
+
+  .content-panel {
+    @apply bg-white/90 backdrop-blur-[2px] rounded-[2rem] md:rounded-[2.5rem]
+           border border-cream-200/80 shadow-soft px-6 md:px-12 py-10 md:py-14;
+  }
+
+  .content-panel-muted {
+    @apply bg-gradient-to-b from-cream-100/90 to-cream-50/95 rounded-[2rem] md:rounded-[2.5rem]
+           border border-cream-200/80 shadow-soft px-6 md:px-12 py-10 md:py-14;
+  }
+
+  .section-band {
+    @apply border-y border-cream-200 bg-gradient-to-b from-cream-50 to-cream-100/90;
+  }
+
+  .section-band-sage {
+    @apply border-y border-cream-200 bg-sage-400/15;
+  }
+
+  .site-top-ad-band :global(.section-ads-header .cad-wrap) {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
+}
+@layer utilities {
+  .text-balance { text-wrap: balance; }
+}
+
+  .hero-band .btn-secondary {
+    @apply bg-white/10 text-cream-50 border border-cream-50/35 shadow-none
+           hover:bg-cream-50 hover:text-ink-900 hover:border-cream-50 hover:shadow-soft;
+  }
