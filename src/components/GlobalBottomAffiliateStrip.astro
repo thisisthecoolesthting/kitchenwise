@@ -28,7 +28,7 @@ const fromCatalog: BottomAmazonPick[] = catalog
       subtitle:
         (p.data as { cardPick?: string }).cardPick ||
         p.data.metaDescription?.slice(0, 120) ||
-        'Tracked on KitchenWise — compare before you restock.',
+        'Reviewed on KitchenWise — real retail tests.',
       priceLabel: price > 0 ? `From ~$${price.toFixed(0)}` : 'See Amazon price',
       badge: 'On our watchlist',
       imageUrl: p.data.imageUrl,
@@ -75,7 +75,8 @@ const FB =
           </h2>
         </div>
         <p class="text-sm text-ink-700 max-w-[40ch] leading-relaxed">
-          Cookware, knives, and appliances we tested at home. Partner links — we may earn a commission at no extra cost to you.
+          Cookware, knives, and appliances we tested at home — partner links, no extra cost to you.
+          Partner links — we may earn a commission at no extra cost to you.
         </p>
       </div>
 

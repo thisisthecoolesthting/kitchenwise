@@ -75,5 +75,27 @@
     "ga_measurement_id": "",
     "ga_property_id": "",
     "search_console_property": "https://kitchenwise.app/"
-  }
+  },
+  "navigation": [
+    {
+      "href": "/",
+      "label": "Home"
+    },
+    {
+      "href": "/pillars",
+      "label": "Guides"
+    },
+    {
+      "href": "/articles",
+      "label": "Articles"
+    },
+    {
+      "href": "/products",
+      "label": "Reviews"
+    },
+    {
+      "href": "/about",
+      "label": "About"
+    }
+  ]
 }
