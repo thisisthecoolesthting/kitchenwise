@@ -7,36 +7,36 @@ export default {
     extend: {
       colors: {
         cream: {
-          50: "#FFF8ED",
-          100: "#F5EEE4",
-          200: "#E6DFD5",
+          50: "#FAF8F4",
+          100: "#F2EFE9",
+          200: "#E5E0D8",
         },
         terracotta: {
-          400: "#CF5F0A",
-          500: "#B45309",
-          600: "#944407",
+          400: "#5C6082",
+          500: "#3D405B",
+          600: "#2A2C40",
         },
-        primary: { DEFAULT: "#7A3E12" },
-        accent: { DEFAULT: "#B45309" },
+        primary: { DEFAULT: "#3D405B" },
+        accent: { DEFAULT: "#E07A5F" },
         sage: { 400: "#8FA888", 500: "#6F8B6A", 600: "#566F52" },
         rose: { deep: "#1A1A2E" },
         ink: {
-          900: "#0B1120",
-          700: "#334155",
-          500: "#64748B",
+          900: "#1A1A2E",
+          700: "#4A4340",
+          500: "#6E6863",
         },
       },
       maxWidth: {
         prose: "68ch",
       },
-            typography: {
+      typography: {
         DEFAULT: { css: { maxWidth: "68ch" } },
         ink: { css: { color: "#4A4340" } },
       },
       fontFamily: {
-        display: ['Libre Baskerville', "Georgia", "serif"],
-        sans: ['Nunito Sans', "system-ui", "sans-serif"],
-        body: ['Nunito Sans', "sans-serif"],
+        display: ['Lora', "Georgia", "serif"],
+        sans: ['Inter', "system-ui", "sans-serif"],
+        body: ['Inter', "sans-serif"],
         mono: ['JetBrains Mono', "monospace"],
       },
     },

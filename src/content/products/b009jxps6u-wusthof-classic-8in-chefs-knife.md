@@ -13,6 +13,7 @@ reviewCount: 12480
 bsr: 72
 commissionPerSale: 0.0
 score: 49.2
+imageUrl: "/images/amazon-picks/B009JXPS6U.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B009JXPS6U?tag=kitchenwise-20&linkCode=ll1&language=en_US"
 isPrime: true
 status: "published"

@@ -21,7 +21,9 @@ const siteYmyl = (home as { persona?: { ymyl?: boolean } }).persona?.ymyl === tr
 const allProducts = await getCollection('products', ({ data }) => data.status === 'published');
 const completeProducts = allProducts.filter((p) => {
   const d = p.data;
-  const hasImage = d.imageUrl && !d.imageUrl.includes('example') && !d.imageUrl.startsWith('data:');
+  const hasImage =
+    (d.imageUrl && !d.imageUrl.includes('example') && !d.imageUrl.startsWith('data:')) ||
+    Boolean(d.asin && /^[A-Z0-9]{10}$/i.test(String(d.asin)));
   const hasPrice = typeof d.price === 'number' && d.price > 0;
   const hasRating = typeof d.rating === 'number' && d.rating > 0;
   return hasImage && hasPrice && hasRating;
@@ -77,16 +79,12 @@ const heroStat = {
 // ---------- Niche-relevant image pool (SSC: perimenopause / cooling / wellness) ----------
 // Each spawned site overrides this by replacing the URLs. The shape is fixed.
 const NICHE_IMAGE_POOL = [
-  'https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=1200&q=80', // couple at sunset (warmth)
-  'https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=1200&q=80', // bedroom / linens
-  'https://images.unsplash.com/photo-1455156218388-5e61b526818b?auto=format&fit=crop&w=1200&q=80', // calm green tea moment
-  'https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=1200&q=80',  // skincare flatlay
-  'https://images.unsplash.com/photo-1518791841217-8f162f1e1131?auto=format&fit=crop&w=1200&q=80', // calm lifestyle
-  'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=1200&q=80', // yoga / movement
-  'https://images.unsplash.com/photo-1499728603263-13726abce5fd?auto=format&fit=crop&w=1200&q=80', // morning window light
-  'https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80', // herbal supplements
-  'https://images.unsplash.com/photo-1556909114-44e3e9399a2e?auto=format&fit=crop&w=1200&q=80',  // vitamins / wellness
-  'https://images.unsplash.com/photo-1530653333484-8d22c8e2f1ad?auto=format&fit=crop&w=1200&q=80', // breakfast bowl
+  'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=1200&q=80',
+  'https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=1200&q=80',
+  'https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80',
+  'https://images.unsplash.com/photo-1495521821757-a1efb6729352?auto=format&fit=crop&w=1200&q=80',
+  'https://images.unsplash.com/photo-1608039829572-7854f23c3f7e?auto=format&fit=crop&w=1200&q=80',
+  'https://images.unsplash.com/photo-1551218808-94e220e084d2?auto=format&fit=crop&w=1200&q=80',
 ];
 
 // ---------- Image selection per card with per-page dedupe ----------
