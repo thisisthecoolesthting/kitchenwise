@@ -3,6 +3,7 @@ import '@/styles/global.css';
 import Header from '@/components/Header.astro';
 import SkipLink from '@/components/SkipLink.astro';
 import Footer from '@/components/Footer.astro';
+import CaseAdRotateInit from '@/components/CaseAdRotateInit.astro';
 import GlobalBottomAffiliateStrip from '@/components/GlobalBottomAffiliateStrip.astro';
 import SiteSectionAds from '@/components/SiteSectionAds.astro';
 import type { SectionPage } from '@/lib/section-page';
@@ -17,15 +18,6 @@ const dmeta = (home as { defaultMetaDescription?: string }).defaultMetaDescripti
 // can flip from not_connected to live without code changes.
 const ga = (home as { analytics?: { ga_measurement_id?: string; ga_property_id?: string; search_console_property?: string } }).analytics;
 const gaMeasurementId = (ga?.ga_measurement_id || '').trim();
-
-// -- Ad injection: derive site slug for utm_source --------------------------
-const rawBrandName: string =
-  (home as { brand?: { shortName?: string; fullName?: string } }).brand?.shortName ||
-  (home as { brand?: { fullName?: string } }).brand?.fullName ||
-  (home as { siteSlug?: string }).siteSlug ||
-  'filtercycle';
-const adSiteSlug = rawBrandName.toLowerCase().replace(/[^a-z0-9-]/g, '');
-
 
 export interface Props {
   title: string;
@@ -131,11 +123,6 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
         <script set:html={`window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', '${gaMeasurementId}', { 'anonymize_ip': true });`}></script>
       </>
     )}
-
-    {/* Ad injection system v3: slots.css reserves space (no CLS); inject.js fills slots at runtime */}
-    <link rel="stylesheet" href="/ads/slots.css" />
-    <script set:html={`window.__AD_SITE_SLUG__="${adSiteSlug}";`} />
-    <script src="https://ads.rickyscontrolcenter.com/inject.js" defer></script>
   </head>
   <body class="min-h-screen flex flex-col site-page-bg texture-paper">
     <SkipLink />
@@ -150,6 +137,7 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
       {sectionAds && sectionAdsFooter && <SiteSectionAds page={sectionAds} variant="footer" />}
     </main>
     <GlobalBottomAffiliateStrip />
+    <CaseAdRotateInit />
     <Footer />
       <script is:inline>
       (function(){try{window.dataLayer=window.dataLayer||[];function emit(n,p){window.dataLayer.push(Object.assign({event:n},p));if(typeof window.gtag==='function')window.gtag('event',n,p)}function txt(a){var t=(a.textContent||'').replace(/\s+/g,' ').trim();return t.length>80?t.slice(0,80):t}document.addEventListener('click',function(e){var el=e.target;if(!el||!el.closest)return;var a=el.closest('a[href]');if(!a)return;var raw=a.getAttribute('href');if(!raw)return;var u;try{u=new URL(raw,location.href)}catch(_){return}if(u.protocol!=='http:'&&u.protocol!=='https:')return;var href=u.href,domain=u.hostname,rel=(a.getAttribute('rel')||'').toLowerCase(),aff=rel.indexOf('sponsored')>=0||href.toLowerCase().indexOf('amazon.')>=0,base={link_url:href,link_domain:domain,link_text:txt(a),page_path:location.pathname};if(aff){emit('affiliate_click',base);return}if(domain&&domain!==location.hostname)emit('outbound_click',base)},true)}catch(_){}})();

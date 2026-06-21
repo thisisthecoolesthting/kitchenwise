@@ -1,8 +1,10 @@
 ---
 /**
- * Section pages: one top leaderboard + text links (fast; no 3× heavy image ad stack).
+ * Section pages: top leaderboard (new injection system) + text links.
+ * The header band now renders a single short-wide home-top slot via the
+ * central ad-injection system (inject.js / manifest.json), NOT two square
+ * CaseAdSlot composites. No square ads on top -- ever.
  */
-import CaseAdSlot from '@/components/CaseAdSlot.astro';
 import PhoneCaseFamilyTextLinks from '@/components/PhoneCaseFamilyTextLinks.astro';
 import type { SectionPage } from '@/lib/section-page';
 
@@ -18,7 +20,12 @@ export interface Props {
 const { page, variant = 'both', compact = false } = Astro.props;
 
 const showHeader = variant === 'header' || variant === 'both';
-const showFooter = variant === 'footer' || variant === 'both';
+const showFooter  = variant === 'footer' || variant === 'both';
+
+// SSR fallback: one store, UTM source from site slug (safe -- never refillwatch).
+// inject.js replaces this at runtime with a weighted rotation from the manifest.
+const fallbackHref =
+  'https://phonecasesforall.com/?utm_source=kitchenwise&utm_medium=leaderboard&utm_campaign=15off&utm_content=728x90_home-top';
 ---
 
 {showHeader && (
@@ -28,11 +35,28 @@ const showFooter = variant === 'footer' || variant === 'both';
       compact ? 'py-1 md:py-1.5 section-ads-header--compact' : 'py-1.5 md:py-2',
     ]}
     role="complementary"
-    aria-label="Sponsored phone case offer"
+    aria-label="Sponsored offer"
   >
-    <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 justify-items-center max-w-[632px] mx-auto">
-      <CaseAdSlot size="300x250" placement={`${page}-section-top-a`} composite />
-      <CaseAdSlot size="300x250" placement={`${page}-section-top-b`} composite />
+    {/* home-top: short-wide leaderboard (never squares) */}
+    <div
+      data-ad-slot="home-top"
+      class="home-top-slot not-prose"
+      role="complementary"
+      aria-label="Sponsored"
+    >
+      {/* SSR / no-JS fallback -- wide text banner, single line */}
+      <p class="adn-eyebrow">Sponsored</p>
+      <a
+        href={fallbackHref}
+        target="_blank"
+        rel="sponsored noopener"
+        class="home-top-fallback-link"
+      >
+        <span class="home-top-store">Phone Cases For All</span>
+        <span class="home-top-sep" aria-hidden="true"> &mdash; </span>
+        <span class="home-top-body">50,000+ designs &middot; ships in 2&nbsp;days &mdash; 10%&nbsp;off code&nbsp;<strong>FIRST15ALL</strong></span>
+        <span class="home-top-cta" aria-hidden="true"> &rarr;</span>
+      </a>
     </div>
   </div>
 )}
@@ -46,12 +70,43 @@ const showFooter = variant === 'footer' || variant === 'both';
 )}
 
 <style>
-  .section-ads-header--compact :global(.cad-wrap),
-  .section-ads-header :global(.cad-wrap) {
-    margin: 0.25rem 0 0.15rem;
+  .section-ads-header--compact :global(.adn-eyebrow),
+  .section-ads-header :global(.adn-eyebrow) {
+    margin: 0.15rem 0 3px;
   }
-  .section-ads-header :global(.cad-disc) {
-    margin-top: 0.15rem;
-    line-height: 1.2;
+
+  /* home-top slot: min-height set in slots.css; layout here */
+  .home-top-slot {
+    width: 100%;
+    padding: 6px 8px 7px;
+    border-radius: 8px;
+    background: #f9f5f0;
+    border: 1px solid rgba(0,0,0,0.07);
+  }
+
+  .home-top-fallback-link {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0 6px;
+    text-decoration: none;
+    color: inherit;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.82rem;
+    line-height: 1.45;
+  }
+  .home-top-fallback-link:hover .home-top-store { text-decoration: underline; }
+
+  .home-top-store {
+    font-weight: 700;
+    color: #111827;
+  }
+  .home-top-sep { color: #9ca3af; }
+  .home-top-body { color: #374151; }
+  .home-top-cta  { color: #4350e8; font-weight: 600; white-space: nowrap; }
+
+  @media (max-width: 480px) {
+    .home-top-sep { display: none; }
+    .home-top-fallback-link { gap: 2px 4px; }
   }
 </style>
