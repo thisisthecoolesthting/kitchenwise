@@ -1,8 +1,9 @@
 node_modules/
 dist/
 .astro/
-*.log
-dist.prefix.*
-dist.bak.*
-dist.backup-*
+.env
+.env.production
 .DS_Store
+npm-debug.log*
+.vscode/
+_archive_duped/

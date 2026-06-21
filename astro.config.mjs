@@ -1,6 +1,19 @@
 import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
+import { rehypeFixAmazonInline } from './src/lib/rehype-fix-amazon-inline.mjs';
+import { rehypeInjectAmazonMidPicks } from './src/lib/rehype-inject-amazon-mid-picks.mjs';
+import { rehypeInjectPhonePromos } from './src/lib/rehype-inject-phone-promos.mjs';
 
+// Sitemap temporarily disabled — @astrojs/sitemap 3.x crashes with
+// our current route set. Re-enable once upstream ships a fix or we
+// build a custom sitemap via pages/sitemap.xml.ts.
+// import sitemap from '@astrojs/sitemap';
+
+// Custom rehype plugin:
+// For every anchor whose href matches /products/<slug>/ we append an
+// inline "Check on Amazon →" pill button that links directly to Amazon
+// with our associate tag. Works at build time so authors don't need to
+// remember to add affiliate CTAs in markdown.
 const ASSOCIATE_TAG = process.env.PUBLIC_ASSOCIATE_TAG || 'kitchenwise-20';
 
 function rehypeAugmentProductLinks() {
@@ -54,14 +67,25 @@ function rehypeAugmentProductLinks() {
   return (tree) => walk(tree);
 }
 
-// https://astro.build/config
 export default defineConfig({
   site: 'https://kitchenwise.app',
   trailingSlash: 'never',
-  integrations: [tailwind()],
-  build: { format: 'directory' },
+  integrations: [
+    tailwind(),
+    // sitemap(),
+  ],
+  build: {
+    format: 'directory',
+  },
   markdown: {
-    rehypePlugins: [rehypeAugmentProductLinks],
-    shikiConfig: { theme: 'github-light' },
+    rehypePlugins: [
+      rehypeFixAmazonInline,
+      rehypeAugmentProductLinks,
+      rehypeInjectAmazonMidPicks,
+      rehypeInjectPhonePromos,
+    ],
+    shikiConfig: {
+      theme: 'github-light',
+    },
   },
 });

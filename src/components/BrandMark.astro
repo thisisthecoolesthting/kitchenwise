@@ -1,8 +1,7 @@
 ---
-import home from '@/data/spawn-home.json';
+import home from '@/data/brand.config.json';
 
 export interface Props {
-  /** Splits a trailing " Club" wordmark for editorial headers when `splitWordmark` is on. */
   splitWordmark?: boolean;
 }
 
@@ -38,7 +37,7 @@ const secondPart = useSplit ? full.slice(clubIdx) : '';
     </>
   ) : (
     <span
-      class="wordmark font-display text-primary"
+      class="wordmark font-display text-rose-deep"
       style={`font-weight:${weight};letter-spacing:${tracking};text-transform:${textCase === 'small-caps' ? 'none' : textCase};font-variant:${textCase === 'small-caps' ? 'small-caps' : 'normal'}`}
     >
       {full}
@@ -48,8 +47,8 @@ const secondPart = useSplit ? full.slice(clubIdx) : '';
 <style>
   .brand-mark {
     display: flex;
-    align-items: baseline;
-    gap: 0.125rem;
+    align-items: center;
+    gap: 0.5rem;
   }
   .brand-mark--above-wordmark {
     flex-direction: column;

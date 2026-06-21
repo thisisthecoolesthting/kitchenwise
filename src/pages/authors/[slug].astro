@@ -1,8 +1,6 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro';
+import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import { getCollection } from 'astro:content';
-import { siteOrigin } from '@/utils/site-origin';
-import home from '@/data/spawn-home.json';
 
 export async function getStaticPaths() {
   const authors = await getCollection('authors');
@@ -11,18 +9,16 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await entry.render();
-const b = home.brand;
-const o = siteOrigin();
-const defSlug = (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || 'default-author';
+
 const allArticles = await getCollection('articles', ({ data }) => data.status === 'published');
 const allPillars = await getCollection('pillars', ({ data }) => data.status === 'published');
 const byThem = {
   articles: allArticles
-    .filter((a) => (a.data.author ?? defSlug) === entry.slug)
+    .filter((a) => (a.data.author ?? 'dana-wolff') === entry.slug)
     .sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt))
     .slice(0, 6),
   pillars: allPillars
-    .filter((p) => (p.data.author ?? defSlug) === entry.slug)
+    .filter((p) => (p.data.author ?? 'dana-wolff') === entry.slug)
     .sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt))
     .slice(0, 3),
 };
@@ -30,24 +26,25 @@ const byThem = {
 const personSchema = {
   '@context': 'https://schema.org',
   '@type': 'Person',
-  '@id': `${o}/authors/${entry.slug}/#person`,
+  '@id': `https://https://kitchenwise.app/authors/${entry.slug}/#person`,
   name: entry.data.name,
   jobTitle: entry.data.role,
   description: entry.data.shortBio,
-  image: `${o}${entry.data.photoUrl}`,
-  url: `${o}/authors/${entry.slug}/`,
+  image: `https://https://kitchenwise.app${entry.data.photoUrl}`,
+  url: `https://https://kitchenwise.app/authors/${entry.slug}/`,
   worksFor: {
     '@type': 'Organization',
-    name: b.fullName,
-    url: o,
+    name: 'KitchenWise',
+    url: 'https://https://kitchenwise.app',
   },
 };
 ---
 
-<BaseLayout
-  title={`${entry.data.name} — ${entry.data.role}`}
+<CompliantLayout
+  title={`${entry.data.name} -- ${entry.data.role}`}
   description={entry.data.shortBio}
   image={entry.data.photoUrl}
+  sectionAds="author"
 >
   <script type="application/ld+json" set:html={JSON.stringify(personSchema)} />
 
@@ -79,7 +76,7 @@ const personSchema = {
 
     {byThem.pillars.length > 0 && (
       <section class="mb-14">
-        <h2 class="font-display text-2xl text-ink-900 mb-6">In-depth guides</h2>
+        <h2 class="font-display text-2xl text-ink-900 mb-6">Investigations</h2>
         <ul class="space-y-4 !pl-0 list-none">
           {byThem.pillars.map((p) => (
             <li class="!my-0">
@@ -96,7 +93,7 @@ const personSchema = {
 
     {byThem.articles.length > 0 && (
       <section>
-        <h2 class="font-display text-2xl text-ink-900 mb-6">Recent articles</h2>
+        <h2 class="font-display text-2xl text-ink-900 mb-6">Recent pricing alerts</h2>
         <ul class="space-y-3 !pl-0 list-none">
           {byThem.articles.map((a) => (
             <li class="!my-0">
@@ -110,4 +107,4 @@ const personSchema = {
       </section>
     )}
   </article>
-</BaseLayout>
+</CompliantLayout>

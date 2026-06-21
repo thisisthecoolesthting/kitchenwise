@@ -1,6 +1,5 @@
 import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
-import home from '../data/spawn-home.json';
 
 export async function GET(context) {
   const products = await getCollection('products', ({ data }) => data.status === 'published');
@@ -28,11 +27,9 @@ export async function GET(context) {
     })),
   ].sort((a, b) => +new Date(b.pubDate) - +new Date(a.pubDate));
 
-  const b = home.brand;
-  const d = (home.defaultMetaDescription && String(home.defaultMetaDescription)) || b.taglineShort || b.fullName;
   return rss({
-    title: b.fullName,
-    description: d,
+    title: 'Second Spring Club',
+    description: 'Honest reviews for women in perimenopause and beyond.',
     site: context.site,
     items,
   });

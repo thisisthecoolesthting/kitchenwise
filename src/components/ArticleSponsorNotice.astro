@@ -1,0 +1,24 @@
+---
+import home from '@/data/spawn-home.json';
+const hidePhone = (home as { disablePhonePromos?: boolean }).disablePhonePromos === true;
+const siteBrand = home.brand?.fullName || 'KitchenWise';
+---
+{hidePhone ? (
+  <aside class="not-prose rounded-2xl border border-cream-200 bg-cream-50 px-4 py-3 sm:px-5 sm:py-4 text-sm text-ink-700 leading-relaxed" role="note">
+    <p class="!m-0">
+      <strong class="text-ink-900">Disclosure:</strong>
+      Some links on this page are Amazon partner links; {siteBrand} may earn a small commission at no extra cost to you.
+      <a href="/disclosure/" class="text-terracotta-600 hover:underline">Full disclosure</a>.
+    </p>
+  </aside>
+) : (
+  <aside class="not-prose rounded-2xl border border-cream-200 bg-cream-50 px-4 py-3 sm:px-5 sm:py-4 text-sm text-ink-700 leading-relaxed" role="note">
+    <p class="!m-0">
+      <strong class="text-ink-900">Disclosure:</strong>
+      {siteBrand} is sponsored by our phone-case sales partners at
+      <a href="https://phonecasesforall.com/?utm_source=kitchenwise&utm_medium=sponsor_disclosure" class="text-terracotta-600 font-semibold hover:underline" rel="noopener sponsored" target="_blank">Phone Cases For All</a>.
+      Some links on this page are also Amazon partner links.
+      <a href="/disclosure/" class="text-terracotta-600 hover:underline">Full disclosure</a>.
+    </p>
+  </aside>
+)}

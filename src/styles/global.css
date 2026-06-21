@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -5,15 +7,15 @@
 @layer base {
   html {
     @apply text-ink-900 bg-cream-50 antialiased;
-    font-family: 'Inter', system-ui, sans-serif;
+    font-family: 'Nunito Sans', system-ui, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
   body {
-    @apply leading-relaxed;
+    @apply leading-relaxed site-page-bg texture-paper;
   }
   h1, h2, h3, h4, h5, h6 {
-    font-family: 'Libre Baskerville', Georgia, serif;
+    font-family: 'Playfair Display', Georgia, serif;
     @apply text-ink-900 font-semibold tracking-tight;
   }
   h1 { @apply text-4xl md:text-5xl; }
@@ -23,12 +25,14 @@
   ::selection { @apply bg-terracotta-400/30 text-ink-900; }
   img { @apply select-none; }
 
+  /* Smoother focus ring that follows our palette. */
   :focus-visible {
     @apply outline-none ring-2 ring-terracotta-400/70 ring-offset-2 ring-offset-cream-50 rounded-lg;
   }
 }
 
 @layer components {
+  /* Pill-shaped buttons, soft shadow, gentle lift on hover. */
   .btn {
     @apply inline-flex items-center justify-center rounded-full px-7 py-3
            font-semibold text-base border border-transparent
@@ -47,12 +51,14 @@
     @apply max-w-prose mx-auto px-5;
   }
 
+  /* Rounded "card" surface used across listing grids. */
   .card-soft {
     @apply bg-white rounded-3xl border border-cream-200/70 shadow-soft
            transition-all duration-300 ease-out
            hover:shadow-soft-lg hover:-translate-y-1;
   }
 
+  /* Rounded text input, pairs with pill buttons. */
   .input-soft {
     @apply w-full px-5 py-3 rounded-full border border-cream-200 bg-white
            shadow-soft placeholder:text-ink-500/70
@@ -60,10 +66,13 @@
            transition-all duration-200;
   }
 
+  /* Rounded-corner image wrapper. */
   .img-soft {
     @apply rounded-3xl overflow-hidden bg-cream-200;
   }
 
+  /* Inline Amazon pill rendered next to any internal /products/ link. The
+     rehype plugin in astro.config.mjs injects this button automatically. */
   .amazon-cta-inline {
     @apply inline-flex items-center gap-1 ml-2 px-3 py-1 rounded-full
            bg-terracotta-500 text-white text-sm font-medium no-underline
@@ -73,10 +82,65 @@
   }
   .amazon-cta-inline:hover { text-decoration: none !important; }
 
+  /* Container for the internal-review link + inline Amazon CTA pair. */
   .product-link-pair {
     @apply inline-flex flex-wrap items-center gap-y-1;
   }
 
+  /* Inline Amazon product cards at the bottom of articles (## Top Picks). */
+  .amazon-inline-card {
+    @apply my-4;
+  }
+  .amazon-inline-card__link {
+    @apply flex items-center gap-3 no-underline rounded-xl border border-cream-200
+           bg-white p-3 sm:p-4 shadow-soft transition-all duration-200
+           hover:border-terracotta-400 hover:shadow-soft-lg hover:no-underline;
+  }
+  .amazon-inline-card__img {
+    @apply w-20 h-20 object-contain rounded-lg bg-cream-100 flex-shrink-0 p-1;
+    min-width: 5rem;
+    min-height: 5rem;
+  }
+  .amazon-inline-card__body {
+    @apply flex flex-col gap-1 min-w-0 flex-1;
+  }
+  .amazon-inline-card__title {
+    @apply block text-sm font-semibold text-ink-900 leading-snug !m-0;
+  }
+  .amazon-inline-card__desc {
+    @apply text-xs text-ink-500 leading-relaxed;
+  }
+  .amazon-inline-card__cta {
+    @apply mt-2 inline-flex self-start rounded-full bg-terracotta-500 px-3 py-1.5
+           font-mono text-[10px] tracking-[0.12em] uppercase text-cream-50;
+  }
+  .article-longform .amazon-inline-card__link:hover .amazon-inline-card__cta {
+    @apply bg-terracotta-600;
+  }
+
+  /* Prose Amazon affiliate text links — distinct from internal links for CTR + disclosure */
+  .article-body-wide :global(a[href*="amazon.com/dp/"]) {
+    @apply font-medium text-terracotta-600 underline decoration-terracotta-400/60 decoration-2 underline-offset-2;
+  }
+  .article-body-wide :global(a[href*="amazon.com/dp/"]::after) {
+    content: ' ↗';
+    @apply text-[0.7em] text-terracotta-500 no-underline;
+  }
+
+  .amazon-inline-card--mid {
+    @apply my-5;
+  }
+  .amazon-inline-card--mid .amazon-inline-card__link {
+    @apply p-2.5 sm:p-3 gap-2.5;
+  }
+  .amazon-inline-card--mid .amazon-inline-card__img {
+    @apply w-16 h-16;
+    min-width: 4rem;
+    min-height: 4rem;
+  }
+
+  /* Subtle grain texture for cream sections — barely visible, but gives
+     the cream background the analog feel that flat CSS doesn't.         */
   .texture-paper {
     background-image:
       radial-gradient(rgba(42, 36, 34, 0.025) 1px, transparent 1px),
@@ -85,11 +149,15 @@
     background-position: 0 0, 2px 2px;
   }
 
+  /* Soft "pebble" band used to visually separate sections without a hard
+     border. Combine with bg-cream-100 or bg-white on the parent.        */
   .section-pebble {
-    @apply relative rounded-[2.5rem] md:rounded-[3rem] mx-3 md:mx-6 my-3 md:my-6
+    @apply relative rounded-[2.5rem] md:rounded-[3.5rem] mx-3 md:mx-6 my-3 md:my-6
            overflow-hidden;
   }
 
+  /* Soft full-bleed section that softens its top/bottom edges into a
+     gentle curve instead of a hard horizontal border.                   */
   .section-soft {
     @apply relative;
   }
@@ -126,6 +194,7 @@
   .trust-word {
     @apply text-ink-900;
   }
+  /* Softer, layered shadows so "elevation" feels like paper, not a box. */
   .shadow-soft {
     box-shadow:
       0 1px 2px rgba(42, 36, 34, 0.04),
@@ -137,6 +206,7 @@
       0 12px 32px rgba(42, 36, 34, 0.09);
   }
 
+  /* Rounded outside-corner "notch" backgrounds for section transitions. */
   .rounded-blob {
     border-radius: 2.5rem 2.5rem 3.5rem 3.5rem / 2rem 2rem 3rem 3rem;
   }
@@ -221,11 +291,24 @@
 
   .site-top-ad-band :global(.section-ads-header .cad-wrap) {
     margin-top: 0;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.15rem;
+  }
+  .site-top-ad-band :global(.section-ads-header) {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
   }
 }
 @layer utilities {
   .text-balance { text-wrap: balance; }
+
+  @media (prefers-reduced-motion: reduce) {
+    .hero-visual__video {
+      display: none !important;
+    }
+    .hero-visual__poster {
+      display: block !important;
+    }
+  }
 }
 
   .hero-band .btn-secondary {

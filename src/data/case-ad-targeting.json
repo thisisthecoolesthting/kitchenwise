@@ -1,7 +1,7 @@
 {
     "version":  "1.0.0",
     "updated":  "2026-05-10",
-    "doctrine":  "Per AFFILIATE-200 spec — SSC + RefillWatch surface light cases (clean palettes), Inkledger surfaces dark cases (moody palettes). All affiliate sites can show all phonecase shops, but weights tilt by audience fit.",
+    "doctrine":  "Per AFFILIATE-200 spec — SSC + KitchenWise surface light cases (clean palettes), Inkledger surfaces dark cases (moody palettes). All affiliate sites can show all phonecase shops, but weights tilt by audience fit.",
     "affiliate_sites":  {
                             "secondspringclub":  {
                                                      "domain":  "secondspringclub.com",
@@ -16,7 +16,7 @@
                                                                       }
                                                  },
                             "refillwatch":  {
-                                                "domain":  "refillwatch.org",
+                                                "domain":  "https://kitchenwise.app",
                                                 "audience":  "sustainability, eco-conscious, refillable products",
                                                 "case_motif":  "light",
                                                 "shop_weights":  {

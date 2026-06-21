@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /draft/
 
-Sitemap: /sitemap.xml
+Sitemap: https://kitchenwise.app/sitemap.xml

@@ -1,6 +1,4 @@
 ---
-import home from '@/data/spawn-home.json';
-const hnl = (home as { newsletter?: { kicker?: string; title?: string; subtitle?: string } }).newsletter;
 // Reusable newsletter signup.
 //
 // Detects Beehiiv iframe URL (free tier only gives iframes) and renders
@@ -17,11 +15,10 @@ export interface Props {
 
 const {
   variant = 'hero',
-  title = hnl?.title ?? 'Get updates',
-  subtitle = hnl?.subtitle ?? 'A short weekly email with new guides and product notes.',
+  title = 'Join the Club',
+  subtitle = "One curated pick, one practical tip, one honest read on midlife -- once a week. No spam, ever.",
   cta = 'Subscribe',
 } = Astro.props;
-const kicker = hnl?.kicker ?? 'Newsletter';
 
 const embedUrl = import.meta.env.PUBLIC_NEWSLETTER_EMBED_URL || '';
 const isBeehiiv = embedUrl.includes('subscribe-forms.beehiiv.com');
@@ -40,7 +37,7 @@ const iframeHeight = iframeHeights[variant] ?? '420';
 {variant === 'hero' && (
   <div class="text-center">
     <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-4">
-      {kicker}
+      The KitchenWise weekly
     </p>
     <h2 class="font-display text-3xl md:text-4xl text-ink-900 mb-4">{title}</h2>
     <p class="text-ink-700 mb-8 max-w-prose mx-auto leading-relaxed">{subtitle}</p>

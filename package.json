@@ -1,18 +1,30 @@
 {
   "name": "kitchenwise",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "astro dev",
+    "start": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "astro": "astro",
+    "fix:amazon-cards": "node scripts/fix-amazon-inline-cards.mjs",
+    "verify:amazon-images": "node scripts/verify-amazon-inline-images.mjs",
+    "verify:amazon-asins": "node scripts/verify-amazon-asins.mjs",
+    "archive:off-niche-products": "node scripts/archive-off-niche-products.mjs",
+    "sync:top-picks": "node scripts/sync-top-picks-by-topic.mjs",
+    "sync:pinterest-fm": "node scripts/sync-article-pinterest-frontmatter.mjs"
   },
   "dependencies": {
+    "@astrojs/rss": "^4.0.7",
+    "@astrojs/sitemap": "^3.4.1",
     "@astrojs/tailwind": "^5.1.0",
-    "@astrojs/rss": "^4.0.0",
-    "@tailwindcss/typography": "^0.5.15",
-    "astro": "^4.16.0",
-    "tailwindcss": "^3.4.17"
+    "astro": "^4.16.18",
+    "tailwindcss": "^3.4.10"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.13",
+    "@types/node": "^22.5.0"
   }
 }
