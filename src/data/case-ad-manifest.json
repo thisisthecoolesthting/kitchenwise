@@ -1,255 +1,375 @@
 {
-  "version": "2.0.0",
-  "updated": "2026-05-12",
+  "version": 2,
+  "updated": "2026-07-20",
+  "note": "Direct POD phone-case creatives for affiliate CaseAdSlot injection \u2014 NOT Amazon affiliate product ads.",
   "shops": {
     "phonecasesforall": {
+      "slug": "phonecasesforall",
       "name": "Phone Cases For All",
       "domain": "phonecasesforall.com",
-      "url": "https://phonecasesforall.com/?utm_source=AFFSITE&utm_medium=banner&utm_campaign=cross-promo&utm_content=SIZE",
-      "tagline": "Cases that match your energy",
-      "cta": "Shop the looks",
-      "palette_ref": "phonecasesforall",
-      "weight": 1.0
-    },
-    "galaxycaseco": {
-      "name": "Galaxy Case Co",
-      "domain": "galaxycaseco.com",
-      "url": "https://galaxycaseco.com/?utm_source=AFFSITE&utm_medium=banner&utm_campaign=cross-promo&utm_content=SIZE",
-      "tagline": "Built for Galaxy. Ready for impact.",
-      "cta": "Shop Galaxy",
-      "palette_ref": "galaxycaseco",
-      "weight": 1.0
-    },
-    "phonecasegift": {
-      "name": "Phone Case Gift",
-      "domain": "phonecasegift.shop",
-      "url": "https://phonecasegift.shop/?utm_source=AFFSITE&utm_medium=banner&utm_campaign=cross-promo&utm_content=SIZE",
-      "tagline": "Fun finds for every vibe.",
-      "cta": "Send a gift",
-      "palette_ref": "phonecasegift",
-      "weight": 1.0
+      "tagline": "Cases people actually want",
+      "badge": "Curated vault",
+      "cta": "Shop curated cases",
+      "offer": "From $24.99"
     },
     "titancase": {
+      "slug": "titancase",
       "name": "Titan Case",
       "domain": "titancase.shop",
-      "url": "https://titancase.shop/?utm_source=AFFSITE&utm_medium=banner&utm_campaign=cross-promo&utm_content=SIZE",
-      "tagline": "Engineered restraint for iPhone.",
-      "cta": "Shop iPhone",
-      "palette_ref": "titancase",
-      "weight": 1.0
+      "tagline": "Your $1,200 phone. Their $6 case.",
+      "badge": "Drop Test",
+      "cta": "Shop protection",
+      "offer": "iPhone armor"
+    },
+    "galaxycaseco": {
+      "slug": "galaxycaseco",
+      "name": "Galaxy Case Co",
+      "domain": "galaxycaseco.com",
+      "tagline": "Same Galaxy. Infinite you.",
+      "badge": "Samsung only",
+      "cta": "Browse Samsung cases",
+      "offer": "Slim bold designs"
+    },
+    "phonecasegift": {
+      "slug": "phonecasegift",
+      "name": "Phone Case Gift",
+      "domain": "phonecasegift.shop",
+      "tagline": "A gift that lands",
+      "badge": "Gift ready",
+      "cta": "Send a case gift",
+      "offer": "Occasion packs"
     },
     "phonecasesforher": {
+      "slug": "phonecasesforher",
       "name": "Phone Cases For Her",
       "domain": "phonecasesforher.com",
-      "url": "https://phonecasesforher.com/?utm_source=AFFSITE&utm_medium=banner&utm_campaign=cross-promo&utm_content=SIZE",
-      "tagline": "Cases with personal polish.",
-      "cta": "Shop the look",
-      "palette_ref": "phonecasesforher",
-      "weight": 1.0
-    }
-  },
-  "sizes": {
-    "300x250": {
-      "format": "medium-rectangle",
-      "width": 300,
-      "height": 250
+      "tagline": "Her everyday armor",
+      "badge": "For her",
+      "cta": "Gift her a case",
+      "offer": "Floral + pastel"
     },
-    "728x90": {
-      "format": "leaderboard",
-      "width": 728,
-      "height": 90
+    "casepop": {
+      "slug": "casepop",
+      "name": "CasePop",
+      "domain": "casepop.shop",
+      "tagline": "Everyone has this phone. Nobody has this case.",
+      "badge": "Drops",
+      "cta": "See what's new",
+      "offer": "Gen-Z limited"
     },
-    "320x50": {
-      "format": "mobile-banner",
-      "width": 320,
-      "height": 50
+    "phonecaselabs": {
+      "slug": "phonecaselabs",
+      "name": "Phone Case Labs",
+      "domain": "phonecaselabs.com",
+      "tagline": "Clean catalog. Real designs.",
+      "badge": "Labs",
+      "cta": "Browse the lab",
+      "offer": "25,000+ designs"
     },
-    "160x600": {
-      "format": "wide-skyscraper",
-      "width": 160,
-      "height": 600
+    "phonecasesforcharity": {
+      "slug": "phonecasesforcharity",
+      "name": "Phone Cases For Charity",
+      "domain": "phonecasesforcharity.com",
+      "tagline": "Protect your phone. Fund the cause.",
+      "badge": "Charity",
+      "cta": "Shop for good",
+      "offer": "Impact cases"
     },
-    "300x600": {
-      "format": "half-page",
-      "width": 300,
-      "height": 600
+    "phonecasesforkids": {
+      "slug": "phonecasesforkids",
+      "name": "Phone Cases For Kids",
+      "domain": "phonecasesforkids.com",
+      "tagline": "First phone. Ready case.",
+      "badge": "Kids",
+      "cta": "Shop kids cases",
+      "offer": "Backpack tough"
+    },
+    "blackmasscases": {
+      "slug": "blackmasscases",
+      "name": "Black Mass Cases",
+      "domain": "blackmasscases.xyz",
+      "tagline": "Horror that fits your pocket",
+      "badge": "Horror drop",
+      "cta": "Shop the dark",
+      "offer": "Midnight aesthetics"
+    },
+    "trailguardcase": {
+      "slug": "trailguardcase",
+      "name": "Trail Guard Case",
+      "domain": "trailguardcase.com",
+      "tagline": "Trail-ready phone armor",
+      "badge": "Outdoor",
+      "cta": "Shop trail cases",
+      "offer": "Hike + drop ready"
+    },
+    "swiftcase": {
+      "slug": "swiftcase",
+      "name": "SwiftCase",
+      "domain": "swiftcase.shop",
+      "tagline": "Fast picks. Tough cases.",
+      "badge": "Swift",
+      "cta": "Shop SwiftCase",
+      "offer": "42-design catalog"
+    },
+    "casemorph": {
+      "slug": "casemorph",
+      "name": "CaseMorph",
+      "domain": "casemorph.com",
+      "tagline": "Design it. Print it. Morph it.",
+      "badge": "AI studio",
+      "cta": "Open the studio",
+      "offer": "Custom AI art"
+    },
+    "pawprintarchive": {
+      "slug": "pawprintarchive",
+      "name": "Pawprint Archive",
+      "domain": "pawprintarchive.shop",
+      "tagline": "Pet love on your phone",
+      "badge": "Pets",
+      "cta": "Shop pet cases",
+      "offer": "Memorial + everyday"
     }
   },
   "creatives": [
     {
+      "id": "pcfa-300x250-vault",
       "shop": "phonecasesforall",
       "size": "300x250",
-      "motif": "light",
-      "file": "i/s1/1.png",
-      "webp": "i/s1/1.webp"
+      "headline": "Cases people actually want",
+      "subhead": "Curated Printify vault from $24.99",
+      "cta": "Shop now",
+      "destination_url": "https://phonecasesforall.com/?ref=casead",
+      "concept": "Curated Vault"
     },
     {
+      "id": "pcfa-728x90-vault",
       "shop": "phonecasesforall",
       "size": "728x90",
-      "motif": "light",
-      "file": "i/s1/2.png",
-      "webp": "i/s1/2.webp"
+      "headline": "Browse free. Pick your model later.",
+      "subhead": "Pets \u00b7 florals \u00b7 ocean \u00b7 nature",
+      "cta": "Shop curated",
+      "destination_url": "https://phonecasesforall.com/shop?ref=casead",
+      "concept": "Curated Vault"
     },
     {
-      "shop": "phonecasesforall",
-      "size": "320x50",
-      "motif": "light",
-      "file": "i/s1/3.png",
-      "webp": "i/s1/3.webp"
-    },
-    {
-      "shop": "phonecasesforall",
-      "size": "160x600",
-      "motif": "light",
-      "file": "i/s1/4.png",
-      "webp": "i/s1/4.webp"
-    },
-    {
-      "shop": "phonecasesforall",
-      "size": "300x600",
-      "motif": "light",
-      "file": "i/s1/5.png",
-      "webp": "i/s1/5.webp"
-    },
-    {
-      "shop": "galaxycaseco",
-      "size": "300x250",
-      "motif": "dark",
-      "file": "i/s2/1.png",
-      "webp": "i/s2/1.webp"
-    },
-    {
-      "shop": "galaxycaseco",
-      "size": "728x90",
-      "motif": "dark",
-      "file": "i/s2/2.png",
-      "webp": "i/s2/2.webp"
-    },
-    {
-      "shop": "galaxycaseco",
-      "size": "320x50",
-      "motif": "dark",
-      "file": "i/s2/3.png",
-      "webp": "i/s2/3.webp"
-    },
-    {
-      "shop": "galaxycaseco",
-      "size": "160x600",
-      "motif": "dark",
-      "file": "i/s2/4.png",
-      "webp": "i/s2/4.webp"
-    },
-    {
-      "shop": "galaxycaseco",
-      "size": "300x600",
-      "motif": "dark",
-      "file": "i/s2/5.png",
-      "webp": "i/s2/5.webp"
-    },
-    {
-      "shop": "phonecasegift",
-      "size": "300x250",
-      "motif": "light",
-      "file": "i/s3/1.png",
-      "webp": "i/s3/1.webp"
-    },
-    {
-      "shop": "phonecasegift",
-      "size": "728x90",
-      "motif": "light",
-      "file": "i/s3/2.png",
-      "webp": "i/s3/2.webp"
-    },
-    {
-      "shop": "phonecasegift",
-      "size": "320x50",
-      "motif": "light",
-      "file": "i/s3/3.png",
-      "webp": "i/s3/3.webp"
-    },
-    {
-      "shop": "phonecasegift",
-      "size": "160x600",
-      "motif": "light",
-      "file": "i/s3/4.png",
-      "webp": "i/s3/4.webp"
-    },
-    {
-      "shop": "phonecasegift",
-      "size": "300x600",
-      "motif": "light",
-      "file": "i/s3/5.png",
-      "webp": "i/s3/5.webp"
-    },
-    {
+      "id": "titan-300x250-drop",
       "shop": "titancase",
       "size": "300x250",
-      "motif": "dark",
-      "file": "i/s4/1.png",
-      "webp": "i/s4/1.webp"
+      "headline": "Your $1,200 phone. Their $6 case.",
+      "subhead": "iPhone armor for real drops",
+      "cta": "Shop Titan",
+      "destination_url": "https://titancase.shop/?ref=casead",
+      "concept": "Drop Test"
     },
     {
-      "shop": "titancase",
-      "size": "728x90",
-      "motif": "dark",
-      "file": "i/s4/2.png",
-      "webp": "i/s4/2.webp"
-    },
-    {
+      "id": "titan-320x50-drop",
       "shop": "titancase",
       "size": "320x50",
-      "motif": "dark",
-      "file": "i/s4/3.png",
-      "webp": "i/s4/3.webp"
+      "headline": "One drop shouldn't cost a grand",
+      "subhead": "Titan Case",
+      "cta": "Protect",
+      "destination_url": "https://titancase.shop/?ref=casead",
+      "concept": "Drop Test"
     },
     {
-      "shop": "titancase",
+      "id": "galaxy-300x250-you",
+      "shop": "galaxycaseco",
+      "size": "300x250",
+      "headline": "Same Galaxy. Infinite you.",
+      "subhead": "Samsung-only bold designs",
+      "cta": "Browse",
+      "destination_url": "https://galaxycaseco.com/?ref=casead",
+      "concept": "Wear Personality"
+    },
+    {
+      "id": "galaxy-160x600-you",
+      "shop": "galaxycaseco",
       "size": "160x600",
-      "motif": "dark",
-      "file": "i/s4/4.png",
-      "webp": "i/s4/4.webp"
+      "headline": "Nobody has this case",
+      "subhead": "Galaxy Case Co \u00b7 Samsung only",
+      "cta": "Shop",
+      "destination_url": "https://galaxycaseco.com/?ref=casead",
+      "concept": "Wear Personality"
     },
     {
-      "shop": "titancase",
-      "size": "300x600",
-      "motif": "dark",
-      "file": "i/s4/5.png",
-      "webp": "i/s4/5.webp"
+      "id": "gift-300x250-lands",
+      "shop": "phonecasegift",
+      "size": "300x250",
+      "headline": "A gift that lands",
+      "subhead": "Occasion-ready phone case gifts",
+      "cta": "Send a gift",
+      "destination_url": "https://phonecasegift.shop/?ref=casead",
+      "concept": "Gift That Lands"
     },
     {
+      "id": "gift-728x90-lands",
+      "shop": "phonecasegift",
+      "size": "728x90",
+      "headline": "Last-minute gift? Case covered.",
+      "subhead": "Phone Case Gift",
+      "cta": "Shop gifts",
+      "destination_url": "https://phonecasegift.shop/?ref=casead",
+      "concept": "Gift That Lands"
+    },
+    {
+      "id": "her-300x250-armor",
       "shop": "phonecasesforher",
       "size": "300x250",
-      "motif": "light",
-      "file": "i/s5/1.png",
-      "webp": "i/s5/1.webp"
+      "headline": "Her everyday armor",
+      "subhead": "Floral \u00b7 pastel \u00b7 personal",
+      "cta": "Gift her",
+      "destination_url": "https://phonecasesforher.com/?ref=casead",
+      "concept": "Her Everyday Armor"
     },
     {
-      "shop": "phonecasesforher",
-      "size": "728x90",
-      "motif": "light",
-      "file": "i/s5/2.png",
-      "webp": "i/s5/2.webp"
-    },
-    {
+      "id": "her-320x50-armor",
       "shop": "phonecasesforher",
       "size": "320x50",
-      "motif": "light",
-      "file": "i/s5/3.png",
-      "webp": "i/s5/3.webp"
+      "headline": "Cases she'll actually use",
+      "subhead": "For Her",
+      "cta": "Shop",
+      "destination_url": "https://phonecasesforher.com/?ref=casead",
+      "concept": "Her Everyday Armor"
     },
     {
-      "shop": "phonecasesforher",
-      "size": "160x600",
-      "motif": "light",
-      "file": "i/s5/4.png",
-      "webp": "i/s5/4.webp"
+      "id": "pop-300x250-vibe",
+      "shop": "casepop",
+      "size": "300x250",
+      "headline": "Everyone has this phone",
+      "subhead": "Nobody has this CasePop drop",
+      "cta": "See drops",
+      "destination_url": "https://casepop.shop/?ref=casead",
+      "concept": "Wear Personality"
     },
     {
-      "shop": "phonecasesforher",
+      "id": "pop-300x600-vibe",
+      "shop": "casepop",
       "size": "300x600",
-      "motif": "light",
-      "file": "i/s5/5.png",
-      "webp": "i/s5/5.webp"
+      "headline": "Limited Gen-Z case drops",
+      "subhead": "Express first. Protect always.",
+      "cta": "Shop CasePop",
+      "destination_url": "https://casepop.shop/?ref=casead",
+      "concept": "Wear Personality"
+    },
+    {
+      "id": "kids-300x250-first",
+      "shop": "phonecasesforkids",
+      "size": "300x250",
+      "headline": "First phone. Ready case.",
+      "subhead": "Parent-approved \u00b7 backpack tough",
+      "cta": "Shop kids",
+      "destination_url": "https://phonecasesforkids.com/?ref=casead",
+      "concept": "First Phone Ready"
+    },
+    {
+      "id": "kids-728x90-first",
+      "shop": "phonecasesforkids",
+      "size": "728x90",
+      "headline": "Back-to-school phone armor for kids",
+      "subhead": "Phone Cases For Kids",
+      "cta": "Shop",
+      "destination_url": "https://phonecasesforkids.com/?ref=casead",
+      "concept": "First Phone Ready"
+    },
+    {
+      "id": "charity-300x250",
+      "shop": "phonecasesforcharity",
+      "size": "300x250",
+      "headline": "Protect your phone. Fund the cause.",
+      "subhead": "Cases that give back",
+      "cta": "Shop for good",
+      "destination_url": "https://phonecasesforcharity.com/?ref=casead",
+      "concept": "Charity Case"
+    },
+    {
+      "id": "charity-320x50",
+      "shop": "phonecasesforcharity",
+      "size": "320x50",
+      "headline": "Charity phone cases",
+      "subhead": "Impact + protection",
+      "cta": "Shop",
+      "destination_url": "https://phonecasesforcharity.com/?ref=casead",
+      "concept": "Charity Case"
+    },
+    {
+      "id": "horror-300x250",
+      "shop": "blackmasscases",
+      "size": "300x250",
+      "headline": "Horror that fits your pocket",
+      "subhead": "Black Mass midnight drops",
+      "cta": "Shop dark",
+      "destination_url": "https://blackmasscases.xyz/?ref=casead",
+      "concept": "Horror Drop"
+    },
+    {
+      "id": "horror-160x600",
+      "shop": "blackmasscases",
+      "size": "160x600",
+      "headline": "Midnight case aesthetics",
+      "subhead": "blackmasscases.xyz",
+      "cta": "Enter",
+      "destination_url": "https://blackmasscases.xyz/?ref=casead",
+      "concept": "Horror Drop"
+    },
+    {
+      "id": "trail-300x250",
+      "shop": "trailguardcase",
+      "size": "300x250",
+      "headline": "Trail-ready phone armor",
+      "subhead": "Dirt \u00b7 drops \u00b7 one-hand snaps",
+      "cta": "Shop trail",
+      "destination_url": "https://trailguardcase.com/?ref=casead",
+      "concept": "Trail Guard"
+    },
+    {
+      "id": "trail-728x90",
+      "shop": "trailguardcase",
+      "size": "728x90",
+      "headline": "Hiking phone cases that survive the trail",
+      "subhead": "Trail Guard Case",
+      "cta": "Shop",
+      "destination_url": "https://trailguardcase.com/?ref=casead",
+      "concept": "Trail Guard"
+    },
+    {
+      "id": "labs-300x250",
+      "shop": "phonecaselabs",
+      "size": "300x250",
+      "headline": "Clean catalog. Real designs.",
+      "subhead": "Phone Case Labs",
+      "cta": "Browse lab",
+      "destination_url": "https://phonecaselabs.com/?ref=casead",
+      "concept": "Curated Vault"
+    },
+    {
+      "id": "swift-300x250",
+      "shop": "swiftcase",
+      "size": "300x250",
+      "headline": "Fast picks. Tough cases.",
+      "subhead": "SwiftCase catalog",
+      "cta": "Shop Swift",
+      "destination_url": "https://swiftcase.shop/?ref=casead",
+      "concept": "Curated Vault"
+    },
+    {
+      "id": "morph-300x250",
+      "shop": "casemorph",
+      "size": "300x250",
+      "headline": "Design it. Print it. Morph it.",
+      "subhead": "AI case studio",
+      "cta": "Open studio",
+      "destination_url": "https://casemorph.com/?ref=casead",
+      "concept": "Wear Personality"
+    },
+    {
+      "id": "paw-300x250",
+      "shop": "pawprintarchive",
+      "size": "300x250",
+      "headline": "Pet love on your phone",
+      "subhead": "Pawprint Archive cases",
+      "cta": "Shop pets",
+      "destination_url": "https://pawprintarchive.shop/?ref=casead",
+      "concept": "Gift That Lands"
     }
   ]
 }
