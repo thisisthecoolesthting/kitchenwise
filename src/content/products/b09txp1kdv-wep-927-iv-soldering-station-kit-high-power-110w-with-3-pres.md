@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B09TXP1KDV?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:27:44+00:00'
+lastSeen: '2026-08-03T15:28:32+00:00'
 slug: b09txp1kdv-wep-927-iv-soldering-station-kit-high-power-110w-with-3-pres
 cardTitle: WEP 927-IV Soldering Station Kit High-Power 110W with 3 Preset Channels, Sleep M
 cardPick: Solid pick for most readers

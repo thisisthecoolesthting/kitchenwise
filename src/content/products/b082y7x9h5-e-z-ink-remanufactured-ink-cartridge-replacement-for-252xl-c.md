@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B082Y7X9H5?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:27:44+00:00'
+lastSeen: '2026-08-03T15:28:32+00:00'
 slug: b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c
 cardTitle: E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson
 cardPick: Solid pick for most readers

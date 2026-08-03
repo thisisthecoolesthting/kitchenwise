@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0CB75LML9?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:27:44+00:00'
+lastSeen: '2026-08-03T15:28:32+00:00'
 slug: b0cb75lml9-stargazer-10-5-inch-cast-iron-skillet-made-in-usa-seasoned-p
 cardTitle: Stargazer 10.5-Inch Cast Iron Skillet | Made in USA, Seasoned, Premium Frying Pa
 cardPick: Solid pick for most readers

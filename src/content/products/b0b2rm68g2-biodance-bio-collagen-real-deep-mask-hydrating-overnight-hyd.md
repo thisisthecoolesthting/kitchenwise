@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0B2RM68G2?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:27:44+00:00'
+lastSeen: '2026-08-03T15:28:32+00:00'
 slug: b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd
 cardTitle: BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po
 cardPick: Solid pick for most readers

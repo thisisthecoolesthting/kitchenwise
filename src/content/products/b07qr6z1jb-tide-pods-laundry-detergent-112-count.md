@@ -18,7 +18,7 @@ affiliateUrl: https://www.amazon.com/dp/B07QR6Z1JB?tag=kitchenwise-20&linkCode=l
 isPrime: true
 status: published
 firstSeen: '2026-04-24T00:00:00+00:00'
-lastSeen: '2026-08-03T15:27:44+00:00'
+lastSeen: '2026-08-03T15:28:32+00:00'
 tags:
 - laundry
 - household

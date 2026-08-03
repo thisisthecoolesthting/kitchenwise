@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B07Z6TV9Y7?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:27:44+00:00'
+lastSeen: '2026-08-03T15:28:32+00:00'
 slug: b07z6tv9y7-lodge-12-cast-iron-skillet-chef-collection-perfect-sear-ergo
 cardTitle: Lodge 12" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handles
 cardPick: Solid pick for most readers
