@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B00WSAXBQ0?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:27:44+00:00'
+lastSeen: '2026-08-03T15:28:32+00:00'
 slug: b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat
 cardTitle: HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station
 cardPick: Solid pick for most readers

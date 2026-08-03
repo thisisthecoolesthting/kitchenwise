@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B00063RWT8?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:27:44+00:00'
+lastSeen: '2026-08-03T15:28:32+00:00'
 slug: b00063rwt8-lodge-seasoned-cast-iron-skillet-6-5-inches-pfas-free-non-to
 cardTitle: Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Cookware - Us
 cardPick: Solid pick for most readers

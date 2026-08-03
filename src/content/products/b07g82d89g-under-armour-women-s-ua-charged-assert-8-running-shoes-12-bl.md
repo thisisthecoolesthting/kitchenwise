@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B07G82D89G?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:27:44+00:00'
+lastSeen: '2026-08-03T15:28:32+00:00'
 slug: b07g82d89g-under-armour-women-s-ua-charged-assert-8-running-shoes-12-bl
 cardTitle: Under Armour Women's UA Charged Assert 8 Running Shoes 12 Black
 cardPick: Solid pick for most readers
