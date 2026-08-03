@@ -7,14 +7,14 @@ pillarSlug: price-hike-alerts
 cardTitle: Coffee Bean Price Watch 2024
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 relatedProducts:
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B07D5DN269"
-- "B07RVMZNYR"
-- "B08R3515SF"
-- "B093TCYF9T"
-- "B09W9MF63Y"
+- B00CAZAU62
+- B00NQ1CLTI
+- B073Q8P6CQ
+- B07D5DN269
+- B07RVMZNYR
+- B08R3515SF
+- B093TCYF9T
+- B09W9MF63Y
 status: published
 tags:
 - coffee price increase
@@ -232,3 +232,12 @@ Don't absorb retailer margin expansion. Buy bulk, store properly, or roast at ho
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+

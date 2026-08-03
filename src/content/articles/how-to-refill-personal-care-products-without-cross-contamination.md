@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: How to Refill Personal Care Products Without Cross-Contamination
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T10:14:43Z'
-
 relatedProducts:
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B07VVK39F7"
-- "B09VXQ221K"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B073Q8P6CQ
+- B074ND5RDT
+- B07D5DN269
+- B07F97MPYT
+- B07VVK39F7
+- B09VXQ221K
+- B09W9MF63Y
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/how-to-refill-personal-care-products-without-cross-contamination.jpg
 subtopic: personal-care
@@ -184,3 +183,8 @@ Refilling personal care products can significantly reduce plastic waste and save
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+

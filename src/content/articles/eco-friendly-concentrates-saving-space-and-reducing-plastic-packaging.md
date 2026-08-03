@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Eco-Friendly Concentrates
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T05:55:26Z'
-
 relatedProducts:
-- "B00063RWT8"
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07RVMZNYR"
-- "B09W9MF63Y"
+- B00063RWT8
+- B001QY8QXM
+- B00CAZAU62
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B074ND5RDT
+- B07RVMZNYR
+- B09W9MF63Y
 status: published
 heroImage: /images/hero/eco-friendly-concentrates-saving-space-and-reducing-plastic-packaging.jpg
 subtopic: cleaning
@@ -179,3 +178,8 @@ Large families or users of multiple cleaning products may especially benefit fro
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

@@ -9,12 +9,12 @@ rating: 4.7
 bsr: 60
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/31n8-8i6tPL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B004QM8SLG?tag=kitchenwise-20"
+imageUrl: https://m.media-amazon.com/images/I/31n8-8i6tPL.jpg
+affiliateUrl: https://www.amazon.com/dp/B004QM8SLG?tag=kitchenwise-20
 isPrime: false
 status: draft
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:26:57+00:00'
 slug: b004qm8slg-lodge-cast-iron-set-5-piece-set-pre-seasoned-kitchen-set-ski
 cardTitle: Lodge Cast Iron Set - 5-Piece Set - Pre-Seasoned Kitchen Set - Skillets, Griddle
 cardPick: Solid pick for most readers

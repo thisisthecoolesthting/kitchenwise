@@ -7,22 +7,22 @@ pillarSlug: refill-and-reusable-guides
 cardTitle: The Best Reusable Water Bottles to Save Money and the Planet
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 relatedProducts:
-- "B004QM8SLG"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B0846GFNCQ"
-- "B093TCYF9T"
-- "B099NZC4PB"
-- "B0BVYBVHK5"
-- "B0C7ZTV376"
-- "B0CB75LML9"
-- "B0D92PVDQH"
-- "B0GF25F12C"
+- B004QM8SLG
+- B00CBBJ5KY
+- B00NQ1CLTI
+- B00WSAXBQ0
+- B07C11YW88
+- B07RVMZNYR
+- B082Y7X9H5
+- B083BFPGD8
+- B0846GFNCQ
+- B093TCYF9T
+- B099NZC4PB
+- B0BVYBVHK5
+- B0C7ZTV376
+- B0CB75LML9
+- B0D92PVDQH
+- B0GF25F12C
 status: published
 tags:
 - reusable water bottles
@@ -242,3 +242,9 @@ Total daily cost: $0.25 vs $3.48 for equivalent bottled water
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+

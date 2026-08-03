@@ -7,20 +7,20 @@ pillarSlug: subscription-savings
 cardTitle: Stop the Bleed
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B004QM8SLG"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07G82D89G"
-- "B07RVMZNYR"
-- "B07VVK39F7"
-- "B08PZBPXLZ"
-- "B093TCYF9T"
-- "B0CB75LML9"
-- "B0CGW2TFSV"
-- "B0CGW48C3G"
-- "B0DWD9NQ57"
-- "B0F54TYKF9"
+- B004QM8SLG
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B07C11YW88
+- B07G82D89G
+- B07RVMZNYR
+- B07VVK39F7
+- B08PZBPXLZ
+- B093TCYF9T
+- B0CB75LML9
+- B0CGW2TFSV
+- B0CGW48C3G
+- B0DWD9NQ57
+- B0F54TYKF9
 status: published
 tags:
 - subscription creep
@@ -267,3 +267,9 @@ For software, always ask about educational discounts (Adobe offers 60% off) or s
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

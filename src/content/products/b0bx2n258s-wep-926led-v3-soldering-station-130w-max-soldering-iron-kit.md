@@ -9,14 +9,14 @@ rating: 4.5
 bsr: 10
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/51CoBHFieBL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0BX2N258S?tag=kitchenwise-20"
+imageUrl: https://m.media-amazon.com/images/I/51CoBHFieBL.jpg
+affiliateUrl: https://www.amazon.com/dp/B0BX2N258S?tag=kitchenwise-20
 isPrime: false
 status: draft
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:26:57+00:00'
 slug: b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-
-cardTitle: WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 
+cardTitle: WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5
 cardPick: Solid pick for most readers
 tags: []
 ---

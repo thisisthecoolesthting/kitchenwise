@@ -9,12 +9,12 @@ rating: 4.6
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/41EdxJVDnfL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B07G82D89G?tag=kitchenwise-20"
+imageUrl: https://m.media-amazon.com/images/I/41EdxJVDnfL.jpg
+affiliateUrl: https://www.amazon.com/dp/B07G82D89G?tag=kitchenwise-20
 isPrime: false
 status: draft
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:26:57+00:00'
 slug: b07g82d89g-under-armour-women-s-ua-charged-assert-8-running-shoes-12-bl
 cardTitle: Under Armour Women's UA Charged Assert 8 Running Shoes 12 Black
 cardPick: Solid pick for most readers

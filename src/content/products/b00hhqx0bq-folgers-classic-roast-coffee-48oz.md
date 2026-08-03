@@ -1,28 +1,28 @@
 ---
-asin: "B00HHQX0BQ"
-slug: "b00hhqx0bq-folgers-classic-roast-coffee-48oz"
-title: "Folgers Classic Roast Ground Coffee, 48 Oz"
-seoTitle: "Folgers Classic Roast 48oz Price Tracker | RefillWatch"
-metaDescription: "Folgers 48oz price history and per-cup cost analysis. Is the big can worth it vs. smaller sizes or store-brand alternatives?"
-cardTitle: "Folgers Classic Roast (48oz)"
-cardPick: "~$0.07/cup — best cost-per-cup for mainstream drip coffee"
-category: "grocery-coffee"
+asin: B00HHQX0BQ
+slug: b00hhqx0bq-folgers-classic-roast-coffee-48oz
+title: Folgers Classic Roast Ground Coffee, 48 Oz
+seoTitle: Folgers Classic Roast 48oz Price Tracker | RefillWatch
+metaDescription: Folgers 48oz price history and per-cup cost analysis. Is the big can worth it vs. smaller sizes or store-brand alternatives?
+cardTitle: Folgers Classic Roast (48oz)
+cardPick: ~$0.07/cup — best cost-per-cup for mainstream drip coffee
+category: grocery-coffee
 price: 11.99
 rating: 4.7
 reviewCount: 67890
 bsr: 5
 commissionPerSale: 0.0
 score: 89.0
-imageUrl: "https://m.media-amazon.com/images/I/41mFT3E-X6S.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B00HHQX0BQ?tag=kitchenwise-20&linkCode=ll1&language=en_US"
+imageUrl: https://m.media-amazon.com/images/I/41mFT3E-X6S.jpg
+affiliateUrl: https://www.amazon.com/dp/B00HHQX0BQ?tag=kitchenwise-20&linkCode=ll1&language=en_US
 isPrime: true
-status: "published"
-firstSeen: "2026-04-24T00:00:00+00:00"
-lastSeen: "2026-05-08T00:00:00+00:00"
+status: published
+firstSeen: '2026-04-24T00:00:00+00:00'
+lastSeen: '2026-08-03T15:26:57+00:00'
 tags:
-  - coffee
-  - grocery
-  - bulk-buying
+- coffee
+- grocery
+- bulk-buying
 ---
 # Folgers Classic Roast 48oz — Per-Cup Cost Analysis
 

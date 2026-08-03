@@ -7,22 +7,22 @@ pillarSlug: subscription-savings
 cardTitle: 'Don''t Get Gouged: A Guide to Canceling Unwanted Subscriptions'
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B004QM8SLG"
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07G82D89G"
-- "B07RVMZNYR"
-- "B085VZPR2Y"
-- "B08PZBPXLZ"
-- "B08R3515SF"
-- "B093TCYF9T"
-- "B0CB75LML9"
-- "B0CGW2TFSV"
-- "B0CGW48C3G"
-- "B0F4X2YBP1"
-- "B0GF25F12C"
+- B004QM8SLG
+- B00CAZAU62
+- B00NQ1CLTI
+- B073Q8P6CQ
+- B074ND5RDT
+- B07G82D89G
+- B07RVMZNYR
+- B085VZPR2Y
+- B08PZBPXLZ
+- B08R3515SF
+- B093TCYF9T
+- B0CB75LML9
+- B0CGW2TFSV
+- B0CGW48C3G
+- B0F4X2YBP1
+- B0GF25F12C
 status: published
 tags:
 - subscription creep
@@ -340,3 +340,9 @@ Remember: The average household recovers $647 in the first year after a thorough
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+

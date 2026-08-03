@@ -7,22 +7,22 @@ pillarSlug: refill-and-reuse
 cardTitle: DIY Cleaning Supplies
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B004QM8SLG"
-- "B00CAZAU62"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B085VZPR2Y"
-- "B093TCYF9T"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CB75LML9"
-- "B0CGW2TFSV"
-- "B0D41ZMDPD"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B004QM8SLG
+- B00CAZAU62
+- B00CBBJ5KY
+- B00NQ1CLTI
+- B073Q8P6CQ
+- B07D5DN269
+- B07F97MPYT
+- B085VZPR2Y
+- B093TCYF9T
+- B09W9MF63Y
+- B0BVYBVHK5
+- B0CB75LML9
+- B0CGW2TFSV
+- B0D41ZMDPD
+- B0F54TYKF9
+- B0GF25F12C
 status: published
 tags:
 - cleaning supplies
@@ -245,3 +245,12 @@ Janitorial suppliers offer tremendous value:
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)** — see current price and specs.
+

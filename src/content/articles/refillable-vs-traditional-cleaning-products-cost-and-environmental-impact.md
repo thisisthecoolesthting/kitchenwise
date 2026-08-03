@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Refillable vs Traditional Cleaning Products
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T10:24:43Z'
-
 relatedProducts:
-- "B00063RWT8"
-- "B00CAZAU62"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
+- B00063RWT8
+- B00CAZAU62
+- B00WSAXBQ0
+- B07C11YW88
+- B07D5DN269
+- B082Y7X9H5
+- B08GX3K9YS
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/refillable-vs-traditional-cleaning-products-cost-and-environmental-impact.jpg
 subtopic: cleaning
@@ -187,3 +186,9 @@ However, **ingredient transparency** is crucial. Refillables sometimes use more 
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+

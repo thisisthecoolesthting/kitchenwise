@@ -1,10 +1,10 @@
 ---
 asin: B001QY8QXM
-title: B001QY8QXM
-seoTitle: B001QY8QXM — review
-metaDescription: Hands-on notes on B001QY8QXM.
+title: Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)
+seoTitle: Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5) — Review
+metaDescription: Hands-on notes on Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5) — what it's good for and where to check current pricing.
 category: general
-price: null
+price: 12.12
 rating: null
 bsr: null
 commissionPerSale: 0
@@ -14,9 +14,9 @@ affiliateUrl: https://www.amazon.com/dp/B001QY8QXM?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-01'
-lastSeen: '2026-06-01'
+lastSeen: '2026-08-03T15:26:57+00:00'
 slug: b001qy8qxm-b001qy8qxm
-cardTitle: B001QY8QXM
+cardTitle: Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)
 cardPick: Solid pick for most readers
 tags: []
 updatedAt: '2026-06-01'

@@ -7,14 +7,14 @@ pillarSlug: price-hike-alerts
 cardTitle: Pet Food Price Watch
 cardPick: Bulk-buy angles and pantry staples when pet food prices creep up.
 relatedProducts:
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B0B2RM68G2"
-- "B0DPHQRLJC"
-- "B0DVT2JTRN"
-- "B0FVY8TTVN"
-- "B0G1R37VJC"
+- B00CAZAU62
+- B00NQ1CLTI
+- B073Q8P6CQ
+- B0B2RM68G2
+- B0DPHQRLJC
+- B0DVT2JTRN
+- B0FVY8TTVN
+- B0G1R37VJC
 status: published
 tags:
 - pet-supplies
@@ -113,3 +113,9 @@ We'll keep monitoring these products and alert you when we spot significant pric
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

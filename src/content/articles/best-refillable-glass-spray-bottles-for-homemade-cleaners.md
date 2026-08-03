@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Best Refillable Glass Spray Bottles for Homemade Cleaners
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T09:54:42Z'
-
 relatedProducts:
-- "B001QY8QXM"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07Z6TV9Y7"
-- "B08PZBPXLZ"
-- "B09DY7CCW5"
-- "B09VXQ221K"
-- "B0BVYBVHK5"
+- B001QY8QXM
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B07Z6TV9Y7
+- B08PZBPXLZ
+- B09DY7CCW5
+- B09VXQ221K
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/best-refillable-glass-spray-bottles-for-homemade-cleaners.jpg
 subtopic: cleaning
@@ -166,3 +165,8 @@ Choosing the best refillable glass spray bottle hinges on matching bottle sturdi
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

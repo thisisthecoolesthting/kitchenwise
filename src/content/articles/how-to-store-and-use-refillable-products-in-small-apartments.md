@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: How to Store and Use Refillable Products in Small Apartments
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T10:20:49Z'
-
 relatedProducts:
-- "B00063RWT8"
-- "B004QM8SLG"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B083BFPGD8"
-- "B09VXQ221K"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B00063RWT8
+- B004QM8SLG
+- B073Q8P6CQ
+- B07C11YW88
+- B083BFPGD8
+- B09VXQ221K
+- B09W9MF63Y
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/how-to-store-and-use-refillable-products-in-small-apartments.jpg
 subtopic: personal-care
@@ -214,3 +213,8 @@ For apartments, compact concentrated pouches combined with stackable bottles are
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+

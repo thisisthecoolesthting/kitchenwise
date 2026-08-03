@@ -132,3 +132,8 @@ Left-handed specialty tools sometimes come with a premium but many excellent mod
 ---
 
 Finding kitchen tools that fit your natural hand motion is game-changing for anyone left-handed. After trying various potato peelers and gadgets, I can say that switching to left-handed or ambidextrous options has dramatically improved my kitchen prep speed and comfort. If you’re still wrestling with righty peelers, give some of these lefty-friendly picks a shot — your wrist will thank you!
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

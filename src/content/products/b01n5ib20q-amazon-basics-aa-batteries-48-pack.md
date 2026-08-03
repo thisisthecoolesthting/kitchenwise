@@ -1,28 +1,28 @@
 ---
-asin: "B01N5IB20Q"
-slug: "b01n5ib20q-amazon-basics-aa-batteries-48-pack"
-title: "Amazon Basics AA Performance Alkaline Batteries, 48-Count"
-seoTitle: "Amazon Basics AA Batteries 48-Pack Review | RefillWatch"
-metaDescription: "Are Amazon Basics batteries worth the price? We compare cost-per-battery against Duracell, Energizer, and store brands."
-cardTitle: "Amazon Basics AA (48-pack)"
-cardPick: "Lowest verified cost-per-battery of any bulk AA option"
-category: "batteries-electronics"
-price: 15.99
+asin: B01N5IB20Q
+slug: b01n5ib20q-amazon-basics-aa-batteries-48-pack
+title: Amazon Basics AA Performance Alkaline Batteries, 48-Count
+seoTitle: Amazon Basics AA Batteries 48-Pack Review | RefillWatch
+metaDescription: Are Amazon Basics batteries worth the price? We compare cost-per-battery against Duracell, Energizer, and store brands.
+cardTitle: Amazon Basics AA (48-pack)
+cardPick: Lowest verified cost-per-battery of any bulk AA option
+category: batteries-electronics
+price: 74.99
 rating: 4.7
 reviewCount: 287432
 bsr: 1
 commissionPerSale: 0.0
 score: 94.0
-imageUrl: "https://m.media-amazon.com/images/I/41VtUi6pMDL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B01N5IB20Q?tag=kitchenwise-20&linkCode=ll1&language=en_US"
+imageUrl: https://m.media-amazon.com/images/I/41VtUi6pMDL.jpg
+affiliateUrl: https://www.amazon.com/dp/B01N5IB20Q?tag=kitchenwise-20&linkCode=ll1&language=en_US
 isPrime: true
-status: "published"
-firstSeen: "2026-04-24T00:00:00+00:00"
-lastSeen: "2026-05-08T00:00:00+00:00"
+status: published
+firstSeen: '2026-04-24T00:00:00+00:00'
+lastSeen: '2026-08-03T15:26:57+00:00'
 tags:
-  - batteries
-  - household
-  - bulk-buying
+- batteries
+- household
+- bulk-buying
 ---
 # Amazon Basics AA Batteries (48-pack) — Price & Value Analysis
 

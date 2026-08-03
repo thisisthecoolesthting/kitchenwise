@@ -1,21 +1,21 @@
 ---
-title: "best-chefs-knife-under-100"
+title: best-chefs-knife-under-100
 site: kitchenwise
-topic: "household-staples"
+topic: household-staples
 tier: mvp
-cardTitle: "best-chefs-knife-under-100"
-cardPick: "Editorial household-staples pick from KitchenWise."
+cardTitle: best-chefs-knife-under-100
+cardPick: Editorial household-staples pick from KitchenWise.
 updatedAt: '2026-06-06T03:05:49.109Z'
 relatedProducts: []
 status: published
 subtopic: household-staples
 publishedAt: '2026-06-06T03:05:49.109Z'
-metaDescription: "best-chefs-knife-under-100"
-excerpt: "best-chefs-knife-under-100"
+metaDescription: best-chefs-knife-under-100
+excerpt: best-chefs-knife-under-100
 heroImage: /images/heroes/best-chefs-knife-under-100.webp
 tags:
-  - kitchenwise
-  - home gym
+- kitchenwise
+- home gym
 author: marcus-webb
 ---
 
@@ -84,3 +84,11 @@ While the [Knife Name Here] is our top pick, here are a couple of other knives t
 *   **[Competitor Knife 2]:** This knife is a more budget-friendly option. It's made from [Steel Type] steel and has a plastic handle. While it's not as sharp or durable as the [Knife Name Here], it's a decent option for occasional use.
 
 Ultimately, the best chef's knife for you will depend on your individual needs and preferences. However, we believe that the [Knife Name Here] offers the best combination of performance, durability, and value for money. It's a knife that you can rely on for years to come, making it a smart investment for any home cook.
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+

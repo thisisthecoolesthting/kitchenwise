@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: 'Brand Comparison: Refillable vs'
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T09:43:32Z'
-
 relatedProducts:
-- "B00CAZAU62"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B082Y7X9H5"
-- "B08PZBPXLZ"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B00CAZAU62
+- B073Q8P6CQ
+- B07C11YW88
+- B07D5DN269
+- B082Y7X9H5
+- B08PZBPXLZ
+- B09W9MF63Y
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/brand-comparison-refillable-vs-disposable-cleaning-product-effectiveness.jpg
 subtopic: cleaning
@@ -206,3 +205,8 @@ The best refillable systems feature:
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

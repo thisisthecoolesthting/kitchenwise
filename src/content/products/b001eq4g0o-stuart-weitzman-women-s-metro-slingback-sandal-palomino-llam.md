@@ -1,22 +1,22 @@
 ---
 asin: B001EQ4G0O
 title: Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US
-seoTitle: Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US — review
-metaDescription: Hands-on notes on Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US.
+seoTitle: Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M — Review
+metaDescription: Hands-on notes on Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US — what it's good for and where to check current pricing.
 category: loafers-slip-ons
 price: null
 rating: null
 bsr: 28993
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/41m-83l4lXL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B001EQ4G0O?tag=kitchenwise-20"
+imageUrl: https://m.media-amazon.com/images/I/41m-83l4lXL.jpg
+affiliateUrl: https://www.amazon.com/dp/B001EQ4G0O?tag=kitchenwise-20
 isPrime: false
 status: draft
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:26:57+00:00'
 slug: b001eq4g0o-stuart-weitzman-women-s-metro-slingback-sandal-palomino-llam
-cardTitle: Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US
+cardTitle: Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M
 cardPick: Solid pick for most readers
 tags: []
 ---

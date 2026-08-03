@@ -9,12 +9,12 @@ rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B07P5Y5QHG?tag=kitchenwise-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B07P5Y5QHG?tag=kitchenwise-20
 isPrime: false
 status: draft
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:26:57+00:00'
 slug: b07p5y5qhg-b07p5y5qhg
 cardTitle: B07P5Y5QHG
 cardPick: Solid pick for most readers

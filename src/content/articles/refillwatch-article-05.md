@@ -7,21 +7,21 @@ pillarSlug: refillwatch-pillar-2
 cardTitle: The Ultimate Printer Ink Showdown
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00063RWT8"
-- "B004QM8SLG"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B093TCYF9T"
-- "B09DY7CCW5"
-- "B0BVYBVHK5"
-- "B0CB75LML9"
-- "B0CGW2TFSV"
-- "B0CYJV9X52"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B00063RWT8
+- B004QM8SLG
+- B00NQ1CLTI
+- B00WSAXBQ0
+- B07C11YW88
+- B082Y7X9H5
+- B08GX3K9YS
+- B093TCYF9T
+- B09DY7CCW5
+- B0BVYBVHK5
+- B0CB75LML9
+- B0CGW2TFSV
+- B0CYJV9X52
+- B0F54TYKF9
+- B0GF25F12C
 status: published
 tags:
 - printer ink
@@ -189,3 +189,8 @@ For graphic designers, the Canon PGI-280XL system costs $0.28/page for photo pri
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+

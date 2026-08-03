@@ -1,21 +1,21 @@
 ---
-title: "camp-knife-steel-types-edge-retention"
+title: camp-knife-steel-types-edge-retention
 site: campdeck
-topic: "cleaning"
+topic: cleaning
 tier: mvp
-cardTitle: "camp-knife-steel-types-edge-retention"
-cardPick: "Editorial cleaning pick from CampDeck."
+cardTitle: camp-knife-steel-types-edge-retention
+cardPick: Editorial cleaning pick from CampDeck.
 updatedAt: '2026-06-06T03:05:59.824Z'
 relatedProducts: []
 status: published
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.824Z'
-metaDescription: "camp-knife-steel-types-edge-retention"
-excerpt: "camp-knife-steel-types-edge-retention"
+metaDescription: camp-knife-steel-types-edge-retention
+excerpt: camp-knife-steel-types-edge-retention
 heroImage: /images/heroes/camp-knife-steel-types-edge-retention.webp
 tags:
-  - campdeck
-  - home gym
+- campdeck
+- home gym
 author: marcus-webb
 ---
 
@@ -98,3 +98,8 @@ No matter what type of steel you choose, it's essential to know how to sharpen y
 6.  **Clean Your Knife After Sharpening:** After sharpening, clean your knife with a damp cloth and apply a thin coat of oil to protect it from corrosion.
 
 Investing in a quality *camp knife steel* and learning how to properly maintain it will ensure that your knife remains a reliable tool for years to come. And remember, a sharp knife is a safe knife.
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

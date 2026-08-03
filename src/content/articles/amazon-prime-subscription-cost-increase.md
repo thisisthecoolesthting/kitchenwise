@@ -7,20 +7,20 @@ pillarSlug: subscription-management
 cardTitle: Has Your Amazon Prime Subscription Doubled? Here's Why.
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B004QM8SLG"
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B07RVMZNYR"
-- "B07VVK39F7"
-- "B083BFPGD8"
-- "B08PZBPXLZ"
-- "B093TCYF9T"
-- "B0CB75LML9"
-- "B0CGW2TFSV"
-- "B0CGW48C3G"
-- "B0F4X2YBP1"
-- "B0GF25F12C"
+- B004QM8SLG
+- B00CAZAU62
+- B00NQ1CLTI
+- B073Q8P6CQ
+- B07RVMZNYR
+- B07VVK39F7
+- B083BFPGD8
+- B08PZBPXLZ
+- B093TCYF9T
+- B0CB75LML9
+- B0CGW2TFSV
+- B0CGW48C3G
+- B0F4X2YBP1
+- B0GF25F12C
 status: published
 tags:
 - amazon prime
@@ -263,3 +263,10 @@ Consider tracking your actual usage with apps like Rocket Money before renewing.
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+

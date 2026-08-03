@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: How to Refill Soap Dispensers Without Creating Additional Waste
 cardPick: Bulk household staples scored for cost-per-use—not hype.
 updatedAt: '2026-05-12T10:18:42Z'
-
 relatedProducts:
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B073Q8P6CQ
+- B07C11YW88
+- B07D5DN269
+- B082Y7X9H5
+- B083BFPGD8
+- B08GX3K9YS
+- B0BVYBVHK5
+- B0CYJV9X52
 status: published
 heroImage: /images/hero/how-to-refill-soap-dispensers-without-creating-additional-waste.jpg
 subtopic: packaging
@@ -207,3 +206,9 @@ By making intentional choices around dispenser type, refill format, and soap con
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+

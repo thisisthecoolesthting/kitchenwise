@@ -7,23 +7,23 @@ pillarSlug: price-hikes-exposed
 cardTitle: Pet Food Inflation
 cardPick: Bulk-buy angles and pantry staples when pet food prices creep up.
 relatedProducts:
-- "B0014D3N0Q"
-- "B001VROVN0"
-- "B004QM8SLG"
-- "B00JA3YPN4"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07F97MPYT"
-- "B07RVMZNYR"
-- "B07VVK39F7"
-- "B0846GFNCQ"
-- "B093TCYF9T"
-- "B09W9MF63Y"
-- "B0B2RM68G2"
-- "B0C7ZTV376"
-- "B0CGW2TFSV"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B0014D3N0Q
+- B001VROVN0
+- B004QM8SLG
+- B00JA3YPN4
+- B073Q8P6CQ
+- B074ND5RDT
+- B07F97MPYT
+- B07RVMZNYR
+- B07VVK39F7
+- B0846GFNCQ
+- B093TCYF9T
+- B09W9MF63Y
+- B0B2RM68G2
+- B0C7ZTV376
+- B0CGW2TFSV
+- B0F54TYKF9
+- B0GF25F12C
 status: published
 tags:
 - pet food inflation
@@ -185,3 +185,11 @@ Our testing identified these additional money-saving alternatives:
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+

@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: How to Refill Household Products While Traveling Sustainably
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T10:10:08Z'
-
 relatedProducts:
-- "B0014D3N0Q"
-- "B07C11YW88"
-- "B07F97MPYT"
-- "B07G82D89G"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
+- B0014D3N0Q
+- B07C11YW88
+- B07F97MPYT
+- B07G82D89G
+- B082Y7X9H5
+- B083BFPGD8
+- B08GX3K9YS
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/how-to-refill-household-products-while-traveling-sustainably.jpg
 subtopic: cleaning
@@ -198,3 +197,11 @@ During use:
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+

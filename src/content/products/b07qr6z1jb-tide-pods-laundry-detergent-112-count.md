@@ -1,28 +1,28 @@
 ---
-asin: "B07QR6Z1JB"
-slug: "b07qr6z1jb-tide-pods-laundry-detergent-112-count"
-title: "Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count"
-seoTitle: "Tide PODS 112-Count Price Tracker | RefillWatch"
-metaDescription: "Tide PODS price history and best-time-to-buy data. See how the 112-count compares per-load to liquid Tide and off-brand pods."
-cardTitle: "Tide PODS (112-count)"
-cardPick: "Price swings 30%+ — only buy below $22"
-category: "laundry"
-price: 27.49
+asin: B07QR6Z1JB
+slug: b07qr6z1jb-tide-pods-laundry-detergent-112-count
+title: Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count
+seoTitle: Tide PODS 112-Count Price Tracker | RefillWatch
+metaDescription: Tide PODS price history and best-time-to-buy data. See how the 112-count compares per-load to liquid Tide and off-brand pods.
+cardTitle: Tide PODS (112-count)
+cardPick: Price swings 30%+ — only buy below $22
+category: laundry
+price: 119.99
 rating: 4.8
 reviewCount: 89210
 bsr: 3
 commissionPerSale: 0.0
 score: 88.0
-imageUrl: "https://m.media-amazon.com/images/I/51OpfxMruwL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B07QR6Z1JB?tag=kitchenwise-20&linkCode=ll1&language=en_US"
+imageUrl: https://m.media-amazon.com/images/I/51OpfxMruwL.jpg
+affiliateUrl: https://www.amazon.com/dp/B07QR6Z1JB?tag=kitchenwise-20&linkCode=ll1&language=en_US
 isPrime: true
-status: "published"
-firstSeen: "2026-04-24T00:00:00+00:00"
-lastSeen: "2026-05-08T00:00:00+00:00"
+status: published
+firstSeen: '2026-04-24T00:00:00+00:00'
+lastSeen: '2026-08-03T15:26:57+00:00'
 tags:
-  - laundry
-  - household
-  - price-tracking
+- laundry
+- household
+- price-tracking
 ---
 # Tide PODS 112-Count — When to Buy (and When to Wait)
 

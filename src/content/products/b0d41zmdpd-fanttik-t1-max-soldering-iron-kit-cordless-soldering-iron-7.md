@@ -9,12 +9,12 @@ rating: 4.4
 bsr: 6
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/41ZVMABuiWL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0D41ZMDPD?tag=kitchenwise-20"
+imageUrl: https://m.media-amazon.com/images/I/41ZVMABuiWL.jpg
+affiliateUrl: https://www.amazon.com/dp/B0D41ZMDPD?tag=kitchenwise-20
 isPrime: false
 status: draft
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:26:57+00:00'
 slug: b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-
 cardTitle: Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati
 cardPick: Solid pick for most readers

@@ -9,12 +9,12 @@ rating: 4.7
 bsr: 87
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/21B6EtLRzEL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B00762AHTE?tag=kitchenwise-20"
+imageUrl: https://m.media-amazon.com/images/I/21B6EtLRzEL.jpg
+affiliateUrl: https://www.amazon.com/dp/B00762AHTE?tag=kitchenwise-20
 isPrime: false
 status: draft
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:26:57+00:00'
 slug: b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm
 cardTitle: Hakko T18S3P Tip for Fx-888 Station, 5.2mm
 cardPick: Solid pick for most readers

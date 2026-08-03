@@ -7,15 +7,15 @@ pillarSlug: subscription-savings
 cardTitle: Audit Your Subscriptions
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B00CAZAU62"
-- "B073Q8P6CQ"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B07G82D89G"
-- "B07VVK39F7"
-- "B09W9MF63Y"
-- "B0CGW2TFSV"
-- "B0CGW48C3G"
+- B00CAZAU62
+- B073Q8P6CQ
+- B07D5DN269
+- B07F97MPYT
+- B07G82D89G
+- B07VVK39F7
+- B09W9MF63Y
+- B0CGW2TFSV
+- B0CGW48C3G
 status: published
 tags:
 - subscription creep
@@ -153,3 +153,8 @@ This single habit prevents the subscription creep that catches most households o
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

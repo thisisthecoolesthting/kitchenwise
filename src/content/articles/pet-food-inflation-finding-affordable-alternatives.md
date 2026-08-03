@@ -7,21 +7,21 @@ pillarSlug: price-hikes-exposed
 cardTitle: Pet Food Inflation
 cardPick: Bulk-buy angles and pantry staples when pet food prices creep up.
 relatedProducts:
-- "B0014D3N0Q"
-- "B00CAZAU62"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07RVMZNYR"
-- "B083BFPGD8"
-- "B08PZBPXLZ"
-- "B098JD8HD3"
-- "B09VXQ221K"
-- "B0BVYBVHK5"
-- "B0CGW48C3G"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
+- B0014D3N0Q
+- B00CAZAU62
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B074ND5RDT
+- B07RVMZNYR
+- B083BFPGD8
+- B08PZBPXLZ
+- B098JD8HD3
+- B09VXQ221K
+- B0BVYBVHK5
+- B0CGW48C3G
+- B0DHV7ZWH2
+- B0DHV8SCLS
+- B0G63G9LRJ
 status: published
 tags:
 - pet food inflation
@@ -220,3 +220,10 @@ For raw feeders, we identified regional suppliers offering bulk discounts that c
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+

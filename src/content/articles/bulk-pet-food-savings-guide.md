@@ -7,22 +7,22 @@ pillarSlug: refill-and-reusable-guides
 cardTitle: Bulk Buying Pet Food
 cardPick: Bulk-buy angles and pantry staples when pet food prices creep up.
 relatedProducts:
-- "B000H0XFCS"
-- "B001VROVN0"
-- "B004QM8SLG"
-- "B00JA3YPN4"
-- "B073Q8P6CQ"
-- "B07G82D89G"
-- "B07Z6TV9Y7"
-- "B0846GFNCQ"
-- "B085VZPR2Y"
-- "B093TCYF9T"
-- "B09DY7CCW5"
-- "B09W9MF63Y"
-- "B0C7ZTV376"
-- "B0CGW2TFSV"
-- "B0CGW48C3G"
-- "B0F4X2YBP1"
+- B000H0XFCS
+- B001VROVN0
+- B004QM8SLG
+- B00JA3YPN4
+- B073Q8P6CQ
+- B07G82D89G
+- B07Z6TV9Y7
+- B0846GFNCQ
+- B085VZPR2Y
+- B093TCYF9T
+- B09DY7CCW5
+- B09W9MF63Y
+- B0C7ZTV376
+- B0CGW2TFSV
+- B0CGW48C3G
+- B0F4X2YBP1
 status: published
 tags:
 - pet food savings
@@ -229,3 +229,12 @@ Beyond traditional bulk buying, our research identified several innovative cost-
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+

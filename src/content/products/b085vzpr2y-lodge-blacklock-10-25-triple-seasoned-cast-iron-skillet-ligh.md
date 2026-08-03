@@ -1,22 +1,22 @@
 ---
 asin: B085VZPR2Y
-title: "Lodge Blacklock 10.25\" Triple Seasoned Cast Iron Skillet - Lightweight - Easy Cleanup - Premium Cookware"
-seoTitle: "Lodge Blacklock 10.25\" Triple Seasoned Cast Iron Skillet - Lightweight - Easy Cleanup - Premium Cookware \u2014 review"
-metaDescription: "Hands-on notes on Lodge Blacklock 10.25\" Triple Seasoned Cast Iron Skillet - Lightweight - Easy Cleanup - Premium Cookware."
+title: Lodge Blacklock 10.25" Triple Seasoned Cast Iron Skillet - Lightweight - Easy Cleanup - Premium Cookware
+seoTitle: Lodge Blacklock 10.25" Triple Seasoned Cast Iron Skillet - Lightweight - Easy Cleanup - Premium Cookware — review
+metaDescription: Hands-on notes on Lodge Blacklock 10.25" Triple Seasoned Cast Iron Skillet - Lightweight - Easy Cleanup - Premium Cookware.
 category: skillets
 price: 59.95
 rating: 4.4
 bsr: 149
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/31km2kO9ERL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B085VZPR2Y?tag=kitchenwise-20"
+imageUrl: https://m.media-amazon.com/images/I/31km2kO9ERL.jpg
+affiliateUrl: https://www.amazon.com/dp/B085VZPR2Y?tag=kitchenwise-20
 isPrime: false
 status: draft
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:26:57+00:00'
 slug: b085vzpr2y-lodge-blacklock-10-25-triple-seasoned-cast-iron-skillet-ligh
-cardTitle: "Lodge Blacklock 10.25\" Triple Seasoned Cast Iron Skillet - Lightweight - Easy Cl"
+cardTitle: Lodge Blacklock 10.25" Triple Seasoned Cast Iron Skillet - Lightweight - Easy Cl
 cardPick: Solid pick for most readers
 tags: []
 ---

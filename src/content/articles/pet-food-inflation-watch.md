@@ -7,27 +7,27 @@ pillarSlug: price-hike-alerts
 cardTitle: 'Pet Food Prices: Don''t Let Retailers Gouge Your Furry Friends'
 cardPick: Bulk-buy angles and pantry staples when pet food prices creep up.
 relatedProducts:
-- "B00CAZAU62"
-- "B00JA3YPN4"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B07RVMZNYR"
-- "B08PZBPXLZ"
-- "B08R3515SF"
-- "B098JD8HD3"
-- "B09VXQ221K"
-- "B09W9MF63Y"
-- "B0B2RM68G2"
-- "B0BX2N258S"
-- "B0D41ZMDPD"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
-- "B0GCMVP12Q"
+- B00CAZAU62
+- B00JA3YPN4
+- B00NQ1CLTI
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B074ND5RDT
+- B07D5DN269
+- B07F97MPYT
+- B07RVMZNYR
+- B08PZBPXLZ
+- B08R3515SF
+- B098JD8HD3
+- B09VXQ221K
+- B09W9MF63Y
+- B0B2RM68G2
+- B0BX2N258S
+- B0D41ZMDPD
+- B0DHV7ZWH2
+- B0DHV8SCLS
+- B0G63G9LRJ
+- B0GCMVP12Q
 status: published
 tags:
 - pet food inflation
@@ -199,3 +199,12 @@ The Petco WholeHearted refill program saves 15% but limits variety. For cats, Sm
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)** — see current price and specs.
+

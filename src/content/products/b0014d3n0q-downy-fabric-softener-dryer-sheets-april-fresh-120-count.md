@@ -9,12 +9,12 @@ rating: 4.8
 bsr: 12
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/41tgtN1+SgL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0014D3N0Q?tag=kitchenwise-20"
+imageUrl: https://m.media-amazon.com/images/I/41tgtN1+SgL.jpg
+affiliateUrl: https://www.amazon.com/dp/B0014D3N0Q?tag=kitchenwise-20
 isPrime: false
 status: draft
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:26:57+00:00'
 slug: b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count
 cardTitle: Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count
 cardPick: Solid pick for most readers

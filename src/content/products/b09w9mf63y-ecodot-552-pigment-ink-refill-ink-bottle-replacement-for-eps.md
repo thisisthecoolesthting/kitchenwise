@@ -9,14 +9,14 @@ rating: 4.4
 bsr: 208
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/51JxuXxXdrL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B09W9MF63Y?tag=kitchenwise-20"
+imageUrl: https://m.media-amazon.com/images/I/51JxuXxXdrL.jpg
+affiliateUrl: https://www.amazon.com/dp/B09W9MF63Y?tag=kitchenwise-20
 isPrime: false
 status: draft
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:26:57+00:00'
 slug: b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps
-cardTitle: ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for 
+cardTitle: ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for
 cardPick: Solid pick for most readers
 tags: []
 ---

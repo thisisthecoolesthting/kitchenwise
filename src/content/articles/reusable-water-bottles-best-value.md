@@ -7,22 +7,22 @@ pillarSlug: refill-and-reuse
 cardTitle: The Best Reusable Water Bottles for Long-Term Savings
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 relatedProducts:
-- "B004QM8SLG"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07Z6TV9Y7"
-- "B0846GFNCQ"
-- "B0848Q34F8"
-- "B093TCYF9T"
-- "B099NZC4PB"
-- "B09W9MF63Y"
-- "B0C7ZTV376"
-- "B0CB75LML9"
-- "B0CGW48C3G"
-- "B0GF25F12C"
+- B004QM8SLG
+- B00CBBJ5KY
+- B00NQ1CLTI
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B07C11YW88
+- B07Z6TV9Y7
+- B0846GFNCQ
+- B0848Q34F8
+- B093TCYF9T
+- B099NZC4PB
+- B09W9MF63Y
+- B0C7ZTV376
+- B0CB75LML9
+- B0CGW48C3G
+- B0GF25F12C
 status: published
 tags:
 - water bottle savings
@@ -231,3 +231,8 @@ Even accounting for tap water costs:
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+

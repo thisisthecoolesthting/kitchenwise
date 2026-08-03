@@ -4,16 +4,15 @@ site: refillwatch
 topic: How to Make Your Own Refillable Hand Soap Without Harsh Chemicals
 tier: mvp
 updatedAt: '2026-05-12T10:25:23Z'
-
 relatedProducts:
-- "B00CAZAU62"
-- "B073Q8P6CQ"
-- "B07VVK39F7"
-- "B08PZBPXLZ"
-- "B099NZC4PB"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CGW48C3G"
+- B00CAZAU62
+- B073Q8P6CQ
+- B07VVK39F7
+- B08PZBPXLZ
+- B099NZC4PB
+- B09W9MF63Y
+- B0BVYBVHK5
+- B0CGW48C3G
 status: published
 heroImage: /images/hero/how-to-make-your-own-refillable-hand-soap-without-harsh-chemicals.jpg
 subtopic: personal-care
@@ -209,3 +208,9 @@ Because you control the concentration, you can adjust cleaning power and cost. C
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+

@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: How to Set Up a Refillable Cleaning Station in Your Home
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T09:53:44Z'
-
 relatedProducts:
-- "B004QM8SLG"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B09TXP1KDV"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0BX2N258S"
+- B004QM8SLG
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B07C11YW88
+- B09TXP1KDV
+- B09W9MF63Y
+- B0BVYBVHK5
+- B0BX2N258S
 status: published
 heroImage: /images/hero/how-to-set-up-a-refillable-cleaning-station-in-your-home.jpg
 subtopic: cleaning
@@ -186,3 +185,8 @@ A critical look at common refillable product claims:
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

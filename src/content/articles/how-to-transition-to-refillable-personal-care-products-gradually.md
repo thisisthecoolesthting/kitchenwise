@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: How to Transition to Refillable Personal Care Products Gradually
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T10:07:23Z'
-
 relatedProducts:
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0B2RM68G2"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B00WSAXBQ0
+- B07C11YW88
+- B082Y7X9H5
+- B083BFPGD8
+- B08GX3K9YS
+- B0B2RM68G2
+- B0BVYBVHK5
+- B0CYJV9X52
 status: published
 heroImage: /images/hero/how-to-transition-to-refillable-personal-care-products-gradually.jpg
 subtopic: personal-care
@@ -206,3 +205,8 @@ Being mindful of these helps avoid setbacks.
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+

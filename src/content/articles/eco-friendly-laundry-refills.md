@@ -7,11 +7,11 @@ pillarSlug: refill-and-reuse
 cardTitle: Eco-Friendly Laundry Refills
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B0014D3N0Q"
-- "B00CAZAU62"
-- "B00CBBJ5KY"
-- "B082Y7X9H5"
-- "B083BFPGD8"
+- B0014D3N0Q
+- B00CAZAU62
+- B00CBBJ5KY
+- B082Y7X9H5
+- B083BFPGD8
 status: published
 tags:
 - laundry
@@ -149,3 +149,9 @@ Refillable detergent saves money *and* cuts plastic waste. But watch for price h
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

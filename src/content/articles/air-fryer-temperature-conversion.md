@@ -1,21 +1,21 @@
 ---
-title: "air-fryer-temperature-conversion"
+title: air-fryer-temperature-conversion
 site: kitchenwise
-topic: "household-staples"
+topic: household-staples
 tier: mvp
-cardTitle: "air-fryer-temperature-conversion"
-cardPick: "Editorial household-staples pick from KitchenWise."
+cardTitle: air-fryer-temperature-conversion
+cardPick: Editorial household-staples pick from KitchenWise.
 updatedAt: '2026-06-06T03:05:49.096Z'
 relatedProducts: []
 status: published
 subtopic: household-staples
 publishedAt: '2026-06-06T03:05:49.096Z'
-metaDescription: "air-fryer-temperature-conversion"
-excerpt: "air-fryer-temperature-conversion"
+metaDescription: air-fryer-temperature-conversion
+excerpt: air-fryer-temperature-conversion
 heroImage: /images/heroes/air-fryer-temperature-conversion.webp
 tags:
-  - kitchenwise
-  - home gym
+- kitchenwise
+- home gym
 author: marcus-webb
 ---
 
@@ -116,3 +116,11 @@ Even with the best conversion chart, you might encounter some common air frying 
 *   Consider patting the food dry before air frying. Excess moisture can prevent crisping.
 
 Air frying is a fantastic way to prepare food quickly and efficiently. By understanding the differences between air fryers and ovens, using a temperature conversion chart, and following these tips, you can confidently adapt your favorite recipes for the air fryer and enjoy delicious, crispy results every time. Remember to always prioritize food safety by using a meat thermometer and following recommended internal temperature guidelines.
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+

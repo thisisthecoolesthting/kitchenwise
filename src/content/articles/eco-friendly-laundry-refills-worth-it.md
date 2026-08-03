@@ -7,27 +7,27 @@ pillarSlug: refill-and-reuse
 cardTitle: Are Eco-Friendly Laundry Refills Worth the Switch?
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B0014D3N0Q"
-- "B00762AHTE"
-- "B00CBBJ5KY"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07F97MPYT"
-- "B07Z6TV9Y7"
-- "B07ZPSFVX5"
-- "B083BFPGD8"
-- "B08PZBPXLZ"
-- "B08R3515SF"
-- "B098JD8HD3"
-- "B09DY7CCW5"
-- "B09VXQ221K"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0BX2N258S"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
+- B0014D3N0Q
+- B00762AHTE
+- B00CBBJ5KY
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B07C11YW88
+- B07F97MPYT
+- B07Z6TV9Y7
+- B07ZPSFVX5
+- B083BFPGD8
+- B08PZBPXLZ
+- B08R3515SF
+- B098JD8HD3
+- B09DY7CCW5
+- B09VXQ221K
+- B09W9MF63Y
+- B0BVYBVHK5
+- B0BX2N258S
+- B0DHV7ZWH2
+- B0DHV8SCLS
+- B0G63G9LRJ
 status: published
 tags:
 - laundry detergent
@@ -242,3 +242,9 @@ For the truly hands-on:
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

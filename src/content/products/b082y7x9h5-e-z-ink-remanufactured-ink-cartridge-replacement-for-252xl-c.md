@@ -9,14 +9,14 @@ rating: 4.2
 bsr: 1434
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/51VZ-evJt2L.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B082Y7X9H5?tag=kitchenwise-20"
+imageUrl: https://m.media-amazon.com/images/I/51VZ-evJt2L.jpg
+affiliateUrl: https://www.amazon.com/dp/B082Y7X9H5?tag=kitchenwise-20
 isPrime: false
 status: draft
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:26:57+00:00'
 slug: b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c
-cardTitle: E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson 
+cardTitle: E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson
 cardPick: Solid pick for most readers
 tags: []
 ---

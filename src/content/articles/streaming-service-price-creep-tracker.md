@@ -7,19 +7,19 @@ pillarSlug: subscription-management
 cardTitle: Tracking Streaming Service Price Creep
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B00CAZAU62"
-- "B073Q8P6CQ"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B07G82D89G"
-- "B07RVMZNYR"
-- "B07YPR2DGH"
-- "B07Z6TV9Y7"
-- "B0846GFNCQ"
-- "B08PZBPXLZ"
-- "B09DV14ZZL"
-- "B09WDBHXB3"
-- "B0B7MKRR58"
+- B00CAZAU62
+- B073Q8P6CQ
+- B07D5DN269
+- B07F97MPYT
+- B07G82D89G
+- B07RVMZNYR
+- B07YPR2DGH
+- B07Z6TV9Y7
+- B0846GFNCQ
+- B08PZBPXLZ
+- B09DV14ZZL
+- B09WDBHXB3
+- B0B7MKRR58
 status: published
 tags:
 - streaming price hike
@@ -192,3 +192,9 @@ The Nvidia Shield TV Pro transforms local media into a Netflix-like experience w
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

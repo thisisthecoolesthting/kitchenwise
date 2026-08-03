@@ -7,15 +7,15 @@ pillarSlug: subscription-savings
 cardTitle: Streaming Service Price Creep
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B00CAZAU62"
-- "B074ND5RDT"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B07J2P2V7T"
-- "B07VVK39F7"
-- "B08PZBPXLZ"
-- "B0B2RM68G2"
-- "B0CGW48C3G"
+- B00CAZAU62
+- B074ND5RDT
+- B07D5DN269
+- B07F97MPYT
+- B07J2P2V7T
+- B07VVK39F7
+- B08PZBPXLZ
+- B0B2RM68G2
+- B0CGW48C3G
 status: published
 tags:
 - subscription creep
@@ -143,3 +143,10 @@ Streaming services rely on subscriber inertia—the fact that you won't notice a
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+

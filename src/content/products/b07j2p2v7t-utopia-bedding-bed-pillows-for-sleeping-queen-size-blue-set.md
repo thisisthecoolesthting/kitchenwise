@@ -9,12 +9,12 @@ rating: 4.5
 bsr: 1
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/41623NIH2sL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B07J2P2V7T?tag=kitchenwise-20"
+imageUrl: https://m.media-amazon.com/images/I/41623NIH2sL.jpg
+affiliateUrl: https://www.amazon.com/dp/B07J2P2V7T?tag=kitchenwise-20
 isPrime: false
 status: draft
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:26:57+00:00'
 slug: b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-
 cardTitle: Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot
 cardPick: Solid pick for most readers

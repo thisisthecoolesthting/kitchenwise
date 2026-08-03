@@ -4,17 +4,17 @@ title: LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 
 seoTitle: LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft² by 56W High Torque Motor, AHAM VERIFIDE, 3-in-1 Filter with HEPA Sleep Mode, Remove Dust Smoke Odor, Core300-P, White — review
 metaDescription: Hands-on notes on LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft² by 56W High Torque Motor, AHAM VERIFIDE, 3-in-1 Filter with HEPA Sleep Mode, Remove Dust Smoke Odor, Core300-P, White.
 category: hepa-air-purifiers
-price: 89.99
+price: 84.99
 rating: 4.7
 bsr: 1
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/419EDCYNm+L.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B07VVK39F7?tag=kitchenwise-20"
+imageUrl: https://m.media-amazon.com/images/I/419EDCYNm+L.jpg
+affiliateUrl: https://www.amazon.com/dp/B07VVK39F7?tag=kitchenwise-20
 isPrime: false
 status: draft
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:26:57+00:00'
 slug: b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c
 cardTitle: LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft
 cardPick: Solid pick for most readers

@@ -9,12 +9,12 @@ rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B01N4NLZJN?tag=kitchenwise-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B01N4NLZJN?tag=kitchenwise-20
 isPrime: false
 status: draft
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:26:57+00:00'
 slug: b01n4nlzjn-b01n4nlzjn
 cardTitle: B01N4NLZJN
 cardPick: Solid pick for most readers

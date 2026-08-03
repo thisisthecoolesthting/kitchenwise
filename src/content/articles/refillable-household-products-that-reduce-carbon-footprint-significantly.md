@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Refillable Household Products That Reduce Carbon Footprint Significantly
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T09:47:12Z'
-
 relatedProducts:
-- "B00CAZAU62"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B09TXP1KDV"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B00CAZAU62
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B07C11YW88
+- B082Y7X9H5
+- B09TXP1KDV
+- B09W9MF63Y
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/refillable-household-products-that-reduce-carbon-footprint-significantly.jpg
 subtopic: personal-care
@@ -182,3 +181,11 @@ If possible, use local refill stations or bulk delivery services to further mini
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+

@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: How to Refill Your Own All-Purpose Cleaner Safely
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T09:57:55Z'
-
 relatedProducts:
-- "B00CAZAU62"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B09DY7CCW5"
-- "B0BVYBVHK5"
+- B00CAZAU62
+- B07C11YW88
+- B07D5DN269
+- B07RVMZNYR
+- B082Y7X9H5
+- B083BFPGD8
+- B09DY7CCW5
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/how-to-refill-your-own-all-purpose-cleaner-safely.jpg
 subtopic: cleaning
@@ -233,3 +232,8 @@ To maximize impact: prioritize concentrates with clear dilution instructions, bu
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

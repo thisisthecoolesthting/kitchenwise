@@ -1,21 +1,21 @@
 ---
-title: "carbon-steel-vs-cast-iron"
+title: carbon-steel-vs-cast-iron
 site: kitchenwise
-topic: "household-staples"
+topic: household-staples
 tier: mvp
-cardTitle: "carbon-steel-vs-cast-iron"
-cardPick: "Editorial household-staples pick from KitchenWise."
+cardTitle: carbon-steel-vs-cast-iron
+cardPick: Editorial household-staples pick from KitchenWise.
 updatedAt: '2026-05-06'
 relatedProducts: []
 status: published
 subtopic: household-staples
 publishedAt: '2026-05-06'
-metaDescription: "carbon-steel-vs-cast-iron"
-excerpt: "carbon-steel-vs-cast-iron"
+metaDescription: carbon-steel-vs-cast-iron
+excerpt: carbon-steel-vs-cast-iron
 heroImage: /images/hero/carbon-steel-vs-cast-iron.jpg
 tags:
-  - kitchenwise
-  - home gym
+- kitchenwise
+- home gym
 author: marcus-webb
 ---
 
@@ -85,3 +85,11 @@ Cast iron truly shines in
 
 - [Best air fryer 2024 in 2026](/articles/best-air-fryer-2024/)
 - [Best cast iron skillet in 2026](/articles/best-cast-iron-skillet/)
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+

@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Concentrates for Cleaning
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T09:46:48Z'
-
 relatedProducts:
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B07RVMZNYR"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B001QY8QXM
+- B00CAZAU62
+- B073Q8P6CQ
+- B07C11YW88
+- B07D5DN269
+- B07RVMZNYR
+- B09W9MF63Y
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/concentrates-for-cleaning-cost-efficiency-and-environmental-benefits.jpg
 subtopic: cleaning
@@ -169,3 +168,8 @@ Here’s a comparison of cleaning concentrates against traditional pre-diluted l
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

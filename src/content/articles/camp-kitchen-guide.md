@@ -1,18 +1,18 @@
 ---
-title: "Camp Kitchen Guide: Stoves, Cookware, and Water Filtration for Every Budget"
-metaDescription: "How to set up a camp kitchen by trip type: day hike, weekend backpacking, car camping, and multi-week expedition."
+title: 'Camp Kitchen Guide: Stoves, Cookware, and Water Filtration for Every Budget'
+metaDescription: 'How to set up a camp kitchen by trip type: day hike, weekend backpacking, car camping, and multi-week expedition.'
 publishedAt: '2026-05-13'
 updatedAt: '2026-05-13'
-excerpt: "How to set up a camp kitchen by trip type: day hike, weekend backpacking, car camping, and multi-week expedition."
-targetKeyword: "camp kitchen setup guide"
+excerpt: 'How to set up a camp kitchen by trip type: day hike, weekend backpacking, car camping, and multi-week expedition.'
+targetKeyword: camp kitchen setup guide
 relatedProducts: []
 status: published
 tags:
-  - camp-stove
-  - cookware
-  - water-filter
-  - camp-kitchen
-author: "jordan-vale"
+- camp-stove
+- cookware
+- water-filter
+- camp-kitchen
+author: jordan-vale
 ---
 
 This is the comprehensive guide to **camp kitchen setup guide** — covering everything you need to make informed decisions.
@@ -82,3 +82,8 @@ at any level. Invest time in the basics before upgrading gear.
 
 Browse our [articles](/articles) for in-depth coverage of specific topics, techniques, and
 comparisons within camp kitchen setup guide.
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

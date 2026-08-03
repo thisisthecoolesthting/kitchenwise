@@ -7,22 +7,22 @@ pillarSlug: subscription-savings
 cardTitle: Streaming Wars
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07F97MPYT"
-- "B07G82D89G"
-- "B07RVMZNYR"
-- "B08PZBPXLZ"
-- "B098JD8HD3"
-- "B09VXQ221K"
-- "B09W9MF63Y"
-- "B0BX2N258S"
-- "B0D41ZMDPD"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
+- B00CAZAU62
+- B00NQ1CLTI
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B07F97MPYT
+- B07G82D89G
+- B07RVMZNYR
+- B08PZBPXLZ
+- B098JD8HD3
+- B09VXQ221K
+- B09W9MF63Y
+- B0BX2N258S
+- B0D41ZMDPD
+- B0DHV7ZWH2
+- B0DHV8SCLS
+- B0G63G9LRJ
 status: published
 tags:
 - streaming price hikes
@@ -184,3 +184,9 @@ Pro Tip: Create a shared calendar with friends to coordinate service rotations�
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

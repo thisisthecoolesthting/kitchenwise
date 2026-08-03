@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: How to Choose Refillable Products for Zero-Waste Families
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T10:12:59Z'
-
 relatedProducts:
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B00WSAXBQ0
+- B07C11YW88
+- B07RVMZNYR
+- B082Y7X9H5
+- B083BFPGD8
+- B08GX3K9YS
+- B0BVYBVHK5
+- B0CYJV9X52
 status: published
 heroImage: /images/hero/how-to-choose-refillable-products-for-zero-waste-families.jpg
 subtopic: personal-care
@@ -184,3 +183,8 @@ Most refillable products aim to reduce plastic waste by either eliminating pre-f
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+

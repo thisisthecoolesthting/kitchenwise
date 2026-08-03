@@ -1,22 +1,22 @@
 ---
 asin: B07Z6TV9Y7
-title: "Lodge 12\" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handles - Superior Heat Retention - Cast Iron Cookware & Skillet"
-seoTitle: "Lodge 12\" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handles - Superior Heat Retention - Cast Iron Cookware & Skillet \u2014 review"
-metaDescription: "Hands-on notes on Lodge 12\" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handles - Superior Heat Retention - Cast Iron Cookware & Skillet."
+title: Lodge 12" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handles - Superior Heat Retention - Cast Iron Cookware & Skillet
+seoTitle: Lodge 12" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handles - Superior Heat Retention - Cast Iron Cookware & Skillet — review
+metaDescription: Hands-on notes on Lodge 12" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handles - Superior Heat Retention - Cast Iron Cookware & Skillet.
 category: skillets
 price: 39.9
 rating: 4.6
 bsr: 103
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/31PH9cOPkVL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B07Z6TV9Y7?tag=kitchenwise-20"
+imageUrl: https://m.media-amazon.com/images/I/31PH9cOPkVL.jpg
+affiliateUrl: https://www.amazon.com/dp/B07Z6TV9Y7?tag=kitchenwise-20
 isPrime: false
 status: draft
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:26:57+00:00'
 slug: b07z6tv9y7-lodge-12-cast-iron-skillet-chef-collection-perfect-sear-ergo
-cardTitle: "Lodge 12\" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handles"
+cardTitle: Lodge 12" Cast Iron Skillet - Chef Collection - Perfect Sear - Ergonomic Handles
 cardPick: Solid pick for most readers
 tags: []
 ---

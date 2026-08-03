@@ -7,16 +7,16 @@ pillarSlug: refill-reuse-save
 cardTitle: DIY Laundry Detergent Refills
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B000H0XFCS"
-- "B0014D3N0Q"
-- "B001QY8QXM"
-- "B00762AHTE"
-- "B00CBBJ5KY"
-- "B073Q8P6CQ"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B07G82D89G"
-- "B09W9MF63Y"
+- B000H0XFCS
+- B0014D3N0Q
+- B001QY8QXM
+- B00762AHTE
+- B00CBBJ5KY
+- B073Q8P6CQ
+- B07D5DN269
+- B07F97MPYT
+- B07G82D89G
+- B09W9MF63Y
 status: published
 tags:
 - laundry detergent price hike
@@ -204,3 +204,10 @@ This hybrid system saves $200+/year while maintaining laundry quality. Our parti
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+

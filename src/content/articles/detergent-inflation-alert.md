@@ -7,16 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: Laundry Detergent Prices Up 8–15%
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B00CAZAU62"
-- "B07F97MPYT"
-- "B082Y7X9H5"
-- "B09W9MF63Y"
-- "B0B2RM68G2"
-- "B0CGW48C3G"
-- "B0DPHQRLJC"
-- "B0DVT2JTRN"
-- "B0FVY8TTVN"
-- "B0G1R37VJC"
+- B00CAZAU62
+- B07F97MPYT
+- B082Y7X9H5
+- B09W9MF63Y
+- B0B2RM68G2
+- B0CGW48C3G
+- B0DPHQRLJC
+- B0DVT2JTRN
+- B0FVY8TTVN
+- B0G1R37VJC
 status: published
 tags:
 - laundry
@@ -142,3 +142,9 @@ We track laundry detergent prices across major retailers weekly. If you spot a p
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

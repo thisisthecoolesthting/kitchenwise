@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Refillable vs Concentrated vs Powdered Cleaning Products Explained
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T10:13:30Z'
-
 relatedProducts:
-- "B001QY8QXM"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B082Y7X9H5"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B001QY8QXM
+- B073Q8P6CQ
+- B074ND5RDT
+- B07C11YW88
+- B07D5DN269
+- B082Y7X9H5
+- B09W9MF63Y
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/refillable-vs-concentrated-vs-powdered-cleaning-products-explained.jpg
 subtopic: cleaning
@@ -174,3 +173,9 @@ When selecting any of these types, consider ingredient transparency carefully:
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+

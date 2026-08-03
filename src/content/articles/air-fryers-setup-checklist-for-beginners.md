@@ -1,21 +1,21 @@
 ---
-title: "air-fryers-setup-checklist-for-beginners"
+title: air-fryers-setup-checklist-for-beginners
 site: kitchenwise
-topic: "household-staples"
+topic: household-staples
 tier: mvp
-cardTitle: "air-fryers-setup-checklist-for-beginners"
-cardPick: "Editorial household-staples pick from KitchenWise."
+cardTitle: air-fryers-setup-checklist-for-beginners
+cardPick: Editorial household-staples pick from KitchenWise.
 updatedAt: '2026-06-06T03:05:49.102Z'
 relatedProducts: []
 status: published
 subtopic: household-staples
 publishedAt: '2026-06-06T03:05:49.102Z'
-metaDescription: "air-fryers-setup-checklist-for-beginners"
-excerpt: "air-fryers-setup-checklist-for-beginners"
+metaDescription: air-fryers-setup-checklist-for-beginners
+excerpt: air-fryers-setup-checklist-for-beginners
 heroImage: /images/heroes/air-fryers-setup-checklist-for-beginners.webp
 tags:
-  - kitchenwise
-  - home gym
+- kitchenwise
+- home gym
 author: marcus-webb
 ---
 
@@ -48,3 +48,11 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 - [air-fryers essentials for weekend projects (3)](/articles/air-fryers-essentials-for-weekend-projects-3/)
 - [When to replace your air-fryers gear (2)](/articles/when-to-replace-your-air-fryers-gear-2/)
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+

@@ -7,17 +7,17 @@ pillarSlug: refill-reuse-save
 cardTitle: '''Bulk Cleaning Supplies'
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B0014D3N0Q"
-- "B004QM8SLG"
-- "B00B5JOC5C"
-- "B00CAZAU62"
-- "B00CBBJ5KY"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07RVMZNYR"
-- "B098JD8HD3"
-- "B09W9MF63Y"
-- "B0CGW48C3G"
+- B0014D3N0Q
+- B004QM8SLG
+- B00B5JOC5C
+- B00CAZAU62
+- B00CBBJ5KY
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B07RVMZNYR
+- B098JD8HD3
+- B09W9MF63Y
+- B0CGW48C3G
 status: published
 tags:
 - bulk cleaning supplies
@@ -258,3 +258,12 @@ For those ready to go further, refill stations offer the deepest savings at $0.0
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+

@@ -7,23 +7,23 @@ pillarSlug: refill-and-reuse
 cardTitle: The Best Reusable Water Bottles to Save Money and the Planet
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 relatedProducts:
-- "B001QY8QXM"
-- "B004QM8SLG"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B083BFPGD8"
-- "B0846GFNCQ"
-- "B0848Q34F8"
-- "B08PZBPXLZ"
-- "B093TCYF9T"
-- "B099NZC4PB"
-- "B0C7ZTV376"
-- "B0CB75LML9"
-- "B0GF25F12C"
+- B001QY8QXM
+- B004QM8SLG
+- B00CBBJ5KY
+- B00NQ1CLTI
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B07C11YW88
+- B07RVMZNYR
+- B083BFPGD8
+- B0846GFNCQ
+- B0848Q34F8
+- B08PZBPXLZ
+- B093TCYF9T
+- B099NZC4PB
+- B0C7ZTV376
+- B0CB75LML9
+- B0GF25F12C
 status: published
 tags:
 - water bottle price hike
@@ -235,3 +235,9 @@ Before investing in filtration, check your local:
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+

@@ -7,20 +7,20 @@ pillarSlug: price-hike-alerts
 cardTitle: Food Staples Price Watch
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 relatedProducts:
-- "B004QM8SLG"
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B07D5DN269"
-- "B07G82D89G"
-- "B07RVMZNYR"
-- "B093TCYF9T"
-- "B09W9MF63Y"
-- "B0CB75LML9"
-- "B0CGW2TFSV"
-- "B0CGW48C3G"
-- "B0F4X2YBP1"
-- "B0GF25F12C"
+- B004QM8SLG
+- B00CAZAU62
+- B00NQ1CLTI
+- B073Q8P6CQ
+- B07D5DN269
+- B07G82D89G
+- B07RVMZNYR
+- B093TCYF9T
+- B09W9MF63Y
+- B0CB75LML9
+- B0CGW2TFSV
+- B0CGW48C3G
+- B0F4X2YBP1
+- B0GF25F12C
 status: published
 tags:
 - grocery inflation
@@ -190,3 +190,11 @@ Tradeoffs require careful consideration: Bulk oils need dark storage (like a bas
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

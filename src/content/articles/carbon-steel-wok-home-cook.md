@@ -1,21 +1,21 @@
 ---
-title: "carbon-steel-wok-home-cook"
+title: carbon-steel-wok-home-cook
 site: castironcanon
-topic: "cleaning"
+topic: cleaning
 tier: mvp
-cardTitle: "carbon-steel-wok-home-cook"
-cardPick: "Editorial cleaning pick from Cast Iron Canon."
+cardTitle: carbon-steel-wok-home-cook
+cardPick: Editorial cleaning pick from Cast Iron Canon.
 updatedAt: '2026-06-06T03:06:00.838Z'
 relatedProducts: []
 status: published
 subtopic: cleaning
 publishedAt: '2026-06-06T03:06:00.838Z'
-metaDescription: "carbon-steel-wok-home-cook"
-excerpt: "carbon-steel-wok-home-cook"
+metaDescription: carbon-steel-wok-home-cook
+excerpt: carbon-steel-wok-home-cook
 heroImage: /images/heroes/carbon-steel-wok-home-cook.webp
 tags:
-  - castironcanon
-  - home gym
+- castironcanon
+- home gym
 author: marcus-webb
 ---
 
@@ -160,3 +160,8 @@ Vintage Wagner and Griswold pans from the 1920s–1950s are still in active kitc
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

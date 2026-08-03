@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: How to Refill Your Own Bathroom Cleaning Solutions at Home
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T10:03:12Z'
-
 relatedProducts:
-- "B00CAZAU62"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B00CAZAU62
+- B00WSAXBQ0
+- B07C11YW88
+- B082Y7X9H5
+- B083BFPGD8
+- B08GX3K9YS
+- B0BVYBVHK5
+- B0CYJV9X52
 status: published
 heroImage: /images/hero/how-to-refill-your-own-bathroom-cleaning-solutions-at-home.jpg
 subtopic: cleaning
@@ -217,3 +216,8 @@ Single-use cartridges and heavily packaged refills can sometimes undermine the e
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

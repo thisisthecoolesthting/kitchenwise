@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Refillable vs Bulk Cleaning Supplies
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T10:06:22Z'
-
 relatedProducts:
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B09TXP1KDV"
-- "B0BVYBVHK5"
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B07C11YW88
+- B07D5DN269
+- B082Y7X9H5
+- B08GX3K9YS
+- B09TXP1KDV
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/refillable-vs-bulk-cleaning-supplies-which-saves-more-plastic.jpg
 subtopic: cleaning
@@ -186,3 +185,10 @@ These systems vary widely: some use brand-name pre-measured cartridges, others s
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+

@@ -7,19 +7,19 @@ pillarSlug: subscription-savings
 cardTitle: Streaming Subscription Hikes
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B07G82D89G"
-- "B07RVMZNYR"
-- "B07YPR2DGH"
-- "B0846GFNCQ"
-- "B08PZBPXLZ"
-- "B08R3515SF"
-- "B09DV14ZZL"
-- "B09WDBHXB3"
-- "B0B7MKRR58"
-- "B0CGW48C3G"
+- B00CAZAU62
+- B00NQ1CLTI
+- B073Q8P6CQ
+- B07G82D89G
+- B07RVMZNYR
+- B07YPR2DGH
+- B0846GFNCQ
+- B08PZBPXLZ
+- B08R3515SF
+- B09DV14ZZL
+- B09WDBHXB3
+- B0B7MKRR58
+- B0CGW48C3G
 status: published
 tags:
 - streaming price hike
@@ -174,3 +174,9 @@ Pro tip: Services often grandfather pricing for 6-9 months after hikes. By creat
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

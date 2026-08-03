@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Concentrated Detergents vs. Traditional
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T09:42:54Z'
-
 relatedProducts:
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CGW48C3G"
+- B073Q8P6CQ
+- B074ND5RDT
+- B07C11YW88
+- B082Y7X9H5
+- B083BFPGD8
+- B09W9MF63Y
+- B0BVYBVHK5
+- B0CGW48C3G
 status: published
 heroImage: /images/hero/concentrated-detergents-vs-traditional-environmental-impact-reviewed.jpg
 subtopic: cleaning
@@ -229,3 +228,8 @@ Using refill pouches that weigh 20g per 25 loads can cut plastic use even more.
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

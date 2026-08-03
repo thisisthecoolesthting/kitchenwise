@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: How to Store Refillable Products to Maximize Shelf Life
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T10:01:38Z'
-
 relatedProducts:
-- "B001QY8QXM"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07Z6TV9Y7"
-- "B09DY7CCW5"
-- "B09VXQ221K"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B001QY8QXM
+- B073Q8P6CQ
+- B074ND5RDT
+- B07Z6TV9Y7
+- B09DY7CCW5
+- B09VXQ221K
+- B09W9MF63Y
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/how-to-store-refillable-products-to-maximize-shelf-life.jpg
 subtopic: personal-care
@@ -213,3 +212,8 @@ These careful storage habits prolong shelf life and preserve product quality, en
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+

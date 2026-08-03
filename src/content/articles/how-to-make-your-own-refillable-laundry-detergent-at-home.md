@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: How to Make Your Own Refillable Laundry Detergent at Home
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T09:51:47Z'
-
 relatedProducts:
-- "B07C11YW88"
-- "B07VVK39F7"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B08PZBPXLZ"
-- "B09VXQ221K"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B07C11YW88
+- B07VVK39F7
+- B082Y7X9H5
+- B08GX3K9YS
+- B08PZBPXLZ
+- B09VXQ221K
+- B0BVYBVHK5
+- B0CYJV9X52
 status: published
 heroImage: /images/hero/how-to-make-your-own-refillable-laundry-detergent-at-home.jpg
 subtopic: cleaning
@@ -215,3 +214,9 @@ Making homemade refillable laundry detergent helps reduce plastic waste and offe
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

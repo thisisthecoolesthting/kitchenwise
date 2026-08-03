@@ -1,21 +1,21 @@
 ---
-title: "best-cast-iron-skillet-for-camping-portability"
+title: best-cast-iron-skillet-for-camping-portability
 site: castironcanon
-topic: "cleaning"
+topic: cleaning
 tier: mvp
-cardTitle: "best-cast-iron-skillet-for-camping-portability"
-cardPick: "Editorial cleaning pick from Cast Iron Canon."
+cardTitle: best-cast-iron-skillet-for-camping-portability
+cardPick: Editorial cleaning pick from Cast Iron Canon.
 updatedAt: '2026-06-06T03:06:00.809Z'
 relatedProducts: []
 status: published
 subtopic: cleaning
 publishedAt: '2026-06-06T03:06:00.809Z'
-metaDescription: "best-cast-iron-skillet-for-camping-portability"
-excerpt: "best-cast-iron-skillet-for-camping-portability"
+metaDescription: best-cast-iron-skillet-for-camping-portability
+excerpt: best-cast-iron-skillet-for-camping-portability
 heroImage: /images/heroes/best-cast-iron-skillet-for-camping-portability.webp
 tags:
-  - castironcanon
-  - home gym
+- castironcanon
+- home gym
 author: marcus-webb
 ---
 
@@ -81,3 +81,8 @@ Always use caution when handling hot cast iron over a campfire. Wear heat-resist
 ### Alternative: Cast Iron Griddles
 
 For pancakes, smash burgers, or other flat cooking, consider the [`/products/b00008gkdn-lodge-round-seasoned-cast-iron-griddle-10-5-inches-round-sha/`](/products/b00008gkdn-lodge-round-seasoned-cast-iron-griddle-10-5-inches-round-sha/) Lodge Round Seasoned Cast Iron Griddle. These are typically lighter than a skillet of comparable diameter, and the shallow lip makes flipping easy. For larger groups, the Lodge Pro Grid Reversible Grill/Griddle offers even more cooking space.
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

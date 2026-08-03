@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: RefillWatch
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T05:53:01Z'
-
 relatedProducts:
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07C11YW88"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B074ND5RDT
+- B07C11YW88
+- B083BFPGD8
+- B08GX3K9YS
+- B09W9MF63Y
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/refillwatch-top-refillable-household-products-for-zero-waste-living.jpg
 subtopic: personal-care
@@ -181,3 +180,11 @@ Zero-waste living values ingredient visibility to avoid toxins and microplastics
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+

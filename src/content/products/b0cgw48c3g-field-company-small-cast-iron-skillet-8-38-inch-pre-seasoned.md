@@ -9,12 +9,12 @@ rating: 4.4
 bsr: 141
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/21nXiV-0AOL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0CGW48C3G?tag=kitchenwise-20"
+imageUrl: https://m.media-amazon.com/images/I/21nXiV-0AOL.jpg
+affiliateUrl: https://www.amazon.com/dp/B0CGW48C3G?tag=kitchenwise-20
 isPrime: false
 status: draft
-firstSeen: "2026-06-02"
-lastSeen: "2026-06-02"
+firstSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:26:57+00:00'
 slug: b0cgw48c3g-field-company-small-cast-iron-skillet-8-38-inch-pre-seasoned
 cardTitle: Field Company Small Cast Iron Skillet – 8.38-Inch Pre-Seasoned Pan for 1–2 Servi
 cardPick: Solid pick for most readers
