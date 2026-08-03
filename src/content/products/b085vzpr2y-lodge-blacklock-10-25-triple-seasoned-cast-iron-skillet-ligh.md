@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B085VZPR2Y?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:26:57+00:00'
+lastSeen: '2026-08-03T15:27:44+00:00'
 slug: b085vzpr2y-lodge-blacklock-10-25-triple-seasoned-cast-iron-skillet-ligh
 cardTitle: Lodge Blacklock 10.25" Triple Seasoned Cast Iron Skillet - Lightweight - Easy Cl
 cardPick: Solid pick for most readers

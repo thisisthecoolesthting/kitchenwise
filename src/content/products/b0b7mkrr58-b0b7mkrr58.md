@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0B7MKRR58?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:26:57+00:00'
+lastSeen: '2026-08-03T15:27:44+00:00'
 slug: b0b7mkrr58-b0b7mkrr58
 cardTitle: B0B7MKRR58
 cardPick: Solid pick for most readers

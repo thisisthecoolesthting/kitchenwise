@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B09VXQ221K?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:26:57+00:00'
+lastSeen: '2026-08-03T15:27:44+00:00'
 slug: b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim
 cardTitle: Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi
 cardPick: Solid pick for most readers

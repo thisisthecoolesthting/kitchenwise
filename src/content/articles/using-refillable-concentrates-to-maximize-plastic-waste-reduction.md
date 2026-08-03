@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Using Refillable Concentrates to Maximize Plastic Waste Reduction
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T09:48:12Z'
-
 relatedProducts:
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07RVMZNYR"
-- "B09W9MF63Y"
-- "B0CGW48C3G"
+- B001QY8QXM
+- B00CAZAU62
+- B00NQ1CLTI
+- B073Q8P6CQ
+- B074ND5RDT
+- B07RVMZNYR
+- B09W9MF63Y
+- B0CGW48C3G
 status: published
 heroImage: /images/hero/using-refillable-concentrates-to-maximize-plastic-waste-reduction.jpg
 subtopic: cleaning
@@ -202,3 +201,8 @@ Even small concentrate containers should be recycled properly when empty. Check 
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+

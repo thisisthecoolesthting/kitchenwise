@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B001QY8QXM?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T15:26:57+00:00'
+lastSeen: '2026-08-03T15:27:44+00:00'
 slug: b001qy8qxm-b001qy8qxm
 cardTitle: Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)
 cardPick: Solid pick for most readers

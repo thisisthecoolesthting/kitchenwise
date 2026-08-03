@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B09DY7CCW5?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:26:57+00:00'
+lastSeen: '2026-08-03T15:27:44+00:00'
 slug: b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-
 cardTitle: 60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire
 cardPick: Solid pick for most readers

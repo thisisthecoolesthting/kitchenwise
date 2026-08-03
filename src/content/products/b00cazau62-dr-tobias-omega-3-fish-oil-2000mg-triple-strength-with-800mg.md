@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B00CAZAU62?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:26:57+00:00'
+lastSeen: '2026-08-03T15:27:44+00:00'
 slug: b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg
 cardTitle: Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per
 cardPick: Solid pick for most readers

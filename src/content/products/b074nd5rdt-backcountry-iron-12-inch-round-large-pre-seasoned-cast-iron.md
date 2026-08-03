@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B074ND5RDT?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:26:57+00:00'
+lastSeen: '2026-08-03T15:27:44+00:00'
 slug: b074nd5rdt-backcountry-iron-12-inch-round-large-pre-seasoned-cast-iron-
 cardTitle: Backcountry Iron 12 Inch Round Large Pre-Seasoned Cast Iron Skillet
 cardPick: Solid pick for most readers

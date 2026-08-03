@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B098JD8HD3?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:26:57+00:00'
+lastSeen: '2026-08-03T15:27:44+00:00'
 slug: b098jd8hd3-soldering-kit-60w-soldering-iron-110v-welding-kit-with-ceram
 cardTitle: Soldering Kit, 60W Soldering Iron, 110V Welding Kit with Ceramic Heater, Portabl
 cardPick: Solid pick for most readers

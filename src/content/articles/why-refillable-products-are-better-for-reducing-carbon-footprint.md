@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Why Refillable Products Are Better for Reducing Carbon Footprint
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T10:10:33Z'
-
 relatedProducts:
-- "B0014D3N0Q"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B0014D3N0Q
+- B073Q8P6CQ
+- B074ND5RDT
+- B07C11YW88
+- B082Y7X9H5
+- B083BFPGD8
+- B09W9MF63Y
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/why-refillable-products-are-better-for-reducing-carbon-footprint.jpg
 subtopic: personal-care
@@ -196,3 +195,8 @@ Refillables make less sense for occasional or highly specialized products where 
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+

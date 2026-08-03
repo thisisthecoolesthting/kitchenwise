@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Why Refillable Household Products Are Ideal for Tiny Homes
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T10:26:24Z'
-
 relatedProducts:
-- "B0014D3N0Q"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07D5DN269"
-- "B07VVK39F7"
-- "B07Z6TV9Y7"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B0014D3N0Q
+- B073Q8P6CQ
+- B074ND5RDT
+- B07D5DN269
+- B07VVK39F7
+- B07Z6TV9Y7
+- B09W9MF63Y
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/why-refillable-household-products-are-ideal-for-tiny-homes.jpg
 subtopic: personal-care
@@ -189,3 +188,11 @@ Choosing refillable household products in a tiny home isn’t just an environmen
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+

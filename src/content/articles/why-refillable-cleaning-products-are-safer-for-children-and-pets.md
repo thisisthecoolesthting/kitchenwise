@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Why Refillable Cleaning Products Are Safer for Children and Pets
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T10:08:57Z'
-
 relatedProducts:
-- "B00063RWT8"
-- "B0014D3N0Q"
-- "B00CAZAU62"
-- "B073Q8P6CQ"
-- "B07G82D89G"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CGW48C3G"
+- B00063RWT8
+- B0014D3N0Q
+- B00CAZAU62
+- B073Q8P6CQ
+- B07G82D89G
+- B09W9MF63Y
+- B0BVYBVHK5
+- B0CGW48C3G
 status: published
 heroImage: /images/hero/why-refillable-cleaning-products-are-safer-for-children-and-pets.jpg
 subtopic: cleaning
@@ -171,3 +170,9 @@ Though less directly linked to immediate child and pet safety, reducing plastic 
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+

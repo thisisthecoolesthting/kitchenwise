@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B093TCYF9T?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:26:57+00:00'
+lastSeen: '2026-08-03T15:27:44+00:00'
 slug: b093tcyf9t-cuisinel-cast-iron-skillet-with-lid-12-inch-pre-seasoned-cov
 cardTitle: Cuisinel Cast Iron Skillet with Lid - 12"-inch Pre-Seasoned Covered Frying Pan S
 cardPick: Solid pick for most readers

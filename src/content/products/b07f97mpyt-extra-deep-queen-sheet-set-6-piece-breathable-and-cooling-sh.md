@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B07F97MPYT?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:26:57+00:00'
+lastSeen: '2026-08-03T15:27:44+00:00'
 slug: b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh
 cardTitle: Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur
 cardPick: Solid pick for most readers

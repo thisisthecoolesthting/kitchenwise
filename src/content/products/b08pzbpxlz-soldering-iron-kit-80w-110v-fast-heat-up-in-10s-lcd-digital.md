@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B08PZBPXLZ?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:26:57+00:00'
+lastSeen: '2026-08-03T15:27:44+00:00'
 slug: b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-
 cardTitle: Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat
 cardPick: Solid pick for most readers

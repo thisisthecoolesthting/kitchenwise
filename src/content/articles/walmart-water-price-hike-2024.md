@@ -7,14 +7,14 @@ pillarSlug: price-hike-alerts
 cardTitle: Walmart's 2024 Water Price Hike
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 relatedProducts:
-- "B0014D3N0Q"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07G82D89G"
-- "B09TXP1KDV"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B0014D3N0Q
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B074ND5RDT
+- B07G82D89G
+- B09TXP1KDV
+- B09W9MF63Y
+- B0BVYBVHK5
 status: published
 tags:
 - water price increase
@@ -239,3 +239,12 @@ Those needing bulk water immediately should switch to Costco's Kirkland 40-pack.
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)** — see current price and specs.
+

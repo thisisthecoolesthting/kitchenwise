@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Why Refilling Your Own Products Supports Local Zero-Waste Shops
 cardPick: Bulk household staples scored for cost-per-use—not hype.
 updatedAt: '2026-05-12T10:21:35Z'
-
 relatedProducts:
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07RVMZNYR"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CGW48C3G"
+- B00CAZAU62
+- B00NQ1CLTI
+- B073Q8P6CQ
+- B074ND5RDT
+- B07RVMZNYR
+- B09W9MF63Y
+- B0BVYBVHK5
+- B0CGW48C3G
 status: published
 heroImage: /images/hero/why-refilling-your-own-products-supports-local-zero-waste-shops.jpg
 subtopic: packaging
@@ -188,3 +187,8 @@ Refilling your own products at local zero-waste shops is a highly effective, eco
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+

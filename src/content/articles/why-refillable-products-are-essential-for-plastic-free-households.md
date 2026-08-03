@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Why Refillable Products Are Essential for Plastic-Free Households
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T10:03:44Z'
-
 relatedProducts:
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B083BFPGD8"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B001QY8QXM
+- B00CAZAU62
+- B00NQ1CLTI
+- B073Q8P6CQ
+- B07C11YW88
+- B083BFPGD8
+- B09W9MF63Y
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/why-refillable-products-are-essential-for-plastic-free-households.jpg
 subtopic: personal-care
@@ -181,3 +180,8 @@ Plastic-free living depends on embracing truly refillable products that address 
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+

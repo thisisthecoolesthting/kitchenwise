@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B07C11YW88?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:26:57+00:00'
+lastSeen: '2026-08-03T15:27:44+00:00'
 slug: b07c11yw88-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s
 cardTitle: InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX Printers ESL3
 cardPick: Solid pick for most readers

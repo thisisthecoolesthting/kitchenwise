@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B00NQ1CLTI?tag=kitchenwise-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:26:57+00:00'
+lastSeen: '2026-08-03T15:27:44+00:00'
 slug: b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print
 cardTitle: Brother HL-L2300D Monochrome Laser Printer with Duplex Printing
 cardPick: Solid pick for most readers

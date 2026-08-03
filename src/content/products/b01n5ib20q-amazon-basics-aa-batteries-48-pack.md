@@ -18,7 +18,7 @@ affiliateUrl: https://www.amazon.com/dp/B01N5IB20Q?tag=kitchenwise-20&linkCode=l
 isPrime: true
 status: published
 firstSeen: '2026-04-24T00:00:00+00:00'
-lastSeen: '2026-08-03T15:26:57+00:00'
+lastSeen: '2026-08-03T15:27:44+00:00'
 tags:
 - batteries
 - household

@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Zero-Waste Bathroom
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T09:42:49Z'
-
 relatedProducts:
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B073Q8P6CQ
+- B074ND5RDT
+- B07C11YW88
+- B082Y7X9H5
+- B08GX3K9YS
+- B09W9MF63Y
+- B0BVYBVHK5
+- B0CYJV9X52
 status: published
 heroImage: /images/hero/zero-waste-bathroom-essential-refillable-personal-care-products.jpg
 subtopic: cleaning
@@ -182,3 +181,9 @@ Refill systems aren’t equal in ingredient transparency. Look for refill concen
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+
