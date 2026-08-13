@@ -1,5 +1,5 @@
 ---
-asin: B07QR6Z1JB
+
 slug: b07qr6z1jb-tide-pods-laundry-detergent-112-count
 title: Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count
 seoTitle: Tide PODS 112-Count Price Tracker | RefillWatch
@@ -11,11 +11,11 @@ price: 119.99
 rating: 4.8
 reviewCount: 89210
 bsr: 3
-commissionPerSale: 0.0
+
 score: 88.0
-imageUrl: https://m.media-amazon.com/images/I/51OpfxMruwL.jpg
-affiliateUrl: https://www.amazon.com/dp/B07QR6Z1JB?tag=kitchenwise-20&linkCode=ll1&language=en_US
-isPrime: true
+imageUrl: ""
+
+
 status: published
 firstSeen: '2026-04-24T00:00:00+00:00'
 lastSeen: '2026-08-03T15:28:32+00:00'
@@ -34,7 +34,7 @@ At $27.49: **$0.25/load**. At a dip price of $19.99: **$0.18/load** — cheaper 
 
 ## Price history pattern
 
-- Dips to $19–$21 roughly every 6–8 weeks, often around Amazon promo events
+- Dips to $19–$21 roughly every 6–8 weeks, often around the retailer promo events
 - Spikes to $27–$29 between dips
 - Subscribe & Save can lock in ~20% off but loses value vs. watching for dip buys
 
@@ -42,4 +42,3 @@ At $27.49: **$0.25/load**. At a dip price of $19.99: **$0.18/load** — cheaper 
 
 Never pay list. Set an alert at $21.99 and buy two containers. That covers ~4 months and cuts your annual laundry spend by ~$30.
 
-<AffiliateCTA asin="B07QR6Z1JB" label="Check current price on Amazon" />

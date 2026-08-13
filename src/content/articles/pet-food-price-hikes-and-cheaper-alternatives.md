@@ -43,11 +43,11 @@ updatedAt: 2026-05-12
 
 
 
-Have you noticed your monthly pet food bill creeping up without explanation? You're not alone. Major retailers have implemented stealthy price increases of 15-30% on popular pet food brands over the past year, often without package changes or quality improvements. At RefillWatch, we've tracked how a 30-lb bag that cost $45 in 2023 now runs $58 at Walmart, while Amazon's auto-ship prices for premium brands have increased 22% since last holiday season.
+Have you noticed your monthly pet food bill creeping up without explanation? You're not alone. Major retailers have implemented stealthy price increases of 15-30% on popular pet food brands over the past year, often without package changes or quality improvements. At RefillWatch, we've tracked how a 30-lb bag that cost $45 in 2023 now runs $58 at Walmart, while the retailer's auto-ship prices for premium brands have increased 22% since last holiday season.
 
 These aren't inflation adjustments—they're margin expansions disguised as routine pricing. Our analysis of 18 popular dry and wet food products shows manufacturers and retailers testing how much pet owners will pay before switching brands. The good news? Several high-quality alternatives like Blue Buffalo Wilderness and Purina Pro Plan have resisted these hikes while maintaining nutritional standards.
 
-To understand the full scope of these price increases, we analyzed pricing data from major retailers, including Walmart, Amazon, Target, and PetSmart, over the past three years. Our findings reveal that the average price of a 30-lb bag of dry dog food has increased by 22%, while wet food prices have risen by 18%. These hikes are particularly concerning given that ingredient costs, such as chicken meal, have actually decreased by 7% in Q1 2026.
+To understand the full scope of these price increases, we analyzed pricing data from major retailers, including Walmart, the retailer, Target, and PetSmart, over the past three years. Our findings reveal that the average price of a 30-lb bag of dry dog food has increased by 22%, while wet food prices have risen by 18%. These hikes are particularly concerning given that ingredient costs, such as chicken meal, have actually decreased by 7% in Q1 2026.
 
 Moreover, we discovered that some brands are engaging in 'shrinkflation,' where they reduce package sizes while maintaining or increasing prices. For example, a 30-lb bag of IAMS Minichunks now weighs 28 lbs but costs the same as the previous 30-lb bag. This deceptive practice further exacerbates the financial burden on pet owners.
 
@@ -60,7 +60,7 @@ Moreover, we discovered that some brands are engaging in 'shrinkflation,' where 
 Pet food isn't discretionary spending—it's a necessity for 70% of U.S. households. When prices jump 20% on a $60 monthly expense, that's $144/year extra per pet. For multi-pet homes, these increases can force painful budget cuts elsewhere. Worse, some brands are shrinking package sizes while raising prices (a tactic called 'shrinkflation'), with 28-lb bags replacing 30-lb versions at the same price point.
 
 Our data reveals three concerning trends:
-1. **Subscription creep**: Amazon's 'Subscribe & Save' prices for premium brands like Royal Canin have increased 18-22% since 2023, with discounts shrinking from 15% to 5%
+1. **Subscription creep**: the retailer's 'Subscribe & Save' prices for premium brands like Royal Canin have increased 18-22% since 2023, with discounts shrinking from 15% to 5%
 2. **Brick-and-mortar disparities**: Identical Purina ONE bags now cost $47.99 at Target but $54.47 at PetSmart—a 13.5% difference
 3. **Supply chain excuses**: While some brands cite ingredient costs, our tracking shows chicken meal prices actually decreased 7% in Q1 2026
 
@@ -143,7 +143,7 @@ Moreover, we explored the cost-effectiveness of bulk purchasing. While buying in
 Three proven ways to combat price hikes:
 
 1. **Store brands**: Chewy's American Journey line offers 30% protein at $1.49/lb—45% less than premium brands
-2. **Subscription adjustments**: Amazon's 5% discount on Purina Pro Plan auto-ships beats in-store even after their price hikes
+2. **Subscription adjustments**: the retailer's 5% discount on Purina Pro Plan auto-ships beats in-store even after their price hikes
 3. **Warehouse clubs**: Costco's Kirkland Signature maintains consistent pricing—their 40lb bag has cost $37.99 for 18 months
 
 For wet food lovers, Purina ONE's SmartBlend wet variety packs 12% protein at $2.12/can—half the cost of boutique brands.
@@ -154,65 +154,10 @@ Another cost-saving strategy is to take advantage of retailer loyalty programs a
 
 ## Top Picks
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HNSJSX2?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51opZ-1YZBL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
-<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07FQ46R24?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41R7vsr7+8L.jpg" alt="Dr. Bronner's Pure-Castile Bar Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Bar Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0126LMDFK?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Beeswax Food Wrap 3-Pack" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51lsEzq5TlL.jpg" alt="Bee's Wrap Beeswax Food Wrap 3-Pack" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Beeswax Food Wrap 3-Pack</strong>
-<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
 ## Our picks worth a closer look
 
 - **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
 - **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
 - **[Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)** — see current price and specs.
-- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[the retailer Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
 

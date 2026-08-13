@@ -19,7 +19,7 @@ tags:
 
 In 2026, the average American household does roughly 300 loads of laundry per year. While a $20 jug of detergent might seem like a standard expense, the "sticker price" is the most deceptive metric in the cleaning aisle. Between 2024 and 2026, the retail price of name-brand laundry detergents rose by 14%, but the true cost increase has been hidden in "shrinkflation" of load counts and recommended dosing sizes.
 
-To find the real winners, you have to look at **Cost Per Load (CPL)**. Our analysis of over 50 products across major retailers like Costco, Walmart, and Amazon reveals a massive 400% price spread between the most economical powders and the most expensive "convenience" pods. If you are blindly grabbing the same orange bottle every month, you are likely paying a "habit tax" that adds up to thousands of dollars over a decade.
+To find the real winners, you have to look at **Cost Per Load (CPL)**. Our analysis of over 50 products across major retailers like Costco, Walmart, and the retailer reveals a massive 400% price spread between the most economical powders and the most expensive "convenience" pods. If you are blindly grabbing the same orange bottle every month, you are likely paying a "habit tax" that adds up to thousands of dollars over a decade.
 
 ---
 
@@ -172,4 +172,4 @@ A: Not always. Check the CPL. Sometimes the "Mid-size" jug is on a deeper sale t
 
 By moving from name-brand pods and scent boosters to a hybrid of bulk powder and store-brand liquid, the average household can save between **$180 and $240 per year**. In the world of household refills, laundry is the "low-hanging fruit" where a five-minute change in buying habits yields a decade of passive savings.
 
-*RefillWatch will continue to track detergent pricing across Walmart, Amazon, and Costco. Check back monthly for updated CPL data.*
+*RefillWatch will continue to track detergent pricing across Walmart, the retailer, and Costco. Check back monthly for updated CPL data.*

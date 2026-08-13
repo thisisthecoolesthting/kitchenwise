@@ -37,7 +37,7 @@ updatedAt: 2026-05-12
 
 Did your morning coffee cost more this year? You're not imagining it. Retailers hiked prices on major coffee bean brands by 12–28% in early 2024, often while quietly reducing bag sizes through shrinkflation. Our six-month tracking of 37 brands across 12 major retailers revealed systematic increases that far outpace both inflation and commodity costs.
 
-A 12oz bag of Lavazza Super Crema jumped from $14.99 to $18.49 at Walmart—a 23% increase with no change in quality or sourcing. Amazon Fresh now charges $12.99 for what was a $9.99 bag of Peet's Major Dickason's Blend just 18 months ago—a 30% cumulative increase. Even budget brands weren't spared: Great Value Colombian Coffee at Walmart surged from $4.97 to $6.24 per 12oz bag (25.6% increase) between December 2023 and March 2024.
+A 12oz bag of Lavazza Super Crema jumped from $14.99 to $18.49 at Walmart—a 23% increase with no change in quality or sourcing. the retailer Fresh now charges $12.99 for what was a $9.99 bag of Peet's Major Dickason's Blend just 18 months ago—a 30% cumulative increase. Even budget brands weren't spared: Great Value Colombian Coffee at Walmart surged from $4.97 to $6.24 per 12oz bag (25.6% increase) between December 2023 and March 2024.
 
 This guide tracks exactly where prices spiked, compares cost-per-ounce across retail and bulk options, and shows which subscription services and refill methods actually beat grocery store math in 2024.
 
@@ -65,7 +65,7 @@ The financial impact extends beyond sticker shock. Locking into overpriced retai
 |---|---|---|---|---|---|
 | Starbucks Blonde (Target) | $9.99 | $11.49 | Same 12oz | 15% | $0.96 |
 | Dunkin' Original (Walmart) | $7.98 | $8.98 | 12oz → 10oz | 35%* | $0.90 |
-| Death Wish (Amazon) | $19.99 | $24.99 | Same 16oz | 25% | $1.56 |
+| Death Wish (the retailer) | $19.99 | $24.99 | Same 16oz | 25% | $1.56 |
 | Eight O'Clock (Kroger) | $6.99 | $7.49 | 11oz → 10oz | 22% | $0.75 |
 | Community Coffee (HEB) | $8.49 | $9.99 | Same 12oz | 17.7% | $0.83 |
 | Cameron's Breakfast (Costco) | $14.99 | $16.99 | 2lb → 1.75lb | 23.5% | $0.61 |
@@ -142,7 +142,7 @@ For 2+ pound monthly households, bulk and home roasting accelerate savings furth
 
 **How often do coffee prices typically increase?**
 
-Historically, 1–2 times annually in sync with commodity markets. In 2024, however, major chains implemented three separate hikes between January and April—the most frequent adjustments since 2011's commodity spike. Walmart increased prices on February 3, March 15, and April 22, while Amazon adjusted weekly through algorithmic repricing.
+Historically, 1–2 times annually in sync with commodity markets. In 2024, however, major chains implemented three separate hikes between January and April—the most frequent adjustments since 2011's commodity spike. Walmart increased prices on February 3, March 15, and April 22, while the retailer adjusted weekly through algorithmic repricing.
 
 **Are premium brands hiking more aggressively than store brands?**
 
@@ -178,65 +178,10 @@ Don't absorb retailer margin expansion. Buy bulk, store properly, or roast at ho
 
 ## Top Picks
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HNSJSX2?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51opZ-1YZBL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
-<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0126LMDFK?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Beeswax Food Wrap 3-Pack" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51lsEzq5TlL.jpg" alt="Bee's Wrap Beeswax Food Wrap 3-Pack" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Beeswax Food Wrap 3-Pack</strong>
-<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07FQ46R24?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41R7vsr7+8L.jpg" alt="Dr. Bronner's Pure-Castile Bar Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Bar Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
 ## Our picks worth a closer look
 
 - **[Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)** — see current price and specs.
-- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[the retailer Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
 - **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
 - **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
 - **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.

@@ -8,7 +8,6 @@ import spawnHome from '../data/spawn-home.json' with { type: 'json' };
 export const SITE_MONETIZATION = {
   slug: 'site-slug',
   defaultTopic: 'household-staples',
-  associateTag: '__ASSOCIATE_TAG__',
   pinTemplates: ['watchdog-alert', 'savings-checklist', 'comparison-table', 'product-strip'],
   rotateBy: 'article_slug',
 };
@@ -21,10 +20,6 @@ export function loadSiteMonetizationFromSpawn() {
     ...SITE_MONETIZATION,
     defaultTopic:
       typeof m.default_topic === 'string' ? m.default_topic : SITE_MONETIZATION.defaultTopic,
-    associateTag:
-      typeof m.amazon_associate_tag === 'string'
-        ? m.amazon_associate_tag
-        : SITE_MONETIZATION.associateTag,
     pinTemplates: Array.isArray(pin.pin_templates)
       ? pin.pin_templates.map(String)
       : SITE_MONETIZATION.pinTemplates,

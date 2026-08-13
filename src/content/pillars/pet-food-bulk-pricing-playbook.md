@@ -44,7 +44,7 @@ Watch out for the "31lb bag" that replaced the "34lb bag." Brands like Purina an
 
 ## Subscription Traps: The Auto-Ship Tax
 
-Subscription services like Chewy, Amazon Subscribe & Save, and Petco Vital Care promise 5-10% savings, but they often act as a "price lock" for the retailer, not for you.
+Subscription services like Chewy, the retailer Subscribe & Save, and Petco Vital Care promise 5-10% savings, but they often act as a "price lock" for the retailer, not for you.
 
 ### The "Introductory" Bait-and-Switch
 Many services offer 30% off your first order. This is a great deal. However, our tracking shows that once you are on auto-ship, the base price of the product often creeps up by 3-5% every quarter. Because you aren't "shopping" anymore, you don't notice the increase.
@@ -72,7 +72,7 @@ Costco's Kirkland Signature pet food is widely regarded by veterinary nutritioni
 ### Other Strong Store Brands:
 - **Member's Mark (Sam's Club):** Excellent high-protein formulas.
 - **WholeHearted (Petco):** Good grain-free options at a 30% discount to Blue Buffalo.
-- **Amazon Basics:** Surprisingly high-quality limited-ingredient diets.
+- **the retailer Basics:** Surprisingly high-quality limited-ingredient diets.
 
 ---
 
@@ -134,39 +134,6 @@ In late 2023, several major pet food manufacturers reduced their "large" bag siz
 ## Top Picks: The RefillWatch Pet Benchmarks
 
 We use these products to track the "health" of the pet supply market. When these prices rise, inflation is hitting the category hard.
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07VVK39F7?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Levoit Air Purifier for Pet Hair" data-card-pick="Essential for multi-pet households—reduces the 'pet smell' and dander that leads to more frequent cleaning spend.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/71VVK39F7.jpg" alt="Levoit Air Purifier" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Levoit Air Purifier for Pet Hair</strong>
-<span class="amazon-inline-card__desc">High-efficiency HEPA filter specifically designed for pet dander and allergens. A core part of our 'Pet Home' cost-reduction kit.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B000H0XFCS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Eva-dry E-333 Renewable Dehumidifier" data-card-pick="Protects your bulk kibble investment—prevents mold and staleness in humid pantries.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81H0XFCS.jpg" alt="Eva-dry E-333" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Eva-dry E-333 Renewable Dehumidifier</strong>
-<span class="amazon-inline-card__desc">Small, renewable unit that requires no batteries or cords. Perfect for keeping kibble storage areas dry.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07QR6Z1JB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Tide PODS Laundry Detergent — 112 Count" data-card-pick="Pet beds and blankets need frequent washing—this is our benchmark for pet-related laundry costs.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51OpfxMruwL.jpg" alt="Tide PODS" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Tide PODS Laundry Detergent — 112 Count</strong>
-<span class="amazon-inline-card__desc">Bulk laundry pods. We track the $/load for pet-heavy households that wash bedding weekly.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
 
 ---
 

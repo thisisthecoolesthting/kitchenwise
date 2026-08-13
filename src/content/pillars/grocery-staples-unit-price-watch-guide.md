@@ -68,7 +68,7 @@ The ultimate unit price failure is the coffee pod. A standard K-Cup contains rou
 In 2024, we tracked three major "third-wave" coffee roasters that moved from 12oz bags to 10oz bags. They marketed this as a "freshness initiative," claiming that smaller bags ensure the coffee doesn't go stale. However, the price remained $18.00 per bag. This increased the unit price from $1.50/oz to $1.80/oz—a 20% increase hidden behind a "quality" narrative.
 
 ### Watchdog Recommendation: The Bulk Ground Pivot
-For the best unit price, we track the 48oz to 51oz "Value Tubs" found at Amazon and warehouse clubs. Brands like Folgers or Maxwell House consistently deliver a unit price of $0.30 to $0.40 per ounce—less than half the cost of premium bags and a fraction of the cost of pods.
+For the best unit price, we track the 48oz to 51oz "Value Tubs" found at the retailer and warehouse clubs. Brands like Folgers or Maxwell House consistently deliver a unit price of $0.30 to $0.40 per ounce—less than half the cost of premium bags and a fraction of the cost of pods.
 
 ---
 
@@ -169,39 +169,6 @@ Roll counts are meaningless. A "6-pack" of paper towels can have 200 square feet
 ## Top Picks: The RefillWatch Staple Benchmarks
 
 When we track price creep, we use these specific products as our "anchor" benchmarks. If these prices move, the whole category is moving.
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HHQX0BQ?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Folgers Classic Roast Coffee 48oz" data-card-pick="The benchmark for coffee unit pricing—track this to see where the floor of the market is.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81HHqX0BQ.jpg" alt="Folgers Classic Roast Coffee 48oz" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Folgers Classic Roast Coffee 48oz</strong>
-<span class="amazon-inline-card__desc">Massive 48oz tub that consistently delivers the lowest cost-per-ounce in the coffee category.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07QR6Z1JB?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Tide PODS Laundry Detergent — 112 Count" data-card-pick="Family-size tub — compare $/load before shrinkflation shrinks the count.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51OpfxMruwL.jpg" alt="Tide PODS Laundry Detergent — 112 Count" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Tide PODS Laundry Detergent — 112 Count</strong>
-<span class="amazon-inline-card__desc">High-volume laundry staple. We track the 112-count as the price-per-load standard for name brands.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00C2O7C7O?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Scott 1000 Sheets Per Roll — 36 Rolls" data-card-pick="Bulk toilet paper — track cost-per-sheet vs. “mega” 2-ply packs.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/515nKDNSU5L.jpg" alt="Scott 1000 Sheets Per Roll — 36 Rolls" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Scott 1000 Sheets Per Roll — 36 Rolls</strong>
-<span class="amazon-inline-card__desc">The gold standard for unit price tracking in paper goods. 36,000 sheets per box.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
 
 ---
 

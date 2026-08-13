@@ -129,7 +129,7 @@ A: "Spring Water" must come from an underground source, while "Purified Water" i
 A: Yes. Once water is filtered, the chlorine (which prevents bacterial growth) is removed. You should consume filtered water within 48 hours and keep the pitcher in the refrigerator to prevent algae or bacterial buildup.
 
 **Q: Can I use "generic" filters in my Brita pitcher?**
-A: Yes, brands like **Amazon Basics** and **Kirkland** make Brita-compatible filters. They are often 30% cheaper ($0.08/gallon), but they rarely carry the same NSF certifications for lead removal. If you only care about taste, generics are fine. If you care about lead, stick to the name-brand Elite filters.
+A: Yes, brands like **the retailer Basics** and **Kirkland** make Brita-compatible filters. They are often 30% cheaper ($0.08/gallon), but they rarely carry the same NSF certifications for lead removal. If you only care about taste, generics are fine. If you care about lead, stick to the name-brand Elite filters.
 
 **Q: My ZeroWater meter says 006. Is it time to change?**
 A: ZeroWater recommends changing the filter when the meter reaches 006. However, if the water doesn't taste "fishy" or acidic yet, many users find they can push it to 010 without a noticeable drop in quality. Just be aware that once a ZeroWater filter is "spent," it can actually dump collected contaminants back into the water.

@@ -36,17 +36,6 @@ export async function getRelatedProductsFromBody(
     .filter((p): p is CollectionEntry<'products'> => p !== undefined);
 }
 
-// Build an Amazon affiliate URL for a product entry. Prefers the
-// precomputed affiliateUrl from frontmatter if present; falls back to a
-// constructed URL from the ASIN + associate tag.
-export function amazonAffiliateUrl(
-  product: CollectionEntry<'products'>,
-  associateTag = 'kitchenwise-20',
-): string {
-  if (product.data.affiliateUrl && product.data.affiliateUrl.startsWith('http')) {
-    return product.data.affiliateUrl;
-  }
-  const asin = product.data.asin?.toUpperCase();
-  if (!asin) return '#';
-  return `https://www.amazon.com/dp/${asin}?tag=${associateTag}&linkCode=ll1`;
+export function productPageUrl(product: CollectionEntry<'products'>): string {
+  return `/products/${product.slug}/`;
 }

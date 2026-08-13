@@ -78,7 +78,7 @@ We expanded testing to include five additional metrics not shown in standard rev
 4. **Nozzle reliability**: Percentage of nozzles functioning after 500 pages
 5. **Paper compatibility**: Performance on 12 paper types from glossy photo to recycled
 
-The Epson 502 showed particularly poor third-party compatibility, rejecting 7 of 10 alternative cartridges we tested. Meanwhile, compatible cartridges worked in older printers but caused banding issues in newer models with firmware updates. This underscores why you can't rely on Amazon reviews alone—compatibility changes with firmware updates that most consumers don't track.
+The Epson 502 showed particularly poor third-party compatibility, rejecting 7 of 10 alternative cartridges we tested. Meanwhile, compatible cartridges worked in older printers but caused banding issues in newer models with firmware updates. This underscores why you can't rely online reviews alone—compatibility changes with firmware updates that most consumers don't track.
 
 
 For more on how to refill ink cartridges: save 60–90% vs. oem with tested methods, see [our coverage at inkledger.org](https://inkledger.org/articles/how-to-refill-ink-cartridges-guide/).
@@ -111,7 +111,7 @@ We developed a cost model based on 12 variables including printer age, local hum
 
 ## Alternatives and Refill Systems
 
-For Epson EcoTank owners, bulk ink saves 73% over cartridges but requires monthly maintenance. Brother laser users should avoid certain compatible cartridges that lack the chip resetter needed for full yield. Surprisingly, Amazon's Subscribe & Save on OEM cartridges beats many third-party prices with 15% discounts when you factor in consistency and warranty protection.
+For Epson EcoTank owners, bulk ink saves 73% over cartridges but requires monthly maintenance. Brother laser users should avoid certain compatible cartridges that lack the chip resetter needed for full yield. Surprisingly, the retailer's Subscribe & Save on OEM cartridges beats many third-party prices with 15% discounts when you factor in consistency and warranty protection.
 
 We tested four emerging alternatives:
 
@@ -123,61 +123,6 @@ We tested four emerging alternatives:
 Continuous systems delivered strong results for small businesses printing 300+ pages weekly, but tubes are prone to kinking in home environments. Solid ink sticks showed promise in testing but are only available for niche printer models. For most users, the sweet spot remains either OEM cartridges via subscription or premium refillable systems. Cheap third-party cartridges proved consistently problematic in our long-term testing.
 
 ## Top Picks
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07FQ46R24?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41R7vsr7+8L.jpg" alt="Dr. Bronner's Pure-Castile Bar Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Bar Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HNSJSX2?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51opZ-1YZBL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
-<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0126LMDFK?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Beeswax Food Wrap 3-Pack" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51lsEzq5TlL.jpg" alt="Bee's Wrap Beeswax Food Wrap 3-Pack" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Beeswax Food Wrap 3-Pack</strong>
-<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
 
 ## Our picks worth a closer look
 

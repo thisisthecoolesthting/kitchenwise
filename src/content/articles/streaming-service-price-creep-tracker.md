@@ -61,7 +61,7 @@ Streaming now consumes **37% of average home entertainment budgets**—up from 1
 2. **Feature erosion**: HBO Max removed 4K streaming from its base tier while keeping the $15.99 price, and Netflix now charges $4.99/month extra for spatial audio
 3. **Contract loopholes**: Most services reserve the right to change prices mid-subscription with just 30 days' notice—Disney+ famously implemented a Thanksgiving weekend price hike when customer service response times were slowest
 
-Our device-compatibility testing revealed even darker patterns: Some platforms now **throttle stream quality** on older devices to push hardware upgrades. The 2025 Amazon Fire TV Stick 4K delivers better 4K performance than most smart TVs' built-in apps, creating a hidden upgrade tax.
+Our device-compatibility testing revealed even darker patterns: Some platforms now **throttle stream quality** on older devices to push hardware upgrades. The 2025 the retailer Fire TV Stick 4K delivers better 4K performance than most smart TVs' built-in apps, creating a hidden upgrade tax.
 
 Shockingly, households now pay **$22/month more** in 2026 for the same services they used in 2024—the equivalent of a full additional subscription. At this trajectory, streaming costs will surpass 2000s cable bills by 2028 while offering less live content. The math becomes absurd when realizing the Roku Ultra costs less than two months of the average streaming bundle yet lasts 5+ years.
 
@@ -86,7 +86,7 @@ Key findings from our 800-hour content analysis:
 - Disney+ now costs more than Netflix despite having 60% fewer original titles and 83% less 4K content
 - Every service except Apple TV+ has reduced simultaneous streams since 2021—Paramount+ went from 5→3 streams despite price hikes
 - The Roku Ultra pays for itself in 5 months if replacing two premium subscriptions, and unlocks free ad-supported channels
-- Amazon Prime Video quietly added $2.99/month "channel surcharges" for 4K HDR versions of included content
+- the retailer Prime Video quietly added $2.99/month "channel surcharges" for 4K HDR versions of included content
 
 ## Real-World Performance
 
@@ -137,61 +137,6 @@ The true cost approaches **$1,200/year** for most households. Breakeven points f
 The Nvidia Shield TV Pro transforms local media into a Netflix-like experience with AI upscaling that often outperforms native streams.
 
 ## Top Picks
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HNSJSX2?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51opZ-1YZBL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
-<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07571LXYD?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Heali Kiwi Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/413hRd6x2YL.jpg" alt="Ethique Heali Kiwi Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Heali Kiwi Shampoo Bar</strong>
-<span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0973GJNCC?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Native Sensitive Deodorant — Cotton &amp; Lily" data-card-pick="Paperboard stick with no aluminum—our pick for sensitive underarms without plastic waste.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/31y5kvuL3GL.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Native Sensitive Deodorant — Cotton & Lily</strong>
-<span class="amazon-inline-card__desc">Aluminum-free, baking-soda-free stick in plastic-free paperboard—72-hour odor control for sensitive skin.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0126LMDFK?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Beeswax Food Wrap 3-Pack" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51lsEzq5TlL.jpg" alt="Bee's Wrap Beeswax Food Wrap 3-Pack" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Beeswax Food Wrap 3-Pack</strong>
-<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
 
 ## Our picks worth a closer look
 

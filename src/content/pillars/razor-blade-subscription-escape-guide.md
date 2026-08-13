@@ -105,7 +105,7 @@ The biggest barrier to entry for safety razors is fear. People assume "Safety Ra
 **Reality:** Multi-blade cartridges actually cause more irritation and ingrown hairs. The first blade pulls the hair up, and the subsequent blades cut it *below* the skin line. When the hair grows back, it gets trapped, causing a bump. A safety razor cuts the hair flush with the skin, virtually eliminating ingrown hairs.
 
 ### Myth 3: "The blades are hard to find."
-**Reality:** In 2026, you can buy 100-packs of Japanese Feather blades or German Muhle blades on Amazon for less than the price of a single DSC box. You will never be "out of stock" again.
+**Reality:** In 2026, you can buy 100-packs of Japanese Feather blades or German Muhle blades online for less than the price of a single DSC box. You will never be "out of stock" again.
 
 ---
 

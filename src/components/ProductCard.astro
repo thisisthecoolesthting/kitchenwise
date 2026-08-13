@@ -6,8 +6,7 @@
 // Broken image URLs fall back to a neutral placeholder (onerror handler).
 
 import type { CollectionEntry } from 'astro:content';
-import { amazonAffiliateUrl } from '@/utils/related-products';
-import { DEFAULT_ASSOCIATE_TAG } from '@/utils/amazon-affiliate';
+import { productPageUrl } from '@/utils/related-products';
 import ProductImage from '@/components/ProductImage.astro';
 
 export interface Props {
@@ -16,9 +15,7 @@ export interface Props {
 
 const { product } = Astro.props;
 const { data } = product as any;
-const associateTag = import.meta.env.PUBLIC_ASSOCIATE_TAG ?? DEFAULT_ASSOCIATE_TAG;
-const affiliateHref = amazonAffiliateUrl(product, associateTag);
-const url = `/products/${product.slug}`;
+const href = productPageUrl(product);
 
 // Prefer hand-curated short title; fall back to word-boundary trim of raw title.
 // Never truncate mid-word — cut at the last space before the limit.
@@ -36,12 +33,9 @@ const shortTitle = (data.cardTitle && data.cardTitle.trim())
 
 // One-line "Why we picked it" — optional, hand-curated per product.
 const pickLine = (data.cardPick && data.cardPick.trim()) ? data.cardPick.trim() : '';
-const asin = String(data.asin || product.slug.split('-')[0] || '').toUpperCase();
 ---
 <a
-  href={affiliateHref}
-  target="_blank"
-  rel="nofollow noopener sponsored"
+  href={href}
   class="group block h-full w-full min-w-0 rounded-3xl border border-cream-200/70 bg-white shadow-soft
          hover:shadow-soft-lg hover:-translate-y-1
          transition-all duration-300 ease-out no-underline overflow-hidden"
@@ -49,7 +43,6 @@ const asin = String(data.asin || product.slug.split('-')[0] || '').toUpperCase()
   <div class="aspect-square bg-cream-100 flex items-center justify-center overflow-hidden">
     <ProductImage
       slug={product.slug}
-      asin={asin}
       imageUrl={data.imageUrl}
       alt={shortTitle}
       loading="lazy"
@@ -83,7 +76,7 @@ const asin = String(data.asin || product.slug.split('-')[0] || '').toUpperCase()
     <span class="block w-full text-center bg-terracotta-500 hover:bg-terracotta-600
                  text-cream-50 font-mono text-[11px] tracking-[0.12em] uppercase
                  px-4 py-2.5 rounded-full transition-colors">
-      View on Amazon ↗
+      Read our review →
     </span>
   </div>
 </a>

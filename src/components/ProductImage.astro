@@ -4,7 +4,6 @@ import { FALLBACK_SVG, resolveProductImageSources } from '@/utils/product-image'
 
 export interface Props {
   slug: string;
-  asin: string;
   imageUrl?: string | null;
   alt: string;
   class?: string;
@@ -14,7 +13,6 @@ export interface Props {
 
 const {
   slug,
-  asin,
   imageUrl,
   alt,
   class: imgClass = 'max-h-72 w-full object-contain',
@@ -25,7 +23,6 @@ const {
 const publicRoot = path.join(process.cwd(), 'public');
 const { primary, fallbacks } = await resolveProductImageSources(
   slug,
-  asin,
   imageUrl,
   publicRoot,
 );

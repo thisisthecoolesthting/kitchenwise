@@ -111,4 +111,4 @@ These strategies aren't mutually exclusive, but they serve different households.
 
 Refill brands run sales more predictably than traditional brands — typically 20% off around holidays and during new product launches. Subscribe to the brand's email list and hold off buying until a sale.
 
-For bulk buying, track price-per-unit rather than package price. Amazon and Costco both show cost-per-ounce or cost-per-load on their listings; use that number for any comparison. A "50% more" promo bottle often has a higher per-ounce cost than the standard size — check the math before assuming the deal is real.
+For bulk buying, track price-per-unit rather than package price. the retailer and Costco both show cost-per-ounce or cost-per-load on their listings; use that number for any comparison. A "50% more" promo bottle often has a higher per-ounce cost than the standard size — check the math before assuming the deal is real.

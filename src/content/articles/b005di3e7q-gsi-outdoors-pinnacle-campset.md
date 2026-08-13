@@ -1,5 +1,5 @@
 ---
-asin: "B005DI3E7Q"
+
 slug: "b005di3e7q-gsi-outdoors-pinnacle-campset"
 title: "GSI Outdoors Pinnacle Camper Cookset for 4"
 seoTitle: "GSI Pinnacle Camper Cookset Review | CampDeck"
@@ -11,11 +11,11 @@ price: 89.99
 rating: 4.6
 reviewCount: 2840
 bsr: 242
-commissionPerSale: 0.0
+
 score: 46.3
-imageUrl: "/images/amazon-picks/B005DI3E7Q.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B005DI3E7Q?tag=campdeck-20&linkCode=ll1&language=en_US"
-isPrime: true
+imageUrl: ""
+
+
 status: "published"
 firstSeen: "2026-05-13T00:00:00+00:00"
 lastSeen: "2026-05-13T00:00:00+00:00"
@@ -49,4 +49,3 @@ in 4 minutes 20 seconds — within 10% of the Jetboil's 4-minute performance.
 For a group of 4, the Pinnacle makes more sense: larger volume, a frying pan, and nesting
 bowls replace individual systems. Jetboil wins for speed and fuel efficiency for 1–2 people.
 
-<AffiliateCTA asin="B005DI3E7Q" label="Check current price on Amazon" />

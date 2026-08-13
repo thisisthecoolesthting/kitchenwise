@@ -1,5 +1,5 @@
 ---
-asin: B01N5IB20Q
+
 slug: b01n5ib20q-amazon-basics-aa-batteries-48-pack
 title: Amazon Basics AA Performance Alkaline Batteries, 48-Count
 seoTitle: Amazon Basics AA Batteries 48-Pack Review | RefillWatch
@@ -11,11 +11,11 @@ price: 74.99
 rating: 4.7
 reviewCount: 287432
 bsr: 1
-commissionPerSale: 0.0
+
 score: 94.0
-imageUrl: https://m.media-amazon.com/images/I/41VtUi6pMDL.jpg
-affiliateUrl: https://www.amazon.com/dp/B01N5IB20Q?tag=kitchenwise-20&linkCode=ll1&language=en_US
-isPrime: true
+imageUrl: ""
+
+
 status: published
 firstSeen: '2026-04-24T00:00:00+00:00'
 lastSeen: '2026-08-03T15:28:32+00:00'
@@ -24,20 +24,20 @@ tags:
 - household
 - bulk-buying
 ---
-# Amazon Basics AA Batteries (48-pack) — Price & Value Analysis
+# the retailer Basics AA Batteries (48-pack) — Price & Value Analysis
 
-At roughly $0.33 per battery when bought in a 48-pack, Amazon Basics AA is the benchmark everyone else gets compared to.
+At roughly $0.33 per battery when bought in a 48-pack, the retailer Basics AA is the benchmark everyone else gets compared to.
 
 ## Cost per battery vs. alternatives
 
 | Brand | Pack | Cost/battery |
 |---|---|---|
-| Amazon Basics (48-pk) | $15.99 | **$0.33** |
+| the retailer Basics (48-pk) | $15.99 | **$0.33** |
 | Duracell Optimum (40-pk) | $22.49 | $0.56 |
 | Energizer Max (48-pk) | $21.99 | $0.46 |
 | Store brand (24-pk) | $6.99 | $0.29 |
 
-Store brands edge it out on raw price, but Amazon Basics ships Prime and has 5-star reliability at 287k reviews.
+Store brands edge it out on raw price, but the retailer Basics ships Prime and has 5-star reliability at 287k reviews.
 
 ## Who this is for
 
@@ -47,4 +47,3 @@ Remote-heavy households, anyone powering smoke detectors, kids' toys, or wireles
 
 This item spikes above $17 at least twice a year. Set a price alert at $14.99 — it dips there 4–6 times annually.
 
-<AffiliateCTA asin="B01N5IB20Q" label="Check current price on Amazon" />

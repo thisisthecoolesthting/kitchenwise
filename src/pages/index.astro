@@ -10,12 +10,11 @@
 import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import SiteSectionAds from '@/components/SiteSectionAds.astro';
 import { getCollection } from 'astro:content';
-import CuratedAmazonCard from '@/components/CuratedAmazonCard.astro';
+import ProductCard from '@/components/ProductCard.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
 import HeroCompact from '@/components/HeroCompact.astro';
 import TrustStrip from '@/components/TrustStrip.astro';
 import home from '@/data/brand.config.json';
-import { HOMEPAGE_COMPARE_PICKS } from '@/lib/site-amazon-registry.mjs';
 
 const h = home.homepage;
 const b = home.brand;
@@ -40,12 +39,12 @@ const completeProducts = allProducts.filter((p) => {
   const d = p.data;
   const hasImage =
     (d.imageUrl && !d.imageUrl.includes('example') && !d.imageUrl.startsWith('data:')) ||
-    Boolean(d.asin && /^[A-Z0-9]{10}$/i.test(String(d.asin)));
+    true;
   const hasPrice = typeof d.price === 'number' && d.price > 0;
   const hasRating = typeof d.rating === 'number' && d.rating > 0;
   return hasImage && hasPrice && hasRating;
 });
-const compareRow = HOMEPAGE_COMPARE_PICKS;
+const compareRow = completeProducts.slice(0, 3);
 const heroProducts = completeProducts.slice(0, 3);
 
 const allPillars = await getCollection('pillars', ({ data }) => data.status === 'published');
@@ -291,7 +290,7 @@ const trustItems = [
                   Premium
                 </span>
               )}
-              <CuratedAmazonCard pick={p} />
+              <ProductCard product={p} />
             </div>
           ))}
         </div>

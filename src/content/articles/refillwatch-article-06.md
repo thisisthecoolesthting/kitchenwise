@@ -39,7 +39,7 @@ updatedAt: 2026-05-12
 
 Have you noticed your printer ink costs creeping up every replacement cycle? You're not imagining things. Our analysis of 18 months of pricing data shows the average ink cartridge now costs 19% more than in 2022, with some HP and Epson models jumping 27%. Retailers count on consumers not tracking these gradual increases—they add up to $150+ in hidden annual costs for households printing just 50 pages per month.
 
-This guide examines six specific price hike patterns we've identified through weekly tracking of Amazon ink prices and big-box store fluctuations. We'll show you how to calculate your true cost per page (spoiler: it's often 3–5x the advertised rate), compare third-party alternatives that won't void warranties, and explain why some 'bulk ink' subscriptions actually cost more per milliliter. For budget-conscious families, we've identified three refill systems that pay for themselves within six months.
+This guide examines six specific price hike patterns we've identified through weekly tracking of the retailer ink prices and big-box store fluctuations. We'll show you how to calculate your true cost per page (spoiler: it's often 3–5x the advertised rate), compare third-party alternatives that won't void warranties, and explain why some 'bulk ink' subscriptions actually cost more per milliliter. For budget-conscious families, we've identified three refill systems that pay for themselves within six months.
 
 # Why This Matters
 
@@ -137,68 +137,13 @@ You don't own the cartridges and must return them. If you print over your page a
 
 # Bottom Line
 
-After tracking prices across 37 ink models, we recommend the EZ Ink Refill Kit for most households as it provides the fastest payback period without requiring printer replacement. For heavy users (200+ pages per month), converting to an Epson EcoTank system makes economic sense despite the higher initial cost. The only scenario where OEM cartridges win is for photographers needing absolute color accuracy—and even then, buying from Costco during promotions can save 30% over Amazon's everyday prices.
+After tracking prices across 37 ink models, we recommend the EZ Ink Refill Kit for most households as it provides the fastest payback period without requiring printer replacement. For heavy users (200+ pages per month), converting to an Epson EcoTank system makes economic sense despite the higher initial cost. The only scenario where OEM cartridges win is for photographers needing absolute color accuracy—and even then, buying from Costco during promotions can save 30% over the retailer's everyday prices.
 
-**Partner Disclosure**: RefillWatch earns commissions from Amazon and other retailers when you purchase through our links. We do not accept payments from printer manufacturers, ink brands, or retailers we review. Our recommendations are based solely on price tracking and performance testing.
+**Partner Disclosure**: RefillWatch earns commissions from the retailer and other retailers when you purchase through our links. We do not accept payments from printer manufacturers, ink brands, or retailers we review. Our recommendations are based solely on price tracking and performance testing.
 
 <!-- padded-no-api-v2 -->
 
 ## Top Picks
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07FQ46R24?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41R7vsr7+8L.jpg" alt="Dr. Bronner's Pure-Castile Bar Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Bar Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HNSJSX2?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51opZ-1YZBL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
-<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0126LMDFK?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Beeswax Food Wrap 3-Pack" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51lsEzq5TlL.jpg" alt="Bee's Wrap Beeswax Food Wrap 3-Pack" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Beeswax Food Wrap 3-Pack</strong>
-<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
 
 ## Our picks worth a closer look
 

@@ -88,7 +88,6 @@
   "supportEmail": "hello@kitchenwise.app",
   "monetization": {
     "default_topic": "household-staples",
-    "amazon_associate_tag": "kitchenwise-20",
     "pinterest": {
       "pin_templates": [
         "routine-card",

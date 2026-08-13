@@ -68,7 +68,7 @@ Grocery inflation hits staples hardest because of their purchase frequency and p
 
 - **Walmart's strategy**: 7 gradual increases totaling 14% (averaging $0.20 per hike)
 - **Target's approach**: 2 sharp jumps (9% then 7%) timed after pay periods
-- **Amazon Fresh**: 11% faster price hikes for Prime members versus non-members
+- **the retailer Fresh**: 11% faster price hikes for Prime members versus non-members
 
 These apps matter because they combat three hidden costs:
 
@@ -114,7 +114,7 @@ We conducted a 187-day controlled test of the four most accurate apps for staple
 **Unexpected findings**:
 - All apps struggled with temporary "sale" prices that later became permanent (occurred in 29% of cases)
 - None tracked club store member pricing accurately (Costco/Sam's)
-- BasketWatch falsely flagged 12% of Amazon Subscribe & Save price changes due to delivery date variations
+- BasketWatch falsely flagged 12% of the retailer Subscribe & Save price changes due to delivery date variations
 
 ## Real-world performance
 
@@ -126,7 +126,7 @@ We installed all four apps on test devices and tracked their performance with ac
 
 **Geographic accuracy**: Only PricePulse adjusted for regional variations, preventing a test household in Portland from overpaying $1.89/lb for coffee beans that were $1.49/lb just 12 miles away in Vancouver.
 
-**Subscription traps**: All apps except PricePulse failed to detect Amazon's practice of increasing Subscribe & Save prices after 3-4 deliveries. Our data shows 61% of enrolled items increase in price within 4 deliveries, averaging a 14% hike.
+**Subscription traps**: All apps except PricePulse failed to detect the retailer's practice of increasing Subscribe & Save prices after 3-4 deliveries. Our data shows 61% of enrolled items increase in price within 4 deliveries, averaging a 14% hike.
 
 ## Cost math
 
@@ -177,66 +177,11 @@ When apps show consistent price hikes, these alternatives deliver real savings:
 
 **Subscription warnings**:
 
-- Amazon Subscribe & Save increased prices on 61% of enrolled staple items within 4 deliveries
-- Walmart's auto-delivery raised prices 9% slower than Amazon but still had 43% hike rate
+- the retailer Subscribe & Save increased prices on 61% of enrolled staple items within 4 deliveries
+- Walmart's auto-delivery raised prices 9% slower than the retailer but still had 43% hike rate
 - Best practice: Use PricePulse to monitor subscription item prices monthly
 
 ## Top Picks
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07FQ46R24?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41R7vsr7+8L.jpg" alt="Dr. Bronner's Pure-Castile Bar Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Bar Soap</strong>
-<span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HNSJSX2?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51opZ-1YZBL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
-<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0126LMDFK?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Beeswax Food Wrap 3-Pack" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51lsEzq5TlL.jpg" alt="Bee's Wrap Beeswax Food Wrap 3-Pack" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Beeswax Food Wrap 3-Pack</strong>
-<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
 
 ## Our picks worth a closer look
 

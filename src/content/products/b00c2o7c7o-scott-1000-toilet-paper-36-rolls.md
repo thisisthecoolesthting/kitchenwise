@@ -1,5 +1,5 @@
 ---
-asin: B00C2O7C7O
+
 slug: b00c2o7c7o-scott-1000-toilet-paper-36-rolls
 title: Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls
 seoTitle: Scott 1000 Toilet Paper 36-Roll Bulk Price | RefillWatch
@@ -11,11 +11,11 @@ price: 29.99
 rating: 4.6
 reviewCount: 41280
 bsr: 4
-commissionPerSale: 0.0
+
 score: 85.0
-imageUrl: https://m.media-amazon.com/images/I/515nKDNSU5L.jpg
-affiliateUrl: https://www.amazon.com/dp/B00C2O7C7O?tag=kitchenwise-20&linkCode=ll1&language=en_US
-isPrime: true
+imageUrl: ""
+
+
 status: published
 firstSeen: '2026-04-24T00:00:00+00:00'
 lastSeen: '2026-08-03T15:28:32+00:00'
@@ -43,4 +43,3 @@ Scott wins on cost but is 1-ply. For most households the tradeoff is worth it.
 
 Set at $24.99. It hits this ~5 times/year and that's the time to stock up for 3+ months.
 
-<AffiliateCTA asin="B00C2O7C7O" label="Check current price on Amazon" />

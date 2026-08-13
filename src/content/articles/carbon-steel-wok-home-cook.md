@@ -23,7 +23,7 @@ author: marcus-webb
 
 ## Introduction
 
-What's the best carbon steel wok for a home cook who wants restaurant-quality stir-fries without commercial-grade equipment? After testing 12 models across two months of daily cooking - from high-heat searing to delicate egg dishes - we found most 'beginner friendly' woks fail where it matters: heat responsiveness, seasoning retention, and balanced weight. The [Lodge Pro-Logic Wok](https://www.amazon.com/dp/B0DHV8SCLS?tag=castironcanon-20) surprised us with its even heating, while boutique brands like [Made In's Carbon Steel Wok](https://www.amazon.com/dp/B0G63G9LRJ?tag=castironcanon-20) showed why professionals pay premium prices.
+What's the best carbon steel wok for a home cook who wants restaurant-quality stir-fries without commercial-grade equipment? After testing 12 models across two months of daily cooking - from high-heat searing to delicate egg dishes - we found most 'beginner friendly' woks fail where it matters: heat responsiveness, seasoning retention, and balanced weight. The Lodge Pro-Logic Wok surprised us with its even heating, while boutique brands like Made In's Carbon Steel Wok showed why professionals pay premium prices.
 
 This guide breaks down which features actually impact wok performance in residential kitchens versus marketing fluff.
 
@@ -35,7 +35,7 @@ Our testing process involved cooking a variety of dishes, from quick stir-fries 
 
 Carbon steel woks outperform stainless steel or nonstick alternatives for stir-frying because they develop a natural nonstick patina (called 'seasoning') that improves with use. But most home cooks face three challenges commercial kitchens don't: lower BTU burners, flat-bottom requirements for electric stoves, and frequent thermal cycling that cracks cheap woks. We prioritized woks that maintain 450°F+ temperatures with 12,000 BTU home burners (verified with infrared thermometers) and tested how well their factory-applied seasoning held up to 30+ washes.
 
-The [Joyce Chen 14-inch Wok](https://www.amazon.com/dp/B00WSAXBQ0?tag=castironcanon-20) proved shockingly resilient, while thinner models like the [Craft Wok](https://www.amazon.com/dp/B0DHV7ZWH2?tag=castironcanon-20) warped under repeated high-heat testing.
+The Joyce Chen 14-inch Wok proved shockingly resilient, while thinner models like the Craft Wok warped under repeated high-heat testing.
 
 Understanding the importance of these factors can help home cooks make informed decisions when purchasing a wok. For instance, a wok that heats evenly and retains heat well is crucial for achieving the high temperatures needed for proper stir-frying. Additionally, a durable seasoning layer ensures that food doesn't stick to the wok, making cooking and cleaning easier.
 
@@ -45,9 +45,9 @@ By focusing on these key aspects, we aimed to identify woks that offer the best 
 
 | Model | Thickness | Weight | Handle Comfort | Seasoning Durability | Best For |
 |-------|-----------|--------|----------------|-----------------------|----------|
-| [Lodge Pro-Logic](https://www.amazon.com/dp/B0DHV8SCLS?tag=castironcanon-20) | 2.3mm | 4.2 lbs | ★★★★☆ | 85% retention | Gas stoves |
-| [Made In](https://www.amazon.com/dp/B0G63G9LRJ?tag=castironcanon-20) | 2.0mm | 3.8 lbs | ★★★★★ | 92% retention | Induction |
-| [Joyce Chen](https://www.amazon.com/dp/B00WSAXBQ0?tag=castironcanon-20) | 1.8mm | 3.1 lbs | ★★★☆☆ | 78% retention | Electric stoves |
+| Lodge Pro-Logic | 2.3mm | 4.2 lbs | ★★★★☆ | 85% retention | Gas stoves |
+| Made In | 2.0mm | 3.8 lbs | ★★★★★ | 92% retention | Induction |
+| Joyce Chen | 1.8mm | 3.1 lbs | ★★★☆☆ | 78% retention | Electric stoves |
 
 Thickness proved critical - woks under 2mm lost heat too quickly when adding ingredients, while the Lodge's 2.3mm construction maintained optimal 400-450°F temps even with wet vegetables. Handle design separated premium models; the Made In's rounded helper handle remained cool to touch during 15-minute stir-fries.
 
@@ -57,7 +57,7 @@ The Joyce Chen 14-inch Wok, while thinner and lighter, offers a good balance of 
 
 ## Real-world performance
 
-After 60 days of testing, three patterns emerged: 1) Flat-bottom woks like the [Tramontina 80116/537DS](https://www.amazon.com/dp/B09VXQ221K?tag=castironcanon-20) performed best on electric coils, 2) Round-bottom models required 15,000+ BTU to outperform flat variants, and 3) Pre-seasoning quality varied wildly - the [Matfer Bourgeat 624005](https://www.amazon.com/dp/B098JD8HD3?tag=castironcanon-20) developed rust spots after just three washes despite its 'professional-grade' claims. For induction users, only the Made In and [All-Clad Stainless Steel Wok](https://www.amazon.com/dp/B00WSAXBQ0?tag=castironcanon-20) maintained consistent temps without hot spots.
+After 60 days of testing, three patterns emerged: 1) Flat-bottom woks like the Tramontina 80116/537DS performed best on electric coils, 2) Round-bottom models required 15,000+ BTU to outperform flat variants, and 3) Pre-seasoning quality varied wildly - the Matfer Bourgeat 624005 developed rust spots after just three washes despite its 'professional-grade' claims. For induction users, only the Made In and All-Clad Stainless Steel Wok maintained consistent temps without hot spots.
 
 Our real-world performance testing revealed important insights into how different woks perform in various cooking scenarios. Flat-bottom woks, such as the Tramontina 80116/537DS, are ideal for electric stoves, providing even heat distribution and stability. Round-bottom woks, while traditional, require higher BTU outputs to achieve the same level of performance, making them less practical for most home kitchens.
 
@@ -78,7 +78,7 @@ Understanding the cost implications of different woks can help home cooks make i
 ## Alternatives and refills
 
 For those wanting non-traditional options:
-- Cast iron woks like the [Lodge Pro-Logic](https://www.amazon.com/dp/B0DHV8SCLS?tag=castironcanon-20) retain heat better but weigh 5.5+ lbs
+- Cast iron woks like the Lodge Pro-Logic retain heat better but weigh 5.5+ lbs
 - Ceramic-coated woks avoid seasoning but degrade faster (our tests showed coating failure after 32 uses)
 - Round-bottom woks require $100+ propane adapters for home use
 Refill-wise, flaxseed oil created the most durable seasoning layer in our tests, lasting 2.1x longer than standard vegetable oil coatings.
@@ -111,7 +111,7 @@ Place the convex side down on a flat surface and gently hammer the center bulge 
 
 ## Bottom line
 
-The [Made In Carbon Steel Wok](https://www.amazon.com/dp/B0G63G9LRJ?tag=castironcanon-20) delivers professional performance worth its $199 price for serious home cooks, while the [Lodge Pro-Logic](https://www.amazon.com/dp/B0DHV8SCLS?tag=castironcanon-20) offers 85% of the functionality at one-third the cost. Avoid thinner (<2mm) models like the Joyce Chen unless you exclusively cook small batches - their heat retention struggles with family-sized meals. For induction users, only the Made In provided truly even heating without cold spots during our stress tests.
+The Made In Carbon Steel Wok delivers professional performance worth its $199 price for serious home cooks, while the Lodge Pro-Logic offers 85% of the functionality at one-third the cost. Avoid thinner (<2mm) models like the Joyce Chen unless you exclusively cook small batches - their heat retention struggles with family-sized meals. For induction users, only the Made In provided truly even heating without cold spots during our stress tests.
 
 <!-- padded-no-api-v2 -->
 
@@ -150,7 +150,7 @@ Vintage Wagner and Griswold pans from the 1920s–1950s are still in active kitc
 ## What to watch for before you buy
 
 - **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
-- **Resellers swap manufactured dates without notice.** A Brother LC3019 listing on Amazon may ship a 2024 cartridge one month and a 2022 cartridge the next; the older stock has degraded ink. Check the date code on the box when it arrives and return anything past 18 months.
+- **Resellers swap manufactured dates without notice.** A Brother LC3019 listing online may ship a 2024 cartridge one month and a 2022 cartridge the next; the older stock has degraded ink. Check the date code on the box when it arrives and return anything past 18 months.
 - **XL doesn't always mean better value.** Always calculate cost-per-page — divide cartridge price by manufacturer-quoted yield. Roughly a quarter of XL cartridges underperform their standard counterparts on this metric.
 - **Subscription prices creep.** HP Instant Ink, Canon Pixma Print Plan, and Brother Refresh subscriptions have all raised prices 10–25% over 24 months without coverage increases. Check your statement quarterly; cancellation is one-click but they don't make it obvious.
 - **Compatible cartridges can void your printer warranty in some countries** (not the US under Magnuson-Moss, but EU and AU warranties may exclude damage caused by non-OEM consumables). Read the fine print before buying compatibles for a printer still in warranty.
@@ -159,7 +159,7 @@ Vintage Wagner and Griswold pans from the 1920s–1950s are still in active kitc
 
 ## How we tracked this
 
-Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+Price data for this article comes from Keepa, which logs every published price change for an retailer listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
 
 ## Our picks worth a closer look
 

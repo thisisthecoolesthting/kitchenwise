@@ -34,7 +34,7 @@ updatedAt: 2026-05-12
 
 
 
-Amazon Prime's subscription cost has climbed from $79 annual in 2005 to $139 today—a 76% jump. That's more than double the 45% growth in general inflation over the same span. For cost-conscious households, the question isn't whether Prime is *convenient*—it's whether you're actually saving money.
+the retailer Prime's subscription cost has climbed from $79 annual in 2005 to $139 today—a 76% jump. That's more than double the 45% growth in general inflation over the same span. For cost-conscious households, the question isn't whether Prime is *convenient*—it's whether you're actually saving money.
 
 We spent 90 days tracking real delivery times, streaming costs, and the "impulse buy tax" that Prime membership quietly enables. Here's what we found:
 
@@ -47,7 +47,6 @@ We'll show you the exact math for your household, plus three alternatives that b
 
 
 
-> **See also:** [Has Your Amazon Prime Subscription Doubled? Here's Why.](https://refillwatch.org/articles/amazon-prime-subscription-cost-increase/)
 
 ## Why this matters
 
@@ -55,7 +54,7 @@ We'll show you the exact math for your household, plus three alternatives that b
 
 
 
-Amazon Prime represents textbook subscription creep—the slow price increase that relies on you not noticing, paired with benefits that gradually degrade (slower shipping in rural areas, streaming bloat, fewer exclusive deals).
+the retailer Prime represents textbook subscription creep—the slow price increase that relies on you not noticing, paired with benefits that gradually degrade (slower shipping in rural areas, streaming bloat, fewer exclusive deals).
 
 Here's the pattern:
 
@@ -70,13 +69,13 @@ Meanwhile, what's actually changed?
 - **Shipping speeds haven't improved**; they've fragmented into tiers
 - **Video quality expanded but rental costs stayed high**; original series production slowed 18% post-pandemic
 - **Exclusive deals became less exclusive**; 62% of "Lightning Deals" are available elsewhere within 30 days
-- **Market dominance increased further**: Amazon controls 37.8% of US e-commerce (2025), so there's no competitive pressure to hold prices steady
+- **Market dominance increased further**: the retailer controls 37.8% of US e-commerce (2025), so there's no competitive pressure to hold prices steady
 
 This matters to your wallet because every dollar locked into Prime is a dollar that doesn't go toward a service that better matches your actual behavior.
 
 ## How we tested Prime
 
-We compared Amazon Prime against five major alternatives over 90 days, tracking:
+We compared the retailer Prime against five major alternatives over 90 days, tracking:
 
 - **Actual delivery times** (not promised times) across urban, suburban, and rural zip codes
 - **Streaming content you don't have to pay extra for** (no rental fees)
@@ -87,7 +86,7 @@ This comparison table shows real-world performance:
 
 | Service | Annual Cost | Free Shipping | Streaming Included | Real Delivery Speed (Ave.) | Best For |
 |---------|-------------|---------------|-------------------|---------------------------|----------|
-| Amazon Prime | $139 | Yes (2-day claim) | Prime Video (partial) | 1.8 days urban / 4.2 rural | Frequent urban shoppers |
+| the retailer Prime | $139 | Yes (2-day claim) | Prime Video (partial) | 1.8 days urban / 4.2 rural | Frequent urban shoppers |
 | Walmart+ | $98 | Yes (2-day claim) | Paramount+ included | 2.1 days avg | Gas savings + bulk shoppers |
 | Target Circle | Free | No | No | In-store only | RedCard stackers |
 | Costco | $60–$120 | No | No | In-store only | Bulk buying + 2% rewards |
@@ -157,7 +156,7 @@ Walmart+ includes:
 
 **Total cost: $98/year vs. Prime's $139**
 
-**Best for:** Suburban and rural shoppers who don't live near Amazon fulfillment centers; anyone who fuels up regularly (breaks even in 400–500 gallons).
+**Best for:** Suburban and rural shoppers who don't live near the retailer fulfillment centers; anyone who fuels up regularly (breaks even in 400–500 gallons).
 
 ---
 
@@ -209,63 +208,8 @@ Pay for shipping only when you need it; skip memberships entirely.
 
 ## Top Picks
 
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWJ0?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41f3ICkkvPL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
-<span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00HNSJSX2?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51opZ-1YZBL.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
-<span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07571LXYD?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Heali Kiwi Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/413hRd6x2YL.jpg" alt="Ethique Heali Kiwi Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Ethique Heali Kiwi Shampoo Bar</strong>
-<span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0973GJNCC?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Native Sensitive Deodorant — Cotton &amp; Lily" data-card-pick="Paperboard stick with no aluminum—our pick for sensitive underarms without plastic waste.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/31y5kvuL3GL.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Native Sensitive Deodorant — Cotton & Lily</strong>
-<span class="amazon-inline-card__desc">Aluminum-free, baking-soda-free stick in plastic-free paperboard—72-hour odor control for sensitive skin.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
-<div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0126LMDFK?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Beeswax Food Wrap 3-Pack" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
-<img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/51lsEzq5TlL.jpg" alt="Bee's Wrap Beeswax Food Wrap 3-Pack" width="80" height="80" loading="lazy" decoding="async">
-<div class="amazon-inline-card__body">
-<strong class="amazon-inline-card__title">Bee's Wrap Beeswax Food Wrap 3-Pack</strong>
-<span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
-<span class="amazon-inline-card__cta">Shop on Amazon →</span>
-</div>
-</a>
-</div>
-
 ## Our picks worth a closer look
 
-- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[the retailer Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
 - **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
 

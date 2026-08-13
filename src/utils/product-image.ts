@@ -1,4 +1,4 @@
-/** Product image URLs — curated catalog URL first, ASIN fallback, optional local asset, SVG last. */
+/** Product image URLs — curated catalog URL first, optional local asset, SVG last. */
 
 import { existsSync, statSync } from 'node:fs';
 import path from 'node:path';
@@ -17,47 +17,30 @@ const FALLBACK_SVG =
 
 const MIN_IMAGE_BYTES = 512;
 
+const AMAZON_HOST_RE = /amazon\.com|media-amazon|ssl-images-amazon|amazon-adsystem/i;
+
 export function localProductImagePath(slug: string): string {
   return `/images/products/${slug}.jpg`;
 }
 
-import { AMAZON_INLINE_IMAGE_BY_ASIN } from '@/lib/amazon-inline-image-map.mjs';
-
-export function amazonAsinImageUrl(asin: string): string {
-  const id = asin.trim().toUpperCase();
-  if (!id) return FALLBACK_SVG;
-  const mapped = (AMAZON_INLINE_IMAGE_BY_ASIN as Record<string, string>)[id];
-  if (mapped?.startsWith('http')) return mapped;
-  return `/images/amazon-picks/${id}.jpg`;
-}
-
-/** Prefer m.media-amazon.com — survives hotlink better than legacy ssl-images host. */
-export function normalizeAmazonImageUrl(url: string): string {
-  const trimmed = url.trim();
-  const match = trimmed.match(/\/images\/I\/([^/?]+)/i);
-  if (match?.[1]) return `https://m.media-amazon.com/images/I/${match[1]}`;
-  return trimmed.replace(/images-na\.ssl-images-amazon\.com/i, 'm.media-amazon.com');
+export function isAmazonImageUrl(url: string): boolean {
+  return AMAZON_HOST_RE.test(url.trim());
 }
 
 export function productImageCandidates(
   slug: string,
-  asin: string,
   imageUrl?: string | null,
 ): string[] {
   const seen = new Set<string>();
   const out: string[] = [];
   const add = (candidate?: string | null) => {
     const value = (candidate ?? '').trim();
-    if (!value || seen.has(value)) return;
+    if (!value || seen.has(value) || isAmazonImageUrl(value)) return;
     seen.add(value);
     out.push(value);
   };
 
-  if (imageUrl?.trim()) {
-    add(normalizeAmazonImageUrl(imageUrl));
-    add(imageUrl.trim());
-  }
-  if (asin?.trim()) add(amazonAsinImageUrl(asin));
+  if (imageUrl?.trim()) add(imageUrl.trim());
   add(localProductImagePath(slug));
   add(FALLBACK_SVG);
   return out;
@@ -75,6 +58,7 @@ function localFileOk(publicRoot: string, src: string): boolean {
 
 async function remoteUrlOk(url: string): Promise<boolean> {
   if (url.startsWith('data:')) return true;
+  if (isAmazonImageUrl(url)) return false;
   try {
     const res = await fetch(url, {
       method: 'HEAD',
@@ -92,11 +76,10 @@ async function remoteUrlOk(url: string): Promise<boolean> {
 /** Pick the first candidate that exists locally or responds with a real image body. */
 export async function resolveProductImageSources(
   slug: string,
-  asin: string,
   imageUrl: string | null | undefined,
   publicRoot: string,
 ): Promise<{ primary: string; fallbacks: string[] }> {
-  const candidates = productImageCandidates(slug, asin, imageUrl);
+  const candidates = productImageCandidates(slug, imageUrl);
   const valid: string[] = [];
 
   for (const src of candidates) {
@@ -120,10 +103,9 @@ export async function resolveProductImageSources(
 
 export function primaryProductImage(
   slug: string,
-  asin: string,
   imageUrl?: string | null,
 ): string {
-  return productImageCandidates(slug, asin, imageUrl)[0] ?? FALLBACK_SVG;
+  return productImageCandidates(slug, imageUrl)[0] ?? FALLBACK_SVG;
 }
 
 export { FALLBACK_SVG, MIN_IMAGE_BYTES };

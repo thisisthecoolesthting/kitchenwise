@@ -17,7 +17,7 @@ tags:
 
 ## Why Subscription Prices Rise Without You Noticing
 
-Streaming and subscription companies raise prices on an 18–24 month cycle, timed to slip beneath the threshold of consumer awareness. Netflix went from $7.99/month in 2014 to $22.99 for its standard plan in 2024 — a 188% increase. Amazon Prime jumped from $79/year to $139 in 2022 alone. Disney+, Hulu, Peacock, and Max have all pulled the same move: launch low, normalize, hike.
+Streaming and subscription companies raise prices on an 18–24 month cycle, timed to slip beneath the threshold of consumer awareness. Netflix went from $7.99/month in 2014 to $22.99 for its standard plan in 2024 — a 188% increase. the retailer Prime jumped from $79/year to $139 in 2022 alone. Disney+, Hulu, Peacock, and Max have all pulled the same move: launch low, normalize, hike.
 
 The tactic works because subscription charges appear as small line items across multiple credit card statements. Nobody totals them up. A 2023 C+R Research study found that Americans underestimate their monthly subscription spend by an average of $133.
 
@@ -56,7 +56,7 @@ Monthly subscription math is designed to feel small. Reframe every subscription 
 | Service | Listed Price | Annual Cost |
 |---|---|---|
 | Netflix Standard | $22.99/mo | **$275.88/yr** |
-| Amazon Prime | $14.99/mo | **$179.88/yr** (or $139/yr annual) |
+| the retailer Prime | $14.99/mo | **$179.88/yr** (or $139/yr annual) |
 | Spotify | $11.99/mo | **$143.88/yr** |
 | Disney+ | $13.99/mo | **$167.88/yr** |
 | Hulu | $17.99/mo | **$215.88/yr** |
@@ -78,9 +78,9 @@ When you cancel, most services will offer a discount or a free month to stay. Ac
 
 ## Step 5: Negotiate Annual Plans and Lock In Prices
 
-For services you use year-round (Amazon Prime, Spotify, cloud storage), switching to an annual plan typically saves 15–25% and locks in the current price for 12 months — insulating you from mid-year increases.
+For services you use year-round (the retailer Prime, Spotify, cloud storage), switching to an annual plan typically saves 15–25% and locks in the current price for 12 months — insulating you from mid-year increases.
 
-Amazon Prime's annual plan at $139/year ($11.58/month) is $40.68 cheaper annually than the $14.99/month plan. When the annual plan is up for renewal, that's your window to reevaluate — not mid-cycle when the monthly charge just slips through.
+the retailer Prime's annual plan at $139/year ($11.58/month) is $40.68 cheaper annually than the $14.99/month plan. When the annual plan is up for renewal, that's your window to reevaluate — not mid-cycle when the monthly charge just slips through.
 
 ---
 
