@@ -45,7 +45,7 @@ While their similarities lay a strong foundation, the subtle differences in thei
 
 #### Weight and Maneuverability
 
-This is often the first thing people notice. Cast iron, particularly a thick skillet like the **Lodge 12-inch Cast Iron Skillet** ([Lodge Cast Iron Skillet (10.25-inch)](https://www.amazon.com/dp/B00006JSUB/?tag=kitchenwise-20)), is heavy. Really heavy. A 12-inch cast iron skillet can easily weigh 8-10 pounds. This mass contributes to its incredible heat retention but can be a challenge for some cooks, especially when lifting, tossing food, or washing.
+This is often the first thing people notice. Cast iron, particularly a thick skillet like the **Lodge 12-inch Cast Iron Skillet** (Lodge Cast Iron Skillet (10.25-inch)), is heavy. Really heavy. A 12-inch cast iron skillet can easily weigh 8-10 pounds. This mass contributes to its incredible heat retention but can be a challenge for some cooks, especially when lifting, tossing food, or washing.
 
 Carbon steel, on the other hand, is significantly lighter. A 12-inch carbon steel pan typically weighs 4-6 pounds, making it much easier to handle. This difference becomes particularly noticeable when you're searing and then transferring to the oven, or when you're trying to toss vegetables for a stir-fry. For apartment cooks optimizing for small spaces where every movement counts, or for those with wrist issues, the lighter weight of carbon steel can be a game-changer.
 
@@ -59,7 +59,7 @@ Carbon steel, being thinner and less dense, heats up much faster and, crucially,
 
 Traditional cast iron often has a somewhat pebbled, rougher surface straight out of the box. While this texture helps the initial seasoning adhere, it can take many, many layers of seasoning and cooking before it becomes truly slick. Even then, it might not reach the glassy smoothness of a perfectly seasoned carbon steel pan.
 
-Carbon steel typically has a much smoother, almost polished surface from the start. This smoother texture allows seasoning to build up more uniformly and quickly, often resulting in a remarkably slick, naturally non-stick surface with fewer uses. For tasks like frying eggs or pancakes, where non-stick is paramount, a well-seasoned carbon steel pan often outperforms a similarly seasoned cast iron pan in its initial stages of use. My **De Buyer Mineral B Pro Frying Pan** ([View on Amazon](https://www.amazon.com/dp/B00462QP5U/?tag=kitchenwise-20)) developed a fantastic non-stick surface within a month of regular use.
+Carbon steel typically has a much smoother, almost polished surface from the start. This smoother texture allows seasoning to build up more uniformly and quickly, often resulting in a remarkably slick, naturally non-stick surface with fewer uses. For tasks like frying eggs or pancakes, where non-stick is paramount, a well-seasoned carbon steel pan often outperforms a similarly seasoned cast iron pan in its initial stages of use. My **De Buyer Mineral B Pro Frying Pan** () developed a fantastic non-stick surface within a month of regular use.
 
 #### Maintenance and Care
 

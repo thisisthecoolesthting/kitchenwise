@@ -10,7 +10,7 @@ bsr: null
 commissionPerSale: 0
 score: 0
 imageUrl: ''
-affiliateUrl: https://www.amazon.com/dp/B07P5Y5QHG?tag=kitchenwise-20
+affiliateUrl: https://www.amazon.com/dp/B07P5Y5QHG
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'

@@ -146,56 +146,56 @@ Here’s a ranked list based on factors like ingredient transparency, refill ava
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0973GJNCC?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Native Sensitive Deodorant — Cotton &amp; Lily" data-card-pick="Paperboard stick with no aluminum—our pick for sensitive underarms without plastic waste.">
+
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/31y5kvuL3GL.jpg" alt="Native Sensitive Deodorant — Cotton & Lily" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Native Sensitive Deodorant — Cotton & Lily</strong>
 <span class="amazon-inline-card__desc">Aluminum-free, baking-soda-free stick in plastic-free paperboard—72-hour odor control for sensitive skin.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0BC244Z4W?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Native Plastic Free Deodorant — Cucumber &amp; Mint" data-card-pick="Compostable packaging and naturally derived scent—strong everyday deodorant without a plastic case.">
+
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/314RA4iSBHL.jpg" alt="Native Plastic Free Deodorant — Cucumber & Mint" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Native Plastic Free Deodorant — Cucumber & Mint</strong>
 <span class="amazon-inline-card__desc">Compostable paperboard packaging with naturally derived ingredients—no aluminum or parabens.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B0CLBF6PLW?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="HiBAR Plastic Free Deodorant — Bergamot &amp; Cedar" data-card-pick="Plant-based wax formula in minimal packaging—pairs well with their solid hair bars.">
+
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41IfQ1+OUhL.jpg" alt="HiBAR Plastic Free Deodorant — Bergamot & Cedar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">HiBAR Plastic Free Deodorant — Bergamot & Cedar</strong>
 <span class="amazon-inline-card__desc">Vegan, aluminum-free deodorant in recyclable tubes—plant-based waxes for all-day protection.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B07571LXYD?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Ethique Heali Kiwi Shampoo Bar" data-card-pick="One bar replaces multiple liquid bottles—best all-around plastic-free shampoo swap.">
+
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/413hRd6x2YL.jpg" alt="Ethique Heali Kiwi Shampoo Bar" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Ethique Heali Kiwi Shampoo Bar</strong>
 <span class="amazon-inline-card__desc">Solid shampoo replacing 3 plastic bottles—gentle lather, works on color-treated hair.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B084ZNXBN8?tag=kitchenwise-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Georganics Mineral Toothpaste Powder" data-card-pick="Glass-jar powder you can refill—cuts tube waste without sacrificing clean ingredients.">
+
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/41bu3uBj5dL.jpg" alt="Georganics Mineral Toothpaste Powder" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Georganics Mineral Toothpaste Powder</strong>
 <span class="amazon-inline-card__desc">Fluoride-free powder in glass jar—refillable-friendly oral care swap.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>

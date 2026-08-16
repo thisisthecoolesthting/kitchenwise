@@ -13,7 +13,7 @@ bsr: 14636
 commissionPerSale: 0.0
 score: 126.94
 imageUrl: "https://m.media-amazon.com/images/I/719zRa9JoeL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0FJFGYL5K?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0FJFGYL5K"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ Huusk Damascus Chef Knife 8 Inch, 67-Layers Damascus Kitchen Knives with Ergonom
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0FJFGYL5K" url="https://www.amazon.com/dp/B0FJFGYL5K?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0FJFGYL5K" url="https://www.amazon.com/dp/B0FJFGYL5K" label="Check price on Amazon" />
 

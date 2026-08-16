@@ -42,7 +42,7 @@ const store = shop
   ? (CASE_AD_STORES.find((s) => s.slug === shop) ?? CASE_AD_STORES[0])
   : CASE_AD_STORES[0];
 
-const img = pickStoreImage(store.images, size, composite);
+const img = pickStoreImage(store && store.images ? store.images : [], size, composite);
 const siteOrigin = Astro.url.origin;
 const imgUrl = img.startsWith('/')
   ? `${siteOrigin}${img}`
