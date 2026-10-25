@@ -4,7 +4,6 @@ import Header from '@/components/Header.astro';
 import SkipLink from '@/components/SkipLink.astro';
 import Footer from '@/components/Footer.astro';
 import GlobalBottomAffiliateStrip from '@/components/GlobalBottomAffiliateStrip.astro';
-import SiteSectionAds from '@/components/SiteSectionAds.astro';
 import type { SectionPage } from '@/lib/section-page';
 import home from '@/data/spawn-home.json';
 
@@ -128,9 +127,12 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
     {gaMeasurementId && (
       <>
         <script async src={`https://www.googletagmanager.com/gtag/js?id=${gaMeasurementId}`}></script>
-        <script set:html={`window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', '${gaMeasurementId}', { 'anonymize_ip': true });`}></script>
+        <script set:html={`window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); if(!navigator.webdriver){gtag('config', '${gaMeasurementId}', { 'anonymize_ip': true });}`}></script>
       </>
     )}
+
+    {/* Shared events + subscribe handler (rcc-events.js) */}
+    <script async src="https://rickyscontrolcenter.com/assets/rcc-events.js"></script>
 
     {/* Ad injection system v3: slots.css reserves space (no CLS); inject.js fills slots at runtime */}
     <link rel="stylesheet" href="/ads/slots.css" />
@@ -140,19 +142,10 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
   <body class="min-h-screen flex flex-col site-page-bg texture-paper">
     <SkipLink />
     <Header />
-    {sectionAds && (
-      <div class="site-top-ad-band border-b border-cream-200/70 bg-cream-50/95 py-0">
-        <SiteSectionAds page={sectionAds} variant="header" compact={sectionAdsCompact} />
-      </div>
-    )}
     <main id="main-content" class="flex-1" tabindex="-1">
       <slot />
-      {sectionAds && sectionAdsFooter && <SiteSectionAds page={sectionAds} variant="footer" />}
     </main>
     <GlobalBottomAffiliateStrip />
     <Footer />
-      <script is:inline>
-      (function(){try{window.dataLayer=window.dataLayer||[];function emit(n,p){window.dataLayer.push(Object.assign({event:n},p));if(typeof window.gtag==='function')window.gtag('event',n,p)}function txt(a){var t=(a.textContent||'').replace(/\s+/g,' ').trim();return t.length>80?t.slice(0,80):t}document.addEventListener('click',function(e){var el=e.target;if(!el||!el.closest)return;var a=el.closest('a[href]');if(!a)return;var raw=a.getAttribute('href');if(!raw)return;var u;try{u=new URL(raw,location.href)}catch(_){return}if(u.protocol!=='http:'&&u.protocol!=='https:')return;var href=u.href,domain=u.hostname,rel=(a.getAttribute('rel')||'').toLowerCase(),aff=rel.indexOf('sponsored')>=0||href.toLowerCase().indexOf('amazon.')>=0,base={link_url:href,link_domain:domain,link_text:txt(a),page_path:location.pathname};if(aff){emit('affiliate_click',base);return}if(domain&&domain!==location.hostname)emit('outbound_click',base)},true)}catch(_){}})();
-    </script>
   </body>
 </html>

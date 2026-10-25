@@ -1,7 +1,6 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import LongformPageShell from '@/components/LongformPageShell.astro';
-import EmailCapture from '@/components/EmailCapture.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
 import RelatedArticles from '@/components/RelatedArticles.astro';
 import FriendsOfNetwork from '@/components/FriendsOfNetwork.astro';
@@ -119,7 +118,6 @@ const articleSchema = {
   </div>
 
   <div class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 pb-20">
-    <EmailCapture title={nl.title} subtitle={nl.subtitle} />
     <NewsletterForm variant="inline" title={nl.title} subtitle={nl.subtitle} />
   </div>
 </BaseLayout>

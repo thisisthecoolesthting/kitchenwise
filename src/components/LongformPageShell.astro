@@ -8,8 +8,6 @@ import AuthorByline from '@/components/AuthorByline.astro';
 
 import MedicalDisclaimer from '@/components/MedicalDisclaimer.astro';
 
-import PhoneCaseFamilyTextLinks from '@/components/PhoneCaseFamilyTextLinks.astro';
-
 import TopPicksBlock from '@/components/TopPicksBlock.astro';
 
 import type { CollectionEntry } from 'astro:content';
@@ -134,12 +132,6 @@ const {
           <slot />
         </div>
 
-        <div class="my-8 lg:hidden not-prose">
-          <PhoneCaseFamilyTextLinks placement="longform-mid-mobile" compact />
-        </div>
-
-
-
         <div class="mt-8 text-left">
 
           <AuthorByline
@@ -165,14 +157,6 @@ const {
           </div>
 
         )}
-
-
-
-        <div class="my-8">
-
-          <PhoneCaseFamilyTextLinks placement="longform-after-author" />
-
-        </div>
 
 
 

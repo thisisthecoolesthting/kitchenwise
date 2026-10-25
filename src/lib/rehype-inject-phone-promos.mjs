@@ -91,6 +91,7 @@ function walkInsert(node) {
 
 export function rehypeInjectPhonePromos() {
   return (tree) => {
+    if (spawnHome?.disablePhonePromos === true) return;
     walkInsert(tree);
   };
 }

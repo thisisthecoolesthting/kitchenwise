@@ -1,20 +1,15 @@
 ---
 import ArticleToC from '@/components/ArticleToC.astro';
-import CaseAdSlot from '@/components/CaseAdSlot.astro';
 ---
 
 <aside
   class="article-sidebar-rail w-full lg:w-56 xl:w-60 shrink-0 order-first lg:order-none lg:sticky lg:top-20 lg:self-start lg:z-30"
-  aria-label="Page map and phone case offer"
+  aria-label="Page map"
 >
   <div class="article-sidebar-panel flex flex-col gap-3">
     <section class="article-sidebar-toc min-h-0">
       <ArticleToC embedded expanded />
     </section>
-
-    <div class="article-sidebar-ad not-prose shrink-0">
-      <CaseAdSlot size="300x600" placement="longform-sidebar-sticky" />
-    </div>
   </div>
 </aside>
 

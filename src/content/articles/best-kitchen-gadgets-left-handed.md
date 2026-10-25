@@ -62,7 +62,7 @@ While often overlooked, a true left-handed knife can make a world of difference.
 
 **Important note:** Many knives are marketed as "ambidextrous," but true left-handed knives have a specific bevel. Before purchasing, carefully inspect the blade to ensure it is beveled correctly for left-handed use. We have a detailed guide on the quiet features that make knives easier to use, which discusses blade geometry in detail.
 
-**Our pick (coming soon):** We're currently testing a range of left-handed knives from various manufacturers and will update this section with our top pick once we've completed our testing process. We're focusing on edge retention, balance, and comfort during extended use.
+**Our pick:** We are still testing a range of left-handed knives from various manufacturers and will update this section with our top pick once we've completed our testing process. We're focusing on edge retention, balance, and comfort during extended use.
 
 ### Left-Handed Ladles and Spatulas
 

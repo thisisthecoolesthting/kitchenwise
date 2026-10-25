@@ -8,7 +8,6 @@
 // (about / categories / defaultAuthorSlug / persona).
 
 import CompliantLayout from '@/layouts/CompliantLayout.astro';
-import SiteSectionAds from '@/components/SiteSectionAds.astro';
 import { getCollection } from 'astro:content';
 import CuratedAmazonCard from '@/components/CuratedAmazonCard.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
@@ -59,6 +58,7 @@ const pillarGridEntries =
 
 const allArticles = await getCollection('articles', ({ data }) => data.status === 'published');
 const latestSix = allArticles
+  .filter((a) => /\s/.test(String(a.data.title || '').trim()))
   .sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt))
   .slice(0, 6);
 
@@ -185,7 +185,7 @@ const trustItems = [
           const firstWord = String(entry?.data?.title || entry || '').split(' ')[0];
           return (
             <a href={href} class={`group no-underline relative overflow-hidden rounded-xl border border-cream-200 p-6 min-h-[240px] flex flex-col transition-all hover:-translate-y-1 hover:shadow-soft-lg hover:border-terracotta-400 ${tints[idx % tints.length]}`}>
-              <p class="font-display text-sm text-terracotta-600">{num} · {firstWord}</p>
+              <p class="font-display text-sm text-terracotta-600">{num}</p>
               <h3 class="font-display text-xl text-ink-900 !mt-2 leading-snug max-w-[14ch]">
                 {title}
               </h3>
@@ -372,15 +372,13 @@ const trustItems = [
     </div>
   </section>
 
-  <SiteSectionAds page="home" variant="footer" />
-
   {/* ============ 7. NEWSLETTER ============ */}
   <section class="max-w-3xl mx-auto px-5 py-10 md:py-12">
     <NewsletterForm
       variant="hero"
-      title="KitchenWise weekly"
-      subtitle="One shrinkflation alert, one smarter swap, one price check — every week. No spam."
-      cta="Get price alerts"
+      title="Get kitchen gear deals"
+      subtitle="Tested picks and price drops, once a week. No spam."
+      cta="Send me deals"
     />
   </section>
 
