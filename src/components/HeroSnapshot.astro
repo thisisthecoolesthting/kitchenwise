@@ -44,7 +44,7 @@ function shortTitle(title: string, max = 42): string {
       {panelLabel}
     </p>
     <span class="text-[10px] font-mono text-cream-50/60 uppercase tracking-wide">
-      {articleCount}+ {trackedSuffix}
+      {articleCount.toLocaleString('en-US')} {trackedSuffix}
     </span>
   </div>
 

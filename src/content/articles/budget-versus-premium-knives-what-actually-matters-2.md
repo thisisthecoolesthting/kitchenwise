@@ -1,5 +1,5 @@
 ---
-title: budget-versus-premium-knives-what-actually-matters-2
+title: "Budget Versus Premium Knives What Actually Matters"
 site: kitchenwise
 topic: household-staples
 tier: mvp

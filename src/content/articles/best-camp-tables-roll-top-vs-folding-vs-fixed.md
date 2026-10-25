@@ -1,5 +1,5 @@
 ---
-title: best-camp-tables-roll-top-vs-folding-vs-fixed
+title: "Best Camp Tables Roll Top vs Folding vs Fixed"
 site: campdeck
 topic: cleaning
 tier: mvp

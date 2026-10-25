@@ -1,5 +1,5 @@
 ---
-title: a-practical-blenders-gift-guide-2
+title: "A Practical Blenders Gift Guide"
 site: kitchenwise
 topic: household-staples
 tier: mvp

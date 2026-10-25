@@ -1,5 +1,5 @@
 ---
-title: knives-buying-mistakes-to-avoid
+title: "Knives Buying Mistakes to Avoid"
 site: kitchenwise
 topic: household-staples
 tier: mvp

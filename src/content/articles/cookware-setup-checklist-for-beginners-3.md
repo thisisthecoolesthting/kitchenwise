@@ -1,5 +1,5 @@
 ---
-title: cookware-setup-checklist-for-beginners-3
+title: "Cookware Setup Checklist for Beginners"
 site: kitchenwise
 topic: household-staples
 tier: mvp

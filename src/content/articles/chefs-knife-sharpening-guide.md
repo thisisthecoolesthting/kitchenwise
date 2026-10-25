@@ -1,5 +1,5 @@
 ---
-title: chefs-knife-sharpening-guide
+title: "Chef's Knife Sharpening Guide"
 site: kitchenwise
 topic: household-staples
 tier: mvp

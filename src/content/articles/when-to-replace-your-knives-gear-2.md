@@ -1,5 +1,5 @@
 ---
-title: when-to-replace-your-knives-gear-2
+title: "When to Replace Your Knives Gear"
 site: kitchenwise
 topic: household-staples
 tier: mvp

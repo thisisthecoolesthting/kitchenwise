@@ -1,5 +1,5 @@
 ---
-title: how-to-choose-skillet-size
+title: "How to Choose Skillet Size"
 site: kitchenwise
 topic: household-staples
 tier: mvp

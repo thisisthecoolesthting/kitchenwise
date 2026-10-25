@@ -1,5 +1,5 @@
 ---
-title: a-practical-cast-iron-gift-guide-3
+title: "A Practical Cast Iron Gift Guide"
 site: kitchenwise
 topic: household-staples
 tier: mvp

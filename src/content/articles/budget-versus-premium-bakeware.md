@@ -1,5 +1,5 @@
 ---
-title: budget-versus-premium-bakeware
+title: "Budget Versus Premium Bakeware"
 site: kitchenwise
 topic: household-staples
 tier: mvp

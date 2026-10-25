@@ -1,5 +1,5 @@
 ---
-title: air-fryers-setup-checklist-for-beginners
+title: "Air Fryers Setup Checklist for Beginners"
 site: kitchenwise
 topic: household-staples
 tier: mvp

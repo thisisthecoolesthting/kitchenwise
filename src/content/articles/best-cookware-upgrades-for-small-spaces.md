@@ -1,5 +1,5 @@
 ---
-title: best-cookware-upgrades-for-small-spaces
+title: "Best Cookware Upgrades for Small Spaces"
 site: kitchenwise
 topic: household-staples
 tier: mvp

@@ -1,5 +1,5 @@
 ---
-title: backpacking-cookware-materials-titanium-vs-aluminum-vs-stainless
+title: "Backpacking Cookware Materials Titanium vs Aluminum vs Stainless"
 site: campdeck
 topic: cleaning
 tier: mvp

@@ -1,5 +1,5 @@
 ---
-title: best-kitchen-gadgets-left-handed
+title: "Best Kitchen Gadgets Left Handed"
 site: kitchenwise
 topic: household-staples
 tier: mvp

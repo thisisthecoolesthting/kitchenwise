@@ -1,5 +1,5 @@
 ---
-title: how-to-compare-bakeware-before-you-buy-3
+title: "How to Compare Bakeware Before You Buy"
 site: kitchenwise
 topic: household-staples
 tier: mvp

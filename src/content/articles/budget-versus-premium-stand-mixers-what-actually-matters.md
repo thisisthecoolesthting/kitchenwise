@@ -1,5 +1,5 @@
 ---
-title: budget-versus-premium-stand-mixers-what-actually-matters
+title: "Budget Versus Premium Stand Mixers What Actually Matters"
 site: kitchenwise
 topic: household-staples
 tier: mvp

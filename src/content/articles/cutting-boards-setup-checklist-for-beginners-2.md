@@ -1,5 +1,5 @@
 ---
-title: cutting-boards-setup-checklist-for-beginners-2
+title: "Cutting Boards Setup Checklist for Beginners"
 site: kitchenwise
 topic: household-staples
 tier: mvp

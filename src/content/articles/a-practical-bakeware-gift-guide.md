@@ -1,5 +1,5 @@
 ---
-title: a-practical-bakeware-gift-guide
+title: "A Practical Bakeware Gift Guide"
 site: kitchenwise
 topic: household-staples
 tier: mvp

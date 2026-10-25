@@ -1,5 +1,5 @@
 ---
-title: air-fryer-temperature-conversion
+title: "Air Fryer Temperature Conversion"
 site: kitchenwise
 topic: household-staples
 tier: mvp

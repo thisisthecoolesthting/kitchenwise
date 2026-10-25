@@ -1,5 +1,5 @@
 ---
-title: camp-kitchen-utensils
+title: "Camp Kitchen Utensils"
 site: campdeck
 topic: cleaning
 tier: mvp

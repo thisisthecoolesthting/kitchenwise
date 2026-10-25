@@ -1,5 +1,5 @@
 ---
-title: a-practical-knives-gift-guide-2
+title: "A Practical Knives Gift Guide"
 site: kitchenwise
 topic: household-staples
 tier: mvp

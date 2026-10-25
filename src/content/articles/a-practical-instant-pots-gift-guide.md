@@ -1,5 +1,5 @@
 ---
-title: a-practical-instant-pots-gift-guide
+title: "A Practical Instant Pots Gift Guide"
 site: kitchenwise
 topic: household-staples
 tier: mvp

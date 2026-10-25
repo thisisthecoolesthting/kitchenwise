@@ -1,5 +1,5 @@
 ---
-title: when-to-upgrade-camp-cookware
+title: "When to Upgrade Camp Cookware"
 site: campdeck
 topic: cleaning
 tier: mvp

@@ -1,5 +1,5 @@
 ---
-title: the-quiet-features-that-make-cast-iron-easier-to-use
+title: "The Quiet Features That Make Cast Iron Easier to Use"
 site: kitchenwise
 topic: household-staples
 tier: mvp

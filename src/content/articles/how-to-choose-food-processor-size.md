@@ -1,5 +1,5 @@
 ---
-title: how-to-choose-food-processor-size
+title: "How to Choose Food Processor Size"
 site: kitchenwise
 topic: household-staples
 tier: mvp

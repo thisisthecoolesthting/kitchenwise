@@ -1,5 +1,5 @@
 ---
-title: best-cast-iron-skillet-for-camping-portability
+title: "Best Cast Iron Skillet for Camping Portability"
 site: castironcanon
 topic: cleaning
 tier: mvp

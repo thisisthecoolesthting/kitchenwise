@@ -1,5 +1,5 @@
 ---
-title: cookware-setup-for-small-apartments
+title: "Cookware Setup for Small Apartments"
 site: kitchenwise
 topic: household-staples
 tier: mvp

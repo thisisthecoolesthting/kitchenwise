@@ -1,5 +1,5 @@
 ---
-title: storage-and-maintenance-tips-for-cast-iron-2
+title: "Storage and Maintenance Tips for Cast Iron"
 site: kitchenwise
 topic: household-staples
 tier: mvp

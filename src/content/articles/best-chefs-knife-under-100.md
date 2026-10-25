@@ -1,5 +1,5 @@
 ---
-title: best-chefs-knife-under-100
+title: "Best Chef's Knife Under $100"
 site: kitchenwise
 topic: household-staples
 tier: mvp

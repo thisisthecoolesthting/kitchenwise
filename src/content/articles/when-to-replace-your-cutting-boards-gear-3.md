@@ -1,5 +1,5 @@
 ---
-title: when-to-replace-your-cutting-boards-gear-3
+title: "When to Replace Your Cutting Boards Gear"
 site: kitchenwise
 topic: household-staples
 tier: mvp

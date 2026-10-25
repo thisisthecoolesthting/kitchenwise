@@ -1,5 +1,5 @@
 ---
-title: food-processors-essentials-for-weekend-projects
+title: "Food Processors Essentials for Weekend Projects"
 site: kitchenwise
 topic: household-staples
 tier: mvp

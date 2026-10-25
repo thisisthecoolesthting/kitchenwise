@@ -1,5 +1,5 @@
 ---
-title: can-you-use-cast-iron-on-glass-top-stove
+title: "Can You Use Cast Iron on Glass Top Stove"
 site: kitchenwise
 topic: household-staples
 tier: mvp

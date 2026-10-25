@@ -1,5 +1,5 @@
 ---
-title: carbon-steel-essentials-for-weekend-projects-2
+title: "Carbon Steel Essentials for Weekend Projects"
 site: kitchenwise
 topic: household-staples
 tier: mvp

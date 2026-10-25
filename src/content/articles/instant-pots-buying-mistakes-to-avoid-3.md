@@ -1,5 +1,5 @@
 ---
-title: instant-pots-buying-mistakes-to-avoid-3
+title: "Instant Pots Buying Mistakes to Avoid"
 site: kitchenwise
 topic: household-staples
 tier: mvp

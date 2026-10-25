@@ -1,5 +1,5 @@
 ---
-title: storage-and-maintenance-tips-for-stand-mixers-3
+title: "Storage and Maintenance Tips for Stand Mixers"
 site: kitchenwise
 topic: household-staples
 tier: mvp

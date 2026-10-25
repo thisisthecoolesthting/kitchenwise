@@ -1,5 +1,5 @@
 ---
-title: the-quiet-features-that-make-air-fryers-easier-to-use
+title: "The Quiet Features That Make Air Fryers Easier to Use"
 site: kitchenwise
 topic: household-staples
 tier: mvp

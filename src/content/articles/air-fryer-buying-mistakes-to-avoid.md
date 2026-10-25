@@ -1,5 +1,5 @@
 ---
-title: air-fryer-buying-mistakes-to-avoid
+title: "Air Fryer Buying Mistakes to Avoid"
 site: kitchenwise
 topic: household-staples
 tier: mvp

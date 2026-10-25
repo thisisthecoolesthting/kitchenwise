@@ -1,5 +1,5 @@
 ---
-title: when-to-replace-your-air-fryers-gear-2
+title: "When to Replace Your Air Fryers Gear"
 site: kitchenwise
 topic: household-staples
 tier: mvp

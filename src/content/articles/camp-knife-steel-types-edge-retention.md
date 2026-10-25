@@ -1,5 +1,5 @@
 ---
-title: camp-knife-steel-types-edge-retention
+title: "Camp Knife Steel Types Edge Retention"
 site: campdeck
 topic: cleaning
 tier: mvp

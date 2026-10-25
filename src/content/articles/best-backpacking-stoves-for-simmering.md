@@ -1,5 +1,5 @@
 ---
-title: best-backpacking-stoves-for-simmering
+title: "Best Backpacking Stoves for Simmering"
 site: campdeck
 topic: cleaning
 tier: mvp

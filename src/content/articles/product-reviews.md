@@ -4,7 +4,7 @@ metaDescription: Looking to buy the best air fryer in 2023? Our guide reviews to
 publishedAt: '2026-08-02'
 updatedAt: '2026-08-02'
 excerpt: Discover the best air fryers of 2023 with our detailed buying guide, featuring top picks and essential features to consider before making your purchase.
-status: published
+status: draft
 tags:
 - best air fryer 2023
 author: marcus-webb

@@ -1,5 +1,5 @@
 ---
-title: carbon-steel-wok-home-cook
+title: "Carbon Steel Wok Home Cook"
 site: castironcanon
 topic: cleaning
 tier: mvp

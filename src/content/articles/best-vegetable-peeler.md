@@ -1,5 +1,5 @@
 ---
-title: best-vegetable-peeler
+title: "Best Vegetable Peeler"
 site: kitchenwise
 topic: household-staples
 tier: mvp

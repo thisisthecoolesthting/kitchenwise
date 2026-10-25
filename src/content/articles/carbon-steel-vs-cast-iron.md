@@ -1,5 +1,5 @@
 ---
-title: carbon-steel-vs-cast-iron
+title: "Carbon Steel vs Cast Iron"
 site: kitchenwise
 topic: household-staples
 tier: mvp

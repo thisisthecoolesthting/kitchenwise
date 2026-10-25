@@ -1,5 +1,5 @@
 ---
-title: air-fryers-essentials-for-weekend-projects-3
+title: "Air Fryers Essentials for Weekend Projects"
 site: kitchenwise
 topic: household-staples
 tier: mvp

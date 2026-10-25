@@ -1,5 +1,5 @@
 ---
-title: the-quiet-features-that-make-knives-easier-to-use-3
+title: "The Quiet Features That Make Knives Easier to Use"
 site: kitchenwise
 topic: household-staples
 tier: mvp

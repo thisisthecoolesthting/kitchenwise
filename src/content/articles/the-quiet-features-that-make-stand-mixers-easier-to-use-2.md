@@ -1,5 +1,5 @@
 ---
-title: the-quiet-features-that-make-stand-mixers-easier-to-use-2
+title: "The Quiet Features That Make Stand Mixers Easier to Use"
 site: kitchenwise
 topic: household-staples
 tier: mvp

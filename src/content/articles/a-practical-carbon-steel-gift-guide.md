@@ -1,5 +1,5 @@
 ---
-title: a-practical-carbon-steel-gift-guide
+title: "A Practical Carbon Steel Gift Guide"
 site: kitchenwise
 topic: household-staples
 tier: mvp

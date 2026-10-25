@@ -1,5 +1,5 @@
 ---
-title: storage-and-maintenance-tips-for-blenders
+title: "Storage and Maintenance Tips for Blenders"
 site: kitchenwise
 topic: household-staples
 tier: mvp

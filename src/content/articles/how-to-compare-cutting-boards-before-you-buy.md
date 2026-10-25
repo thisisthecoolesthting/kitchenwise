@@ -1,5 +1,5 @@
 ---
-title: how-to-compare-cutting-boards-before-you-buy
+title: "How to Compare Cutting Boards Before You Buy"
 site: kitchenwise
 topic: household-staples
 tier: mvp

@@ -58,7 +58,10 @@ const pillarGridEntries =
 
 const allArticles = await getCollection('articles', ({ data }) => data.status === 'published');
 const latestSix = allArticles
-  .filter((a) => /\s/.test(String(a.data.title || '').trim()))
+  .filter((a) => {
+    const t = String(a.data.title || '').trim();
+    return /\s/.test(t) && t !== t.toLowerCase() && t.toLowerCase() !== String(a.id).replace(/\.mdx?$/, '').toLowerCase();
+  })
   .sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt))
   .slice(0, 6);
 
@@ -88,8 +91,13 @@ function countRelatedArticles(entry: unknown, isPillar: boolean): number {
   }).length;
 }
 
+const fmtCount = (n: number) => n.toLocaleString('en-US');
+const tagLabel = (a: any, fallback: string) => {
+  const t = (a.data.tags || []).map((x: unknown) => String(x).trim()).find((x: string) => x && !/^seo\d*$/i.test(x));
+  return t ? t.charAt(0).toUpperCase() + t.slice(1) : fallback;
+};
 // ---------- Trust line ----------
-const computedTrust = `${allArticles.length} articles · ${allPillars.length} in-depth guides · ${completeProducts.length} products tracked`;
+const computedTrust = `${fmtCount(allArticles.length)} articles · ${fmtCount(allPillars.length)} in-depth guides · ${fmtCount(completeProducts.length)} products tracked`;
 const trustLineDisplay = (h.trustLine && String(h.trustLine).trim()) || computedTrust;
 
 // ---------- Pinterest pin variants ----------
@@ -106,10 +114,10 @@ const heroStatCount = completeProducts.length;
 const heroStatLabel = heroStatCount === 1 ? 'product tracked' : 'products tracked';
 
 const dataStats = [
-  { num: '18%', label: 'Staple price creep', sub: 'Average household refill hike since 2022.' },
-  { num: '$420', label: 'Annual overspend', sub: 'On repeat buys when you miss shrinkflation.' },
-  { num: `${completeProducts.length || '50'}+`, label: 'Products tracked', sub: 'Water, detergent, ink, pet food, subscriptions.' },
-];
+  { num: fmtCount(allArticles.length), label: 'Articles published', sub: 'Buying guides and how-tos.' },
+  { num: fmtCount(allPillars.length), label: 'In-depth guides', sub: 'Pillar topics, updated as the field changes.' },
+  { num: fmtCount(completeProducts.length), label: 'Products tracked', sub: 'Independent watchlist, every price logged.' },
+].filter((st) => Number(st.num.replace(/,/g, '')) > 0);
 
 const trustItems = [
   { label: 'Independent watchdog', icon: 'shield' as const },
@@ -129,7 +137,7 @@ const trustItems = [
     ctaPrimaryLabel={h.ctaPrimaryLabel}
     ctaSecondaryHref={h.ctaSecondaryHref}
     ctaSecondaryLabel={h.ctaSecondaryLabel}
-    bullets={['No retailer sponsorships', 'Weekly price checks', `${allArticles.length}+ articles tracked`]}
+    bullets={['No retailer sponsorships', 'Weekly price checks', `${fmtCount(allArticles.length)} articles published`]}
     stats={dataStats}
     products={heroProducts}
     articleCount={allArticles.length}
@@ -137,7 +145,7 @@ const trustItems = [
     snapshot={{
       panelLabel: 'Price watchlist',
       panelAriaLabel: 'Household staple price snapshot',
-      trackedSuffix: 'articles tracked',
+      trackedSuffix: 'articles published',
       footerNote: 'Shrinkflation alerts · refill swaps · no pay-to-play',
       footerHref: '/pillars/household-refill-buying-guide',
       footerLinkText: 'Refill buying guide →',
@@ -228,7 +236,7 @@ const trustItems = [
               ) : (
                 <div class={`absolute inset-0 p-6 flex flex-col justify-between ${i === 4 ? 'text-cream-50' : 'text-ink-900'}`}>
                   <span class={`font-mono text-[10.5px] tracking-[0.16em] uppercase ${i === 4 ? 'text-terracotta-400' : 'text-terracotta-600'}`}>
-                    {(a.data.tags?.[0] || 'Article')} · {a.data.readingTime || '8'} min read
+                    {tagLabel(a, 'Article')} · {a.data.readingTime || '8'} min read
                   </span>
                   <h3 class={`font-display text-2xl leading-[1.08] max-w-[12ch] !mt-0 ${i === 4 ? 'text-cream-50' : 'text-ink-900'}`}>
                     {a.data.title}
@@ -238,7 +246,7 @@ const trustItems = [
             </div>
             <div class="p-5 flex flex-col gap-2.5">
               <p class="font-mono text-[10.5px] tracking-[0.14em] uppercase text-terracotta-600">
-                {a.data.tags?.[0] || 'Editorial'}
+                {tagLabel(a, 'Editorial')}
               </p>
               <h3 class="font-display text-lg text-ink-900 !mt-0 leading-snug group-hover:text-terracotta-600 transition-colors">
                 {a.data.title}
@@ -345,17 +353,17 @@ const trustItems = [
         <div class="grid grid-cols-1 sm:grid-cols-3 gap-5 md:gap-7 mt-8 pt-8 border-t border-cream-50/15">
           <div>
             <p class="font-mono text-[10.5px] tracking-[0.14em] uppercase text-terracotta-400">Articles published</p>
-            <p class="font-display text-3xl text-cream-50 mt-1.5 leading-none">{allArticles.length}</p>
+            <p class="font-display text-3xl text-cream-50 mt-1.5 leading-none">{fmtCount(allArticles.length)}</p>
             <p class="text-sm text-cream-50/65 mt-1.5">All bylined, dated, reviewed quarterly.</p>
           </div>
           <div>
             <p class="font-mono text-[10.5px] tracking-[0.14em] uppercase text-terracotta-400">Products tracked</p>
-            <p class="font-display text-3xl text-cream-50 mt-1.5 leading-none">{completeProducts.length}</p>
+            <p class="font-display text-3xl text-cream-50 mt-1.5 leading-none">{fmtCount(completeProducts.length)}</p>
             <p class="text-sm text-cream-50/65 mt-1.5">Independent watchlist — every price logged.</p>
           </div>
           <div>
             <p class="font-mono text-[10.5px] tracking-[0.14em] uppercase text-terracotta-400">In-depth guides</p>
-            <p class="font-display text-3xl text-cream-50 mt-1.5 leading-none">{allPillars.length}</p>
+            <p class="font-display text-3xl text-cream-50 mt-1.5 leading-none">{fmtCount(allPillars.length)}</p>
             <p class="text-sm text-cream-50/65 mt-1.5">Pillar topics, updated as the field changes.</p>
           </div>
         </div>

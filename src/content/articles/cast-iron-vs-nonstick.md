@@ -1,5 +1,5 @@
 ---
-title: "cast-iron-vs-nonstick"
+title: "Cast Iron vs Nonstick"
 site: castironcanon
 topic: "cleaning"
 tier: mvp

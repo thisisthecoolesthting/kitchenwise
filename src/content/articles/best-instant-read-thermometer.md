@@ -1,5 +1,5 @@
 ---
-title: best-instant-read-thermometer
+title: "Best Instant Read Thermometer"
 site: kitchenwise
 topic: household-staples
 tier: mvp

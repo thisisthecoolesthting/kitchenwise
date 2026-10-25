@@ -1,5 +1,5 @@
 ---
-title: budget-versus-premium-kitchen-gadgets-what-actually-matters-3
+title: "Budget Versus Premium Kitchen Gadgets What Actually Matters"
 site: kitchenwise
 topic: household-staples
 tier: mvp
