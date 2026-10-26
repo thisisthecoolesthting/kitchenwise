@@ -11,4 +11,4 @@ socials: {}
 
 Marcus Chen spent a decade on the analyst side of the office-products industry, watching the pricing strategies that turned $40 printers and $80 cartridges into a $30 billion business. He started InkLedger to put the actual numbers in front of readers: every cartridge tracked, every refill tested for at least three months in his own printers, every OEM pricing claim fact-checked against retailer data.
 
-InkLedger does not accept sponsorship from Epson, HP, Brother, or Canon. Affiliate revenue comes from third-party refill suppliers and compatible-cartridge brands Marcus would buy for his own printers.
+InkLedger does not accept sponsorship from Epson, HP, Brother, or Canon. The site does not use affiliate links.

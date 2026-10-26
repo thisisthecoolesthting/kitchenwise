@@ -1,0 +1,81 @@
+---
+/**
+ * OwnOffer — honest cross-promo for shops run by the same team.
+ * Driven by src/data/own-offers.json (array of { id, eyebrow, headline, body, cta, url }).
+ * Max 2 units per page: homepage (both, one section), article end (primary) + sidebar (secondary).
+ */
+import cfg from '@/data/own-offers.json';
+
+export interface Props {
+  /** Where this unit sits; used in utm_content + data-cta. */
+  placement: string;
+  /** Offer id from the config. Defaults to the first offer. */
+  offer?: string;
+  class?: string;
+  compact?: boolean;
+}
+
+const { placement, offer, class: extra = '', compact = false } = Astro.props;
+const offers = (cfg.offers ?? []) as { id: string; eyebrow: string; headline: string; body: string; cta: string; url: string }[];
+const o = offers.find((x) => x.id === offer) ?? offers[0];
+
+function withUtm(url: string) {
+  const u = new URL(url);
+  u.searchParams.set('utm_source', cfg.domain);
+  u.searchParams.set('utm_medium', 'crosspromo');
+  u.searchParams.set('utm_campaign', cfg.campaign || 'cro2');
+  u.searchParams.set('utm_content', placement);
+  return u.toString();
+}
+---
+{o && (
+  <aside class:list={['own-offer not-prose', compact && 'own-offer--compact', extra]} aria-label={o.eyebrow} data-own-offer={o.id} data-placement={placement}>
+    <p class="own-offer__eyebrow">{o.eyebrow}</p>
+    <p class="own-offer__headline">{o.headline}</p>
+    <p class="own-offer__body">{o.body}</p>
+    <a class="own-offer__cta" href={withUtm(o.url)} data-cta={`own-${o.id}-${placement}`} rel="noopener">{o.cta} <span aria-hidden="true">&rarr;</span></a>
+  </aside>
+)}
+
+<style>
+  .own-offer {
+    border: 1px solid #e8e0d4;
+    background: #fffdf9;
+    border-radius: 0.75rem;
+    padding: 1.1rem 1.25rem;
+    height: 100%;
+  }
+  .own-offer--compact { padding: 0.8rem 0.9rem; }
+  .own-offer__eyebrow {
+    margin: 0 0 0.35rem;
+    font-size: 0.7rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #b45309;
+    font-weight: 600;
+  }
+  .own-offer__headline {
+    margin: 0 0 0.4rem;
+    font-size: 1.1rem;
+    line-height: 1.3;
+    font-weight: 600;
+    color: #1c1917;
+  }
+  .own-offer--compact .own-offer__headline { font-size: 0.95rem; }
+  .own-offer__body {
+    margin: 0 0 0.8rem;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: #44403c;
+  }
+  .own-offer--compact .own-offer__body { font-size: 0.8rem; }
+  .own-offer__cta {
+    display: inline-block;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: #b45309;
+    text-decoration: none;
+    border-bottom: 1px solid currentColor;
+  }
+  .own-offer__cta:hover { color: #92400e; }
+</style>

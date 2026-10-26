@@ -2,7 +2,7 @@ import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
 
 export async function GET(context) {
-  const products = await getCollection('products', ({ data }) => data.status === 'published');
+  const products = []; // /products/* is not generated (disableAmazon)
   const pillars = await getCollection('pillars', ({ data }) => data.status === 'published');
   const articles = await getCollection('articles', ({ data }) => data.status === 'published');
 

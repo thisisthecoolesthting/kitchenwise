@@ -55,7 +55,3 @@ A: It depends on the model. Many blenders have self-cleaning functions, while fo
 
 Still unsure? Check out [our top-rated picks](/products/) for more detailed recommendations tailored to your needs.
 
-## Our picks worth a closer look
-
-- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
-

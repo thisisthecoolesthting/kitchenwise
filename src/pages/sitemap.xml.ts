@@ -8,7 +8,7 @@ import { getCollection } from 'astro:content';
 const SITE = (import.meta.env.SITE as string | undefined)?.replace(/\/$/, '') || 'https://example.com';
 
 export const GET: APIRoute = async () => {
-  const products = await getCollection('products', ({ data }) => data.status === 'published');
+  const products: any[] = []; // /products/* is not generated (disableAmazon)
   const pillars  = await getCollection('pillars',  ({ data }) => data.status === 'published');
   const articles = await getCollection('articles', ({ data }) => data.status === 'published');
 
@@ -23,7 +23,6 @@ export const GET: APIRoute = async () => {
     urls.push({ loc: `${SITE}/terms`,    changefreq: 'yearly',  priority: '0.2' });
   urls.push({ loc: `${SITE}/disclosure`,changefreq: 'yearly',  priority: '0.3' });
   urls.push({ loc: `${SITE}/methodology`, changefreq: 'yearly', priority: '0.4' });
-  urls.push({ loc: `${SITE}/products`,  changefreq: 'daily',   priority: '0.9' });
   urls.push({ loc: `${SITE}/pillars`,   changefreq: 'weekly',  priority: '0.8' });
   urls.push({ loc: `${SITE}/articles`,  changefreq: 'weekly',  priority: '0.7' });
 

@@ -20,7 +20,6 @@ author: marcus-webb
 ---
 
 
-*CampDeck is reader-supported. When you buy through links on our site, we may earn an affiliate commission.*
 ---
 ## Best Backpacking Stoves for Simmering: Precise Flame Control
 
@@ -86,8 +85,4 @@ Even with the best stove, mastering the art of simmering on the trail requires a
 * **Embrace the "Low and Slow" Approach:** Simmering is all about patience. Don't rush the process.
 
 Finally, remember to practice using your chosen backpacking stove *before* heading out on a trip. Familiarize yourself with its flame control and simmering capabilities in a controlled environment. This will help you avoid frustrating culinary mishaps in the backcountry and ensure you can enjoy delicious, simmered meals on your next adventure. Don't forget a practical camp-cookware gift guide to ensure your cookware works well with your stove!
-
-## Our picks worth a closer look
-
-- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
 

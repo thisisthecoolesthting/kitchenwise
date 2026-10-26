@@ -5,6 +5,7 @@
  */
 
 import path from 'node:path';
+import { disableAmazon } from './site-flags.mjs';
 
 import {
 
@@ -243,6 +244,8 @@ function walkInsert(node, picks) {
 
 
 export function rehypeInjectAmazonMidPicks() {
+
+  if (disableAmazon) return () => {};
 
   return (tree, file) => {
 

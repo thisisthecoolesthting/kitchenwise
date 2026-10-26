@@ -31,5 +31,4 @@ Huusk Damascus Chef Knife 8 Inch, 67-Layers Damascus Kitchen Knives with Ergonom
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0FJFGYL5K" url="https://www.amazon.com/dp/B0FJFGYL5K" label="Check price on Amazon" />
 

@@ -3,9 +3,7 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import LongformPageShell from '@/components/LongformPageShell.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
 import RelatedArticles from '@/components/RelatedArticles.astro';
-import FriendsOfNetwork from '@/components/FriendsOfNetwork.astro';
 import { getCollection, getEntry } from 'astro:content';
-import { getRelatedProductsFromBody } from '@/utils/related-products';
 import { siteOrigin } from '@/utils/site-origin';
 import home from '@/data/spawn-home.json';
 
@@ -31,7 +29,6 @@ const defSlug =
   editorialAuthor || (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || '_default';
 const authorSlug = entry.data.author ?? defSlug;
 const author = await getEntry('authors', authorSlug);
-const relatedProducts = await getRelatedProductsFromBody(entry.body);
 const publishedISO = new Date(entry.data.publishedAt ?? entry.data.updatedAt ?? Date.now()).toISOString();
 const modifiedISO = entry.data.updatedAt ? new Date(entry.data.updatedAt).toISOString() : undefined;
 const bodyLower = (entry.body || '').toLowerCase();
@@ -95,7 +92,6 @@ const articleSchema = {
     publishedAt={entry.data.publishedAt ?? entry.data.updatedAt}
     reviewedAt={entry.data.reviewedAt ?? entry.data.updatedAt}
     medicalAfterBody={needsMedicalDisclaimer}
-    relatedProducts={relatedProducts}
   >
     <Content />
   </LongformPageShell>
@@ -111,7 +107,6 @@ const articleSchema = {
             subtopic={(entry.data as { subtopic?: string }).subtopic}
             tags={entry.data.tags}
           />
-          <FriendsOfNetwork variant="inline" />
         </div>
       </div>
     </div>

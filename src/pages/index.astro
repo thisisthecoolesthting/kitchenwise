@@ -9,12 +9,11 @@
 
 import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import { getCollection } from 'astro:content';
-import CuratedAmazonCard from '@/components/CuratedAmazonCard.astro';
+import OwnOffer from '@/components/OwnOffer.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
 import HeroCompact from '@/components/HeroCompact.astro';
 import TrustStrip from '@/components/TrustStrip.astro';
 import home from '@/data/brand.config.json';
-import { HOMEPAGE_COMPARE_PICKS } from '@/lib/site-amazon-registry.mjs';
 
 const h = home.homepage;
 const b = home.brand;
@@ -34,18 +33,8 @@ const heroCategories: string[] = Array.isArray(homeX.categories) && homeX.catego
   : ['household refills', 'subscription creep', 'printer ink', 'grocery staples'];
 
 // ---------- Content collection joins ----------
-const allProducts = await getCollection('products', ({ data }) => data.status === 'published');
-const completeProducts = allProducts.filter((p) => {
-  const d = p.data;
-  const hasImage =
-    (d.imageUrl && !d.imageUrl.includes('example') && !d.imageUrl.startsWith('data:')) ||
-    Boolean(d.asin && /^[A-Z0-9]{10}$/i.test(String(d.asin)));
-  const hasPrice = typeof d.price === 'number' && d.price > 0;
-  const hasRating = typeof d.rating === 'number' && d.rating > 0;
-  return hasImage && hasPrice && hasRating;
-});
-const compareRow = HOMEPAGE_COMPARE_PICKS;
-const heroProducts = completeProducts.slice(0, 3);
+// Amazon/product tracking is disabled site-wide (disableAmazon): no product grids on the homepage.
+const heroProducts: any[] = [];
 
 const allPillars = await getCollection('pillars', ({ data }) => data.status === 'published');
 const pillarFour = allPillars
@@ -97,7 +86,7 @@ const tagLabel = (a: any, fallback: string) => {
   return t ? t.charAt(0).toUpperCase() + t.slice(1) : fallback;
 };
 // ---------- Trust line ----------
-const computedTrust = `${fmtCount(allArticles.length)} articles · ${fmtCount(allPillars.length)} in-depth guides · ${fmtCount(completeProducts.length)} products tracked`;
+const computedTrust = `${fmtCount(allArticles.length)} articles · ${fmtCount(allPillars.length)} in-depth guides`;
 const trustLineDisplay = (h.trustLine && String(h.trustLine).trim()) || computedTrust;
 
 // ---------- Pinterest pin variants ----------
@@ -110,18 +99,15 @@ const pinThumbVariants = [
   'bg-gradient-to-b from-cream-200 to-sage-500/45',
 ];
 
-const heroStatCount = completeProducts.length;
-const heroStatLabel = heroStatCount === 1 ? 'product tracked' : 'products tracked';
 
 const dataStats = [
   { num: fmtCount(allArticles.length), label: 'Articles published', sub: 'Buying guides and how-tos.' },
   { num: fmtCount(allPillars.length), label: 'In-depth guides', sub: 'Pillar topics, updated as the field changes.' },
-  { num: fmtCount(completeProducts.length), label: 'Products tracked', sub: 'Independent watchlist, every price logged.' },
 ].filter((st) => Number(st.num.replace(/,/g, '')) > 0);
 
 const trustItems = [
   { label: 'Independent watchdog', icon: 'shield' as const },
-  { label: 'Weekly price checks', icon: 'clock' as const },
+  { label: 'Independent reviews', icon: 'clock' as const },
   { label: 'No retailer sponsorships', icon: 'ban' as const },
 ];
 ---
@@ -137,7 +123,7 @@ const trustItems = [
     ctaPrimaryLabel={h.ctaPrimaryLabel}
     ctaSecondaryHref={h.ctaSecondaryHref}
     ctaSecondaryLabel={h.ctaSecondaryLabel}
-    bullets={['No retailer sponsorships', 'Weekly price checks', `${fmtCount(allArticles.length)} articles published`]}
+    bullets={['No retailer sponsorships', 'Independent reviews', `${fmtCount(allArticles.length)} articles published`]}
     stats={dataStats}
     products={heroProducts}
     articleCount={allArticles.length}
@@ -146,7 +132,7 @@ const trustItems = [
       panelLabel: 'Price watchlist',
       panelAriaLabel: 'Household staple price snapshot',
       trackedSuffix: 'articles published',
-      footerNote: 'Shrinkflation alerts · refill swaps · no pay-to-play',
+      footerNote: 'Buying guides · care notes · no pay-to-play',
       footerHref: '/pillars/household-refill-buying-guide',
       footerLinkText: 'Refill buying guide →',
       productPlaceholder: 'Item',
@@ -187,7 +173,7 @@ const trustItems = [
           ];
           const num = String(idx + 1).padStart(2, '0');
           const title = isPillar ? entry.data.title : (entry as string).charAt(0).toUpperCase() + (entry as string).slice(1);
-          const excerpt = isPillar ? entry.data.excerpt : `Tracked products and price-history for ${entry}.`;
+          const excerpt = isPillar ? entry.data.excerpt : `Guides and buying notes for ${entry}.`;
           const href = isPillar ? `/pillars/${entry.slug}` : `/articles?subtopic=${encodeURIComponent(String(entry))}`;
           const articleCount = countRelatedArticles(entry, isPillar);
           const firstWord = String(entry?.data?.title || entry || '').split(' ')[0];
@@ -210,6 +196,14 @@ const trustItems = [
       </div>
     </section>
   )}
+
+  {/* ============ 3b. OWN OFFERS (labeled, same-team shops) ============ */}
+  <section class="max-w-6xl mx-auto px-5 pb-6 md:pb-8" aria-label="From our shops">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      <OwnOffer placement="home" offer="phonecase" />
+      <OwnOffer placement="home" offer="storyfawn" />
+    </div>
+  </section>
 
   {/* ============ 4. LATEST STRIP ============ */}
   {latestSix.length > 0 && (
@@ -264,59 +258,6 @@ const trustItems = [
     </section>
   )}
 
-  {/* ============ 5. COMPARISON ROW ============ */}
-  {compareRow.length >= 1 && (
-    <section class="bg-gradient-to-b from-cream-50 to-cream-100 border-y border-cream-200">
-      <div class="max-w-6xl mx-auto px-5 py-12 md:py-14">
-        <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-5 mb-6">
-          <div>
-            <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium mb-2">Tracked this week</p>
-            <h2 class="font-display text-3xl md:text-4xl text-ink-900 !mt-0 leading-tight max-w-[24ch]">
-              Three products, three price tiers, one verdict.
-            </h2>
-          </div>
-          <p class="text-sm text-ink-700 max-w-[34ch]">
-            We watch the price history. Below: the cheapest defensible answer, the smart-buy
-            middle, and the splurge at each price point.
-          </p>
-        </div>
-
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-5">
-          {compareRow.map((p, i) => (
-            <div class="relative">
-              {i === 1 && (
-                <span class="absolute z-10 top-3 left-3 bg-terracotta-500 text-white font-mono text-[10px] tracking-[0.14em] uppercase px-2.5 py-1 rounded">
-                  Editors' Choice
-                </span>
-              )}
-              {i === 0 && (
-                <span class="absolute z-10 top-3 left-3 bg-ink-900 text-cream-50 font-mono text-[10px] tracking-[0.14em] uppercase px-2.5 py-1 rounded">
-                  Budget pick
-                </span>
-              )}
-              {i === 2 && (
-                <span class="absolute z-10 top-3 left-3 bg-sage-600 text-cream-50 font-mono text-[10px] tracking-[0.14em] uppercase px-2.5 py-1 rounded">
-                  Premium
-                </span>
-              )}
-              <CuratedAmazonCard pick={p} />
-            </div>
-          ))}
-        </div>
-
-        <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-3 mt-8 pt-6 border-t border-dashed border-cream-200">
-          <p class="text-sm text-ink-700 max-w-[60ch]">
-            <strong class="text-ink-900">How we research:</strong> price-history checks via Keepa,
-            cross-retailer verification weekly, raw data on the methodology page.
-          </p>
-          <a href="/methodology/" class="font-mono text-[11.5px] tracking-[0.08em] uppercase text-ink-900 border-b border-terracotta-500 pb-0.5 no-underline hover:text-terracotta-600 whitespace-nowrap">
-            See the rig →
-          </a>
-        </div>
-      </div>
-    </section>
-  )}
-
   {/* ============ 6. AUTHOR TRUST BLOCK ============ */}
   <section class="relative bg-ink-900 text-cream-50 py-16 md:py-20 overflow-hidden">
     <div aria-hidden="true" class="absolute inset-0 pointer-events-none
@@ -350,16 +291,11 @@ const trustItems = [
           {aboutBody}
         </p>
 
-        <div class="grid grid-cols-1 sm:grid-cols-3 gap-5 md:gap-7 mt-8 pt-8 border-t border-cream-50/15">
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-5 md:gap-7 mt-8 pt-8 border-t border-cream-50/15">
           <div>
             <p class="font-mono text-[10.5px] tracking-[0.14em] uppercase text-terracotta-400">Articles published</p>
             <p class="font-display text-3xl text-cream-50 mt-1.5 leading-none">{fmtCount(allArticles.length)}</p>
             <p class="text-sm text-cream-50/65 mt-1.5">All bylined, dated, reviewed quarterly.</p>
-          </div>
-          <div>
-            <p class="font-mono text-[10.5px] tracking-[0.14em] uppercase text-terracotta-400">Products tracked</p>
-            <p class="font-display text-3xl text-cream-50 mt-1.5 leading-none">{fmtCount(completeProducts.length)}</p>
-            <p class="text-sm text-cream-50/65 mt-1.5">Independent watchlist — every price logged.</p>
           </div>
           <div>
             <p class="font-mono text-[10.5px] tracking-[0.14em] uppercase text-terracotta-400">In-depth guides</p>
@@ -384,9 +320,9 @@ const trustItems = [
   <section class="max-w-3xl mx-auto px-5 py-10 md:py-12">
     <NewsletterForm
       variant="hero"
-      title="Get kitchen gear deals"
-      subtitle="Tested picks and price drops, once a week. No spam."
-      cta="Send me deals"
+      title="Get new kitchen gear guides by email"
+      subtitle="New buying guides, once a week. No spam, unsubscribe anytime."
+      cta="Send me guides"
     />
   </section>
 
@@ -397,10 +333,10 @@ const trustItems = [
       <div class="grid place-items-center w-16 h-16 rounded-full bg-sage-500 text-cream-50 font-display text-2xl font-semibold">§</div>
       <div>
         <h3 class="font-display text-xl md:text-2xl text-ink-900 !mt-0 mb-1">
-          Standards, disclosures, and how we make money.
+          Standards, disclosures, and how we pay for this.
         </h3>
         <p class="text-sm md:text-[15px] text-ink-700 max-w-[60ch]">
-          Affiliate-link disclosure, research protocol, conflict-of-interest policy, and our
+          Our no-affiliate-links policy, research protocol, conflict-of-interest policy, and our
           correction log. All on one page. Read before you trust the rest.
         </p>
       </div>

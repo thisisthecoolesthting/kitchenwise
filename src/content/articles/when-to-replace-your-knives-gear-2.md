@@ -20,7 +20,6 @@ author: marcus-webb
 ---
 
 
-*KitchenWise is reader-supported. When you buy through links on our site, we may earn an affiliate commission.*
 
 The right knives gear is an investment. Unlike fad kitchen gadgets that gather dust, a good set of knives can last a lifetime – if you take care of them. But even with meticulous maintenance, every knife eventually needs replacing. Knowing when to say goodbye to your trusty blades is key to both safety and culinary success. This guide will walk you through the signs that it's time for an upgrade, helping you make informed decisions and avoid unnecessary replacements.
 ---
@@ -129,11 +128,4 @@ Once you've invested in new knives, take steps to protect your investment and ex
 *   **Store Knives Safely:** As mentioned earlier, store your knives in a knife block, on a magnetic strip, or in a knife roll to protect the blades.
 
 By following these tips, you can keep your knives in top condition for years to come. And when it *is* time to replace them, you'll be equipped to make an informed decision and choose the best knives for your needs.
-
-## Our picks worth a closer look
-
-- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
-- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
-- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
-- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
 

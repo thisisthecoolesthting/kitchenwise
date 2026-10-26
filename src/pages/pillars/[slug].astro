@@ -3,7 +3,6 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import LongformPageShell from '@/components/LongformPageShell.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
 import { getCollection, getEntry } from 'astro:content';
-import { getRelatedProductsFromBody } from '@/utils/related-products';
 import { siteOrigin } from '@/utils/site-origin';
 import home from '@/data/spawn-home.json';
 
@@ -24,7 +23,6 @@ const o = siteOrigin();
 const defSlug = (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || '_default';
 const authorSlug = entry.data.author ?? defSlug;
 const author = await getEntry('authors', authorSlug);
-const relatedProducts = await getRelatedProductsFromBody(entry.body);
 const publishedISO = new Date(entry.data.publishedAt).toISOString();
 const modifiedISO = entry.data.updatedAt ? new Date(entry.data.updatedAt).toISOString() : undefined;
 const orgPub = b.fullName;
@@ -81,7 +79,6 @@ const h1Text = entry.data.targetKeyword
     publishedAt={entry.data.publishedAt}
     reviewedAt={entry.data.reviewedAt ?? entry.data.updatedAt}
     medicalBeforeBody={siteYmyl}
-    relatedProducts={relatedProducts}
   >
     <Content />
   </LongformPageShell>

@@ -20,7 +20,6 @@ author: marcus-webb
 ---
 
 
-*KitchenWise is reader-supported. When you buy through links on our site, we may earn an affiliate commission.*
 
 Using cast iron on a glass top stove can be a match made in culinary heaven, or a recipe for disaster. The good news is, with the right precautions, you absolutely *can* use your trusty cast iron skillet on your glass top stove. The key is understanding the risks and how to mitigate them. We've spent years cooking with cast iron on all kinds of stovetops, including glass, and we're here to share the tips that have kept our stoves scratch-free and our meals delicious.
 ---
@@ -97,11 +96,4 @@ If you're careful and follow the tips outlined above, you can enjoy the benefits
 Enameled cast iron offers a smoother, less abrasive surface that is gentler on glass top stoves. It still provides excellent heat retention, but it's also easier to clean and less prone to rusting. While it may not develop the same non-stick patina as traditional cast iron, it's a great option for those who want the benefits of cast iron without the potential risks.
 
 Ultimately, the decision is yours. Weigh the pros and cons, consider your cooking style, and choose the option that best suits your needs and preferences. And if you *do* decide to use cast iron on your glass top stove, remember to be careful, patient, and always lift, don't drag. With a little attention to detail, you can keep your stove scratch-free and enjoy delicious cast iron cooking for years to come.
-
-## Our picks worth a closer look
-
-- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
-- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
-- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
-- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
 

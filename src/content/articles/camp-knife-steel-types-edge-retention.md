@@ -20,7 +20,6 @@ author: marcus-webb
 ---
 
 
-*CampDeck is reader-supported. When you buy through links on our site, we may earn an affiliate commission.*
 
 Choosing the right camp knife can feel overwhelming. Beyond the handle material and blade shape, the type of steel used in the blade is arguably the most crucial factor determining how well it performs in the field. A dull knife is a dangerous knife, especially when you're relying on it for everything from food prep to first aid. This article will break down the most common camp knife steel types, focusing on edge retention, corrosion resistance, and ease of sharpening in wilderness conditions.
 ---
@@ -98,8 +97,4 @@ No matter what type of steel you choose, it's essential to know how to sharpen y
 6.  **Clean Your Knife After Sharpening:** After sharpening, clean your knife with a damp cloth and apply a thin coat of oil to protect it from corrosion.
 
 Investing in a quality *camp knife steel* and learning how to properly maintain it will ensure that your knife remains a reliable tool for years to come. And remember, a sharp knife is a safe knife.
-
-## Our picks worth a closer look
-
-- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
 

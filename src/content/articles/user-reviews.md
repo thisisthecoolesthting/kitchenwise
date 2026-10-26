@@ -51,8 +51,3 @@ A: It depends on your needs. Multi-functional appliances save space and can be m
 
 Ready to upgrade your kitchen? Check out [our top-rated picks](/products/) for more recommendations tailored to your cooking style.
 
-## Our picks worth a closer look
-
-- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
-- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
-

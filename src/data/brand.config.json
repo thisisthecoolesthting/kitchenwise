@@ -1,4 +1,5 @@
 {
+  "disableAmazon": true,
   "brand": {
     "shortName": "KitchenWise",
     "fullName": "KitchenWise",

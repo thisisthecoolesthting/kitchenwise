@@ -20,7 +20,6 @@ author: marcus-webb
 ---
 
 
-*KitchenWise is reader-supported. When you buy through links on our site, we may earn an affiliate commission.*
 
 Air fryers have exploded in popularity, and for good reason. They offer a convenient way to achieve crispy, delicious food with less oil than traditional frying. However, the sheer number of models on the market can make choosing the right one a daunting task. Many first-time buyers fall into common traps, ending up with an air fryer that doesn't meet their needs or, worse, sits unused in a cupboard. This guide highlights the most frequent air fryer buying mistakes, helping you make an informed decision and enjoy your new kitchen gadget for years to come.
 ---
@@ -97,12 +96,4 @@ Regular cleaning is crucial for maintaining your air fryer's performance and pre
 Always read and follow the manufacturer's instructions for your specific air fryer model. This will help you avoid damaging the appliance and ensure optimal performance. Pay particular attention to instructions on preheating, cooking times, and cleaning.
 
 By avoiding these common **air fryer buying mistakes**, you can choose a model that meets your needs and enjoy the many benefits of air frying for years to come. Remember to prioritize capacity, essential features, and build quality over marketing hype. And most importantly, take the time to learn how to use and maintain your air fryer properly. If you're also looking at other countertop appliances, check out our guide to [kitchen-gadgets buying mistakes to avoid](/kitchen-gadgets-buying-mistakes-to-avoid) for more tips.
-
-## Our picks worth a closer look
-
-- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
-- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
-- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
-- **[Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)** — see current price and specs.
-- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
 

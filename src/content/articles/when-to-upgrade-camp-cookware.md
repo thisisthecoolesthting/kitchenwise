@@ -20,7 +20,6 @@ author: marcus-webb
 ---
 
 
-*CampDeck is reader-supported. When you buy through links on our site, we may earn an affiliate commission.*
 
 Whether you're simmering a backcountry stew or just boiling water for coffee, your **camp cookware** is the unsung hero of your outdoor meals. But like any well-used tool, it eventually shows its age. Knowing when to upgrade your pots, pans, and utensils can mean the difference between a satisfying meal and a frustrating cooking experience. This guide covers the key signs that it's time to invest in new camp cookware, ensuring you're always prepared for delicious meals on the trail.
 ---
@@ -104,8 +103,4 @@ Consider the types of meals you typically prepare. If you primarily boil water f
 Camp cookware ranges from budget-friendly aluminum sets to high-end titanium options. Determine your budget and prioritize the features that are most important to you.
 
 By recognizing the signs of wear and tear and considering your specific needs, you can ensure that your camp cookware is always in top condition, allowing you to enjoy delicious and hassle-free meals on every adventure. Remember to practice Leave No Trace Camp Kitchen Hygiene to minimize your impact on the environment.
-
-## Our picks worth a closer look
-
-- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
 

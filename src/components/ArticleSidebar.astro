@@ -1,15 +1,19 @@
 ---
 import ArticleToC from '@/components/ArticleToC.astro';
+import OwnOffer from '@/components/OwnOffer.astro';
 ---
 
 <aside
   class="article-sidebar-rail w-full lg:w-56 xl:w-60 shrink-0 order-first lg:order-none lg:sticky lg:top-20 lg:self-start lg:z-30"
-  aria-label="Page map"
+  aria-label="Page map and related offer"
 >
   <div class="article-sidebar-panel flex flex-col gap-3">
     <section class="article-sidebar-toc min-h-0">
       <ArticleToC embedded expanded />
     </section>
+    <div class="article-sidebar-ad not-prose shrink-0 hidden lg:block">
+      <OwnOffer placement="article-sidebar" offer="storyfawn" compact />
+    </div>
   </div>
 </aside>
 

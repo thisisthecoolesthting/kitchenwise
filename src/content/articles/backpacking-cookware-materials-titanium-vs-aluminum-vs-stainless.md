@@ -20,7 +20,6 @@ author: marcus-webb
 ---
 
 
-*CampDeck is reader-supported. When you buy through links on our site, we may earn an affiliate commission.*
 
 Choosing the right **backpacking cookware** can significantly impact your experience on the trail. Weight, durability, heat distribution, and cost all play crucial roles in deciding between titanium, aluminum, and stainless steel. This guide breaks down the pros and cons of each material, helping you select the best option for your needs.
 ---
@@ -100,8 +99,4 @@ Consider these factors when making your decision:
 *   **Care and Maintenance:** All three materials require proper care to ensure longevity.
 
 Ultimately, the best **backpacking cookware** is the one that best suits your individual needs and preferences. Don't be afraid to experiment with different materials to find what works best for you. Check out our guide on [Storage and maintenance tips for camp-cookware](link to Storage and maintenance tips for camp-cookware).
-
-## Our picks worth a closer look
-
-- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
 

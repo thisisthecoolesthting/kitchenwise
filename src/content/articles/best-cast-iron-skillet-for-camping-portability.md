@@ -20,7 +20,6 @@ author: marcus-webb
 ---
 
 
-*CastIronCanon is reader-supported. When you buy through links on our site, we may earn an affiliate commission.*
 ---
 ## Best Cast Iron Skillet for Camping: Portability and Heat Distribution
 
@@ -81,8 +80,4 @@ Always use caution when handling hot cast iron over a campfire. Wear heat-resist
 ### Alternative: Cast Iron Griddles
 
 For pancakes, smash burgers, or other flat cooking, consider the [`/products/b00008gkdn-lodge-round-seasoned-cast-iron-griddle-10-5-inches-round-sha/`](/products/b00008gkdn-lodge-round-seasoned-cast-iron-griddle-10-5-inches-round-sha/) Lodge Round Seasoned Cast Iron Griddle. These are typically lighter than a skillet of comparable diameter, and the shallow lip makes flipping easy. For larger groups, the Lodge Pro Grid Reversible Grill/Griddle offers even more cooking space.
-
-## Our picks worth a closer look
-
-- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
 

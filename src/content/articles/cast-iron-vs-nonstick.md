@@ -20,7 +20,6 @@ author: marcus-webb
 ---
 
 
-*CastIronCanon is reader-supported. When you buy through links on our site, we may earn an affiliate commission.*
 ---
 ## Cast Iron vs Nonstick: The Pros and Cons of Each for Everyday Cooking
 

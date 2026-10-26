@@ -1,0 +1,23 @@
+{
+  "domain": "kitchenwise.app",
+  "siteName": "KitchenWise",
+  "campaign": "cro2",
+  "offers": [
+    {
+      "id": "phonecase",
+      "eyebrow": "From our shop",
+      "headline": "A phone case for the cook in your life",
+      "body": "Pizza Paradise Cartoon Kitchen is one of the food-themed designs in our phone case shop OTOWN CUSTOMS. Free US shipping and free 30-day returns.",
+      "cta": "See the kitchen case",
+      "url": "https://otowncustoms.art/product/v4k-010636"
+    },
+    {
+      "id": "storyfawn",
+      "eyebrow": "From the team behind KitchenWise",
+      "headline": "A bedtime story starring the kids you cook for",
+      "body": "StoryFawn makes a personalized illustrated children's storybook. Digital copies start at $24, and you can preview the cover free before you decide.",
+      "cta": "Preview a cover free",
+      "url": "https://storyfawn.com/grandparent-gift-storybook.html"
+    }
+  ]
+}

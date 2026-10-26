@@ -21,7 +21,6 @@ author: marcus-webb
 
 For many home cooks, the journey from basic non-stick to durable, high-performance cookware eventually leads to a crossroads: carbon steel or cast iron? Both promise incredible longevity, a naturally non-stick surface built over time, and the kind of robust cooking performance that elevates everyday meals. But despite their similarities, these two workhorses of the kitchen have distinct personalities. As someone who’s spent years wrangling both in professional kitchens and now at home, I can tell you that understanding these differences is key to choosing the right tool for your culinary ambitions.
 
-*KitchenWise is reader-supported. When you buy through links on our site, we may earn an affiliate commission. Learn more about our rigorous testing process.*
 
 ### The Core Similarities: Why the Confusion?
 
@@ -85,11 +84,4 @@ Cast iron truly shines in
 
 - [Best air fryer 2024 in 2026](/articles/best-air-fryer-2024/)
 - [Best cast iron skillet in 2026](/articles/best-cast-iron-skillet/)
-
-## Our picks worth a closer look
-
-- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
-- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
-- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
-- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
 

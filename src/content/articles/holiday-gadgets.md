@@ -51,7 +51,3 @@ A: A good food processor saves hours of chopping and mixing—look for large-cap
 
 Ready to upgrade your kitchen for the holidays? Explore our [top-rated picks](/products/) for gadgets that deliver year after year.
 
-## Our picks worth a closer look
-
-- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
-

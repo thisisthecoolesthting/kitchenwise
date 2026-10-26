@@ -2,9 +2,11 @@
  * Build-time: fix dead Amazon P/ASIN images → curated images/I URLs or local pick path.
  */
 import { visit } from 'unist-util-visit';
+import { disableAmazon } from './site-flags.mjs';
 import { rewriteAmazonInlineImgSrc } from './amazon-inline-image-map.mjs';
 
 export function rehypeFixAmazonInline() {
+  if (disableAmazon) return () => {};
   return (tree) => {
     visit(tree, 'element', (node) => {
       if (node.tagName === 'img' && node.properties?.src) {

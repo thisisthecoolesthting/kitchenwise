@@ -3,7 +3,6 @@ import '@/styles/global.css';
 import Header from '@/components/Header.astro';
 import SkipLink from '@/components/SkipLink.astro';
 import Footer from '@/components/Footer.astro';
-import GlobalBottomAffiliateStrip from '@/components/GlobalBottomAffiliateStrip.astro';
 import type { SectionPage } from '@/lib/section-page';
 import home from '@/data/spawn-home.json';
 
@@ -17,13 +16,6 @@ const dmeta = (home as { defaultMetaDescription?: string }).defaultMetaDescripti
 const ga = (home as { analytics?: { ga_measurement_id?: string; ga_property_id?: string; search_console_property?: string } }).analytics;
 const gaMeasurementId = (ga?.ga_measurement_id || '').trim();
 
-// -- Ad injection: derive site slug for utm_source --------------------------
-const rawBrandName: string =
-  (home as { brand?: { shortName?: string; fullName?: string } }).brand?.shortName ||
-  (home as { brand?: { fullName?: string } }).brand?.fullName ||
-  (home as { siteSlug?: string }).siteSlug ||
-  'filtercycle';
-const adSiteSlug = rawBrandName.toLowerCase().replace(/[^a-z0-9-]/g, '');
 
 
 export interface Props {
@@ -134,10 +126,6 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
     {/* Shared events + subscribe handler (rcc-events.js) */}
     <script async src="https://rickyscontrolcenter.com/assets/rcc-events.js"></script>
 
-    {/* Ad injection system v3: slots.css reserves space (no CLS); inject.js fills slots at runtime */}
-    <link rel="stylesheet" href="/ads/slots.css" />
-    <script set:html={`window.__AD_SITE_SLUG__="${adSiteSlug}";`} />
-    <script src="https://ads.rickyscontrolcenter.com/inject.js" defer></script>
   </head>
   <body class="min-h-screen flex flex-col site-page-bg texture-paper">
     <SkipLink />
@@ -145,7 +133,6 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
     <main id="main-content" class="flex-1" tabindex="-1">
       <slot />
     </main>
-    <GlobalBottomAffiliateStrip />
     <Footer />
   </body>
 </html>

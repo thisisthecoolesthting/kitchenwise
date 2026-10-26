@@ -49,4 +49,3 @@ in 4 minutes 20 seconds — within 10% of the Jetboil's 4-minute performance.
 For a group of 4, the Pinnacle makes more sense: larger volume, a frying pan, and nesting
 bowls replace individual systems. Jetboil wins for speed and fuel efficiency for 1–2 people.
 
-<AffiliateCTA asin="B005DI3E7Q" label="Check current price on Amazon" />

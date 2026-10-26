@@ -20,7 +20,6 @@ author: marcus-webb
 ---
 
 
-*KitchenWise is reader-supported. When you buy through links on our site, we may earn an affiliate commission. This helps us keep the lights on and the ovens hot, so we can keep testing kitchen gear the way we believe it should be done: in a real kitchen, with real food, over many weeks.*
 
 Air fryers have become kitchen staples, promising crispy, delicious food with less oil. But beyond the basic functions, it's the subtle, often-overlooked features that truly elevate the user experience. These "quiet" features can be the difference between an air fryer that sits unused in a cupboard and one that becomes a daily workhorse. We've spent countless hours testing air fryers to identify the features that genuinely matter in everyday use, focusing on longevity and ease-of-use.
 ---
@@ -89,11 +88,4 @@ Counter space is a precious commodity in most kitchens. Look for an air fryer wi
 A longer cord provides more flexibility in terms of placement, allowing you to plug the air fryer into an outlet that is further away from your countertop. Cord storage is also a plus, allowing you to neatly tuck away the cord when the air fryer is not in use.
 
 By focusing on these quiet features, you can choose an air fryer that not only cooks delicious food but also simplifies your cooking experience and stands the test of time. Remember to compare models based on your specific needs and preferences, and don't be afraid to invest in a higher-quality air fryer that will last for years to come. You might even consider checking out our other articles on air fryers, like [air-fryers essentials for weekend projects](air-fryers essentials for weekend projects) or our general [cookware setup checklist for beginners](cookware setup checklist for beginners). After all, the right tools make all the difference in the kitchen.
-
-## Our picks worth a closer look
-
-- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
-- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
-- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
-- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
 

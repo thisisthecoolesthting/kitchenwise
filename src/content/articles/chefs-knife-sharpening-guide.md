@@ -20,7 +20,6 @@ author: marcus-webb
 ---
 
 
-*KitchenWise is reader-supported. When you buy through links on our site, we may earn an affiliate commission.*
 
 A dull chef's knife is more dangerous than a sharp one. Sounds counterintuitive, right? But a dull blade requires more force to cut, increasing the chance of slipping and causing injury. More than that, a sharp knife makes cooking *enjoyable*. Slicing through tomatoes without squishing them, effortlessly dicing onions, and achieving perfect cuts of meat – it all starts with a sharp edge.
 
@@ -122,11 +121,4 @@ Sharpening knives can be dangerous if not done properly. Here are some important
 *   **First Aid:** Keep a first-aid kit nearby in case of accidents.
 
 Learning to sharpen your chef's knife at home is a valuable skill that will improve your cooking experience and save you money in the long run. By following these steps and practicing regularly, you'll be able to maintain a razor-sharp edge on your favorite blade for years to come. And remember, a sharp knife isn't just a pleasure to use – it's also safer! Don't forget to check out our other guides, like our [knives buying mistakes to avoid](knives-buying-mistakes-to-avoid) article, for more tips on selecting and caring for your kitchen knives.
-
-## Our picks worth a closer look
-
-- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
-- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
-- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
-- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
 

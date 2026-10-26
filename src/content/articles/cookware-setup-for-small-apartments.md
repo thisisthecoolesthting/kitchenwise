@@ -20,7 +20,6 @@ author: marcus-webb
 ---
 
 
-*KitchenWise is reader-supported. When you buy through links on our site, we may earn an affiliate commission.*
 ---
 ## Cookware Setup Checklist for Small Apartments
 
@@ -95,11 +94,4 @@ While we haven't tested specific nesting sets yet, here are brands known for qua
 Remember to read reviews and compare features before making a purchase. Focus on finding cookware that meets your specific cooking needs and fits comfortably within your budget and storage space.
 
 By carefully selecting essential cookware, prioritizing space-saving designs, and implementing smart storage solutions, you can create a functional and efficient kitchen in even the smallest apartment.
-
-## Our picks worth a closer look
-
-- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
-- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
-- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
-- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
 

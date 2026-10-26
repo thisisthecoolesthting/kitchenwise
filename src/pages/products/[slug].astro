@@ -1,4 +1,5 @@
 ---
+import { disableAmazon } from '@/lib/site-flags.mjs';
 import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import AffiliateCTA from '@/components/AffiliateCTA.astro';
 import AuthorByline from '@/components/AuthorByline.astro';
@@ -6,6 +7,7 @@ import ProductImage from '@/components/ProductImage.astro';
 import { getCollection, getEntry } from 'astro:content';
 
 export async function getStaticPaths() {
+  if (disableAmazon) return []; // policy: no Amazon product pages
   const products = await getCollection('products', ({ data }) => data.status !== 'draft');
   return products.map((p) => ({
     params: { slug: p.slug },

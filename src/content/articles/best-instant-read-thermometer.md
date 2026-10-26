@@ -20,7 +20,6 @@ author: marcus-webb
 ---
 
 
-*KitchenWise is reader-supported. When you buy through links on our site, we may earn an affiliate commission.*
 
 Choosing the right instant-read thermometer can be the difference between a perfectly cooked roast and a dry, disappointing dinner. We’ve all been there – relying on visual cues only to slice into a chicken and find it’s still pink near the bone. An instant-read thermometer takes the guesswork out of cooking, ensuring your meat is not only safe to eat but also reaches its optimal flavor and texture. But with so many options on the market, how do you choose the best one? We purchased several popular models at retail and put them through rigorous testing, focusing on accuracy, speed, ease of use, and durability. Here's what we found.
 ---
@@ -106,11 +105,4 @@ While a good instant-read thermometer is essential, it's only one piece of the p
 Consider pairing your new instant-read thermometer with other essential tools like a high-quality [cast iron skillet](/cast-iron essentials for weekend projects) for searing or a reliable [air fryer](/air-fryers essentials for weekend projects) for crispy results. And don't forget a good [chef's knife](/knives buying mistakes to avoid) for precise slicing and dicing.
 
 With the right tools and techniques, you can consistently cook meat to perfection, impressing your family and friends with your culinary skills.
-
-## Our picks worth a closer look
-
-- **[Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)** — see current price and specs.
-- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
-- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
-- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
 

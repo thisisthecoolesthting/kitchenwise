@@ -3,6 +3,8 @@ import tailwind from '@astrojs/tailwind';
 import { rehypeFixAmazonInline } from './src/lib/rehype-fix-amazon-inline.mjs';
 import { rehypeInjectAmazonMidPicks } from './src/lib/rehype-inject-amazon-mid-picks.mjs';
 import { rehypeInjectPhonePromos } from './src/lib/rehype-inject-phone-promos.mjs';
+import { rehypeStripAmazon } from './src/lib/rehype-strip-amazon.mjs';
+import { disableAmazon } from './src/lib/site-flags.mjs';
 
 // Sitemap temporarily disabled — @astrojs/sitemap 3.x crashes with
 // our current route set. Re-enable once upstream ships a fix or we
@@ -17,6 +19,7 @@ import { rehypeInjectPhonePromos } from './src/lib/rehype-inject-phone-promos.mj
 const ASSOCIATE_TAG = process.env.PUBLIC_ASSOCIATE_TAG || 'kitchenwise-20';
 
 function rehypeAugmentProductLinks() {
+  if (disableAmazon) return () => {}; // policy: no Amazon CTAs
   const productHrefRe = /^\/products\/([a-z0-9]+)-/i;
 
   function walk(node) {
@@ -83,6 +86,7 @@ export default defineConfig({
       rehypeAugmentProductLinks,
       rehypeInjectAmazonMidPicks,
       rehypeInjectPhonePromos,
+      rehypeStripAmazon, // must run last: unwraps any remaining Amazon / dead /products links
     ],
     shikiConfig: {
       theme: 'github-light',
